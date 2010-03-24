@@ -1,0 +1,2012 @@
+ZDB-ANAT-070308-110	B cell	B lymphocyte	
+ZDB-ANAT-070308-110	B cell	B-cell	
+ZDB-ANAT-070308-110	B cell	B-lymphocyte	
+ZDB-ANAT-070308-220	Bergmann glial cell	Bergmann glial cells	
+ZDB-ANAT-070308-195	CAP motoneuron	CAP motoneurons	
+ZDB-ANAT-070308-151	CNS interneuron	CNS interneurons	
+ZDB-ANAT-070308-155	CNS long range interneuron	CNS long range interneurons	
+ZDB-ANAT-070308-50	CNS neuron (sensu Vertebrata)	CNS neurons (sensu Vertebrata)	
+ZDB-ANAT-070308-154	CNS short range interneuron	CNS short range interneurons	
+ZDB-ANAT-070308-235	Cajal-Retzius cell	Cajal-Retzius cells	
+ZDB-ANAT-070308-181	D cell	D cells	
+ZDB-ANAT-011113-94	DEL	deep cell layer	
+ZDB-ANAT-011113-94	DEL	DEL cells	
+ZDB-ANAT-011113-237	E-YSL	external yolk syncytial layer	
+ZDB-ANAT-010921-505	EVL	enveloping layer	
+ZDB-ANAT-070308-215	GABAergic neuron	GABAergic neurons	
+ZDB-ANAT-070308-70	GAG secreting cell	hyaluronic acid secreting cell	
+ZDB-ANAT-070308-52	Golgi cell	Golgi cells	
+ZDB-ANAT-011113-95	I-YSL	internal yolk syncytial layer	
+ZDB-ANAT-070308-82	Leydig cell	interstitial cell	
+ZDB-ANAT-070308-228	M cell	M cells	
+ZDB-ANAT-050711-2	Meckel's cartilage	ventral mandibular cartilage	
+ZDB-ANAT-070308-114	Merkel cell	Merkel cells	
+ZDB-ANAT-050915-161	Muller cell	Muller cells	
+ZDB-ANAT-070308-253	OFF-bipolar cell	OFF-bipolar cells	
+ZDB-ANAT-070308-252	ON-bipolar cell	ON-bipolar cells	
+ZDB-ANAT-070308-54	Purkinje cell	Purkinje cells	
+ZDB-ANAT-010921-407	Rohon-Beard neuron	RB neuron	
+ZDB-ANAT-010921-407	Rohon-Beard neuron	Rohon-Beard neurons	
+ZDB-ANAT-070308-104	Schwann cell	Schwann cells	
+ZDB-ANAT-070308-102	Sertoli cell	Sertoli cells	
+ZDB-ANAT-050915-145	T cell	T-lymphocyte	
+ZDB-ANAT-050915-145	T cell	T lymphocyte	
+ZDB-ANAT-050915-145	T cell	T-cell	
+ZDB-ANAT-070308-174	UV sensitive photoreceptor cell	UV sensitive photoreceptor cells	
+ZDB-ANAT-011113-387	Weberian ossicle	Weberian ossicles	
+ZDB-ANAT-050420-6	Weberian vertebra	Weberian vertebrae	
+ZDB-ANAT-010921-508	YSL	periblast	
+ZDB-ANAT-010921-508	YSL	yolk syncytial layer	
+ZDB-ANAT-011113-96	abducens motor nucleus	abducens nucleus	
+ZDB-ANAT-011113-96	abducens motor nucleus	motor nucleus VI	
+ZDB-ANAT-011113-96	abducens motor nucleus	abducens motor nuclei	
+ZDB-ANAT-011113-96	abducens motor nucleus	nVI	
+ZDB-ANAT-011113-388	abductor hyohyoid	abductors hyohyoid	
+ZDB-ANAT-011113-542	abductor profundus	abductors profundus	
+ZDB-ANAT-070308-98	absorptive cell	absorptive cells	
+ZDB-ANAT-011113-97	accessory pretectal nucleus	APN	
+ZDB-ANAT-011113-97	accessory pretectal nucleus	nucleus praetectalis accessorius	
+ZDB-ANAT-061101-5	acellular anatomical structure	acellular anatomical structures	
+ZDB-ANAT-070308-72	acid secreting cell	acid secreting cells	
+ZDB-ANAT-070308-216	acinar cell	acinar cells	
+ZDB-ANAT-060131-3	actinotrichium	actinotrichia	
+ZDB-ANAT-010921-408	adaxial cell	adaxial cells	
+ZDB-ANAT-011113-389	adductor	adductors	
+ZDB-ANAT-011113-543	adductor arcus palatini	adductors arcus palatini	
+ZDB-ANAT-011113-98	adductor hyohyoid	adductors hyohyoid	
+ZDB-ANAT-080417-129	adductor mandibulae	dorsal adductor mandibulae	
+ZDB-ANAT-011113-390	adductor operculi	adductor operculae	
+ZDB-ANAT-011113-544	adductor profundus	adductors profundus	
+ZDB-ANAT-050711-13	adenohypophyseal placode	pituitary placode	
+ZDB-ANAT-050711-9	adenohypophysis	anterior pituitary	
+ZDB-ANAT-050711-9	adenohypophysis	anterior hypophysis	
+ZDB-ANAT-070308-129	adrenal medulla cell	chromafin cell	
+ZDB-ANAT-070308-46	adrenergic neuron	adrenergic neurons	
+ZDB-ANAT-060816-71	adrenocorticotropic hormone secreting cell	adrenocorticotrophic hormone secreting cell	
+ZDB-ANAT-060816-71	adrenocorticotropic hormone secreting cell	corticotropin hormone secreting cell	
+ZDB-ANAT-060816-71	adrenocorticotropic hormone secreting cell	corticotrope	
+ZDB-ANAT-060816-71	adrenocorticotropic hormone secreting cell	corticotroph	
+ZDB-ANAT-060816-71	adrenocorticotropic hormone secreting cell	corticotrophin hormone secreting cell	
+ZDB-ANAT-011113-99	afferent branchial artery	ABA	
+ZDB-ANAT-050915-131	afferent filamental artery	afferent filamental arteries	
+ZDB-ANAT-050915-131	afferent filamental artery	AFA	
+ZDB-ANAT-050915-134	afferent lamellar arteriole	afferent lamellar arterioles	
+ZDB-ANAT-050915-134	afferent lamellar arteriole	AFL	
+ZDB-ANAT-070308-191	afferent neuron	input neuron	
+ZDB-ANAT-070308-159	alkali secreting cell	alkali secreting cells	
+ZDB-ANAT-070308-268	alpha-beta T cell	alpha-beta T-lymphocyte	
+ZDB-ANAT-070308-268	alpha-beta T cell	alpha-beta T lymphocyte	
+ZDB-ANAT-070308-268	alpha-beta T cell	alpha-beta T-cell	
+ZDB-ANAT-051116-41	amacrine cell	amacrine neuron	
+ZDB-ANAT-070308-19	ameloblast	ameloblasts	
+ZDB-ANAT-070308-64	amelocyte	amelocytes	
+ZDB-ANAT-070517-47	ampullary nerve	ampullary nerves	
+ZDB-ANAT-011113-391	anal depressor	anal depressors	
+ZDB-ANAT-011113-545	anal erector	anal erectors	
+ZDB-ANAT-011113-572	anal fin distal radial	anal fin distal radials	
+ZDB-ANAT-060331-46	anal fin lepidotrichium	anal fin ray	
+ZDB-ANAT-060331-46	anal fin lepidotrichium	anal fin lepidotrichia	
+ZDB-ANAT-011113-199	anal fin proximal radial	anal fin proximal radials	
+ZDB-ANAT-060331-45	anal fin pterygiophore	anal fin radial	
+ZDB-ANAT-080417-125	anal fin radial	anal fin radials	
+ZDB-ANAT-011113-240	anal inclinator	anal inclinators	
+ZDB-ANAT-080417-122	anatomical space	anatomical spaces	
+ZDB-ANAT-061101-2	anatomical structure	anatomical structures	
+ZDB-ANAT-060816-8	anatomical system	anatomical systems	
+ZDB-ANAT-070308-211	androgen secreting cell	androgen secreting cells	
+ZDB-ANAT-070308-201	angioblastic mesenchymal cell	angioblast	
+ZDB-ANAT-080417-124	angular bone	angular bones	
+ZDB-ANAT-011113-392	anguloarticular	articular	
+ZDB-ANAT-011113-546	ansulate commissure	commissura ansulata	
+ZDB-ANAT-011113-546	ansulate commissure	Cans	
+ZDB-ANAT-011113-546	ansulate commissure	ventral tegmental commissure	
+ZDB-ANAT-010921-409	anterior axial hypoblast	pre-polster	
+ZDB-ANAT-011113-349	anterior cardinal vein	rostral cardinal vein	
+ZDB-ANAT-011113-349	anterior cardinal vein	ACV	
+ZDB-ANAT-020702-6	anterior cerebral vein	ACeV	
+ZDB-ANAT-020702-6	anterior cerebral vein	rostral cerebral vein	
+ZDB-ANAT-050228-22	anterior commissure	commissura rostral	
+ZDB-ANAT-050228-22	anterior commissure	rostral commissure	
+ZDB-ANAT-050228-22	anterior commissure	commissura anterior	
+ZDB-ANAT-011113-547	anterior crista	anterior semicircular canal sensory patch	
+ZDB-ANAT-011113-547	anterior crista	ac	
+ZDB-ANAT-011113-547	anterior crista	anterior semicircular canal sensory patches	
+ZDB-ANAT-011113-547	anterior crista	anterior cristae	
+ZDB-ANAT-011113-547	anterior crista	rostral crista	
+ZDB-ANAT-011113-547	anterior crista	anterior crista ampullaris	
+ZDB-ANAT-011113-393	anterior crista primordium	anterior crista primordia	
+ZDB-ANAT-070928-180	anterior dorsomedial process of autopalatine	anterior dorsomedial process of autopalatines	
+ZDB-ANAT-061101-14	anterior lateral line	anterior lateral lines	
+ZDB-ANAT-060131-62	anterior lateral line ganglion	anterior lateral line ganglia	
+ZDB-ANAT-011113-350	anterior lateral line nerve	nervi lineae lateralis anterioris	
+ZDB-ANAT-011113-350	anterior lateral line nerve	ALLn	
+ZDB-ANAT-011113-350	anterior lateral line nerve	rostral lateral line nerve	
+ZDB-ANAT-061101-16	anterior lateral line neuromast	neuromast anterior	
+ZDB-ANAT-050915-119	anterior lateral line placode	anterior lateral line placodes	
+ZDB-ANAT-061211-21	anterior lateral line primordium	anterior lateral line primordia	
+ZDB-ANAT-051116-25	anterior lateral plate mesoderm	ALPM	
+ZDB-ANAT-011113-101	anterior macula	am	
+ZDB-ANAT-011113-101	anterior macula	anterior sensory patch	
+ZDB-ANAT-051116-36	anterior mesencephalic central artery	AMCtA	
+ZDB-ANAT-051116-36	anterior mesencephalic central artery	rostral mesencephalic central artery	
+ZDB-ANAT-060816-37	anterior mesenteric artery	rostral mesenteric artery	
+ZDB-ANAT-060816-37	anterior mesenteric artery	AMA	
+ZDB-ANAT-060331-52	anterior naris	anterior nares	
+ZDB-ANAT-060131-43	anterior pancreatic bud	ventral pancreatic anlage	
+ZDB-ANAT-060331-56	anterior sclerotic bone	anterior sclerotic bones	
+ZDB-ANAT-011113-241	anterior semicircular canal	rostral vertical semicircular canal	
+ZDB-ANAT-011113-241	anterior semicircular canal	anterior semicircular duct	
+ZDB-ANAT-011113-241	anterior semicircular canal	anterior semicircular canals	
+ZDB-ANAT-011113-394	anterior semicircular canal primordium	anterior semicircular canal primordia	
+ZDB-ANAT-050915-124	aortic arch	aortic arches	
+ZDB-ANAT-050915-125	aortic arch 1	AA1	
+ZDB-ANAT-050915-125	aortic arch 1	mandibular aortic arch	
+ZDB-ANAT-050915-126	aortic arch 2	AA2	
+ZDB-ANAT-050915-126	aortic arch 2	hyoid aortic arch	
+ZDB-ANAT-050915-127	aortic arch 3	AA3	
+ZDB-ANAT-050915-128	aortic arch 4	AA4	
+ZDB-ANAT-050915-129	aortic arch 5	AA5	
+ZDB-ANAT-050915-135	aortic arch 6	AA6	
+ZDB-ANAT-020309-116	apical ectodermal ridge pectoral fin	apical ectodermal ridge pectoral fins	
+ZDB-ANAT-010921-504	apical ectodermal ridge pectoral fin bud	apical ectodermal ridge pectoral fin buds	
+ZDB-ANAT-060816-19	apical ectodermal ridge pelvic fin	apical ectodermal ridge pelvic fins	
+ZDB-ANAT-060131-56	apical ectodermal ridge pelvic fin bud	apical ectodermal ridge pelvic fin buds	
+ZDB-ANAT-070928-184	apical epidermal cap	apical epidermal caps	
+ZDB-ANAT-010921-411	artery	arterial system	
+ZDB-ANAT-080417-123	articular cartilage	articular cartilages	
+ZDB-ANAT-011113-242	asteriscus	lagenolith	
+ZDB-ANAT-011113-242	asteriscus	lagenar otolith	
+ZDB-ANAT-050915-160	astrocyte	astrocytes	
+ZDB-ANAT-051116-2	atrioventricular canal	AV canal	
+ZDB-ANAT-060331-63	atrioventricular node	AV node	
+ZDB-ANAT-060331-66	atrioventricular ring	AV ring	
+ZDB-ANAT-070517-9	atypical epithelium	atypical epithelia	
+ZDB-ANAT-070517-16	auditory capsule	otic capsule	
+ZDB-ANAT-070308-91	auditory receptor cell	auditory receptor cells	
+ZDB-ANAT-070928-176	autonomic nervous system	ANS	
+ZDB-ANAT-070308-44	autonomic neuron	autonomic neurons	
+ZDB-ANAT-011113-549	autopalatine	palatine	
+ZDB-ANAT-010921-512	axial chorda mesoderm	chordamesoderm	
+ZDB-ANAT-010921-512	axial chorda mesoderm	presumptive notochord	
+ZDB-ANAT-050228-36	axial fin skeleton	unpaired fin skeleton	
+ZDB-ANAT-010921-513	axis	midline	
+ZDB-ANAT-010921-413	ball	yolk ball	
+ZDB-ANAT-060331-80	band form neutrophil	band form	
+ZDB-ANAT-060331-80	band form neutrophil	stab cell	
+ZDB-ANAT-060331-80	band form neutrophil	band cell	
+ZDB-ANAT-060331-80	band form neutrophil	band	
+ZDB-ANAT-060331-80	band form neutrophil	rod neutrophil	
+ZDB-ANAT-011113-550	barbel	barble	
+ZDB-ANAT-070517-30	barbel primordium	barbel primordia	
+ZDB-ANAT-070308-101	barrier cell	barrier cells	
+ZDB-ANAT-070308-27	barrier epithelial cell	barrier epithelial cells	
+ZDB-ANAT-050915-120	basal communicating artery	BCA	
+ZDB-ANAT-070517-1	basal lamina	basal laminae	
+ZDB-ANAT-060331-50	basal plate cartilage	basal plate cartilages	
+ZDB-ANAT-020309-139	basal plate midbrain	floor plate midbrain	
+ZDB-ANAT-020309-139	basal plate midbrain	floorplate midbrain	
+ZDB-ANAT-070928-186	basal regeneration epithelium	basal wound epidermis	
+ZDB-ANAT-011113-104	basibranchial	basibranchials	
+ZDB-ANAT-060331-5	basidorsal	arcualia	
+ZDB-ANAT-011113-243	basihyal	glossohyal	
+ZDB-ANAT-011113-243	basihyal	basihyoid	
+ZDB-ANAT-050915-122	basilar artery	BA	
+ZDB-ANAT-011113-551	basipterygium	pelvic bone	
+ZDB-ANAT-070928-141	basipterygium cartilage	basipterygium cartilages	
+ZDB-ANAT-060331-10	basiventral	arcualia	
+ZDB-ANAT-070308-51	basket cell	basket cells	
+ZDB-ANAT-070308-167	biogenic amine secreting cell	biogenic amine secreting cells	
+ZDB-ANAT-051116-45	bipolar neuron	bipolar neurons	
+ZDB-ANAT-070308-140	blastemal cell	blastemal cells	
+ZDB-ANAT-070308-139	blastoderm cell	blastomere	
+ZDB-ANAT-010921-514	blastomere	blastomeres	
+ZDB-ANAT-070308-34	blood cell	blood cells	
+ZDB-ANAT-010921-515	blood island	posterior blood island	
+ZDB-ANAT-010921-515	blood island	caudal hematopoietic tissue	
+ZDB-ANAT-010921-515	blood island	posterior ICM	
+ZDB-ANAT-010921-515	blood island	blood islands	
+ZDB-ANAT-050915-152	blood vessel endothelial cell	blood vessel endothelial cells	
+ZDB-ANAT-070308-175	blue sensitive photoreceptor cell	blue sensitive photoreceptor cells	
+ZDB-ANAT-070928-116	bone	bones	
+ZDB-ANAT-080417-116	bony projection	bony projections	
+ZDB-ANAT-010921-415	brain	brain structure	
+ZDB-ANAT-011113-245	brain stem and spinal tract/commissure	brain stem/spinal tracts and commissures	
+ZDB-ANAT-011113-553	branchial bar	branchial bars	
+ZDB-ANAT-081013-25	branchial mesenchyme	gill mesenchyme	
+ZDB-ANAT-011113-106	branchial muscle	branchial muscles	
+ZDB-ANAT-011113-246	branchiostegal membrane	branchiostegal membranes	
+ZDB-ANAT-011113-400	branchiostegal ray	branchiostegal rays	
+ZDB-ANAT-050711-87	branchiostegal ray 1	branchiostegal rays 1	
+ZDB-ANAT-050711-89	branchiostegal ray 2	branchiostegal rays 2	
+ZDB-ANAT-050711-88	branchiostegal ray 3	branchiostegal rays 3	
+ZDB-ANAT-070308-111	brush border epithelial cell	brush border epithelial cells	
+ZDB-ANAT-011113-554	bulbo-spinal tract	tractus bulbospinalis	
+ZDB-ANAT-011113-107	bulbus arteriosus	outflow tract	
+ZDB-ANAT-011113-107	bulbus arteriosus	cardiac outflow tract	
+ZDB-ANAT-011113-107	bulbus arteriosus	truncus	
+ZDB-ANAT-060131-73	bulbus arteriosus inner layer	bulbus arteriosus intima	
+ZDB-ANAT-060131-72	bulbus arteriosus middle layer	bulbus arteriosus media	
+ZDB-ANAT-060131-71	bulbus arteriosus outer layer	bulbus arteriosus externa	
+ZDB-ANAT-070308-161	calcitonin secreting cell	calcitonin secreting cells	
+ZDB-ANAT-060331-61	cardiac conduction system	central conduction system	
+ZDB-ANAT-070308-202	cardiac mesenchymal cell	cardiac mesenchymal cells	
+ZDB-ANAT-070308-249	cardiac muscle cell	cardiac muscle cells	
+ZDB-ANAT-070308-187	cardiac muscle myoblast	cardioblast	
+ZDB-ANAT-010921-416	cardiac ventricle	ventricle	
+ZDB-ANAT-070517-17	cartilage	cartilages	
+ZDB-ANAT-010921-418	caudal artery	CA	
+ZDB-ANAT-011113-108	caudal cerebellar tract	caudal cerebellar tracts	
+ZDB-ANAT-011113-247	caudal commissure	posterior commissure	
+ZDB-ANAT-020702-1	caudal division of the internal carotid artery	CaDI	
+ZDB-ANAT-020702-16	caudal fin	tail	
+ZDB-ANAT-020702-16	caudal fin	tail fin	
+ZDB-ANAT-070928-152	caudal fin lepidotrichium	caudal fin ray	
+ZDB-ANAT-070928-152	caudal fin lepidotrichium	caudal fin lepidotrichia	
+ZDB-ANAT-080417-84	caudal fin lower lobe	caudal fin ventral lobe	
+ZDB-ANAT-080417-83	caudal fin upper lobe	caudal fin dorsal lobe	
+ZDB-ANAT-011113-248	caudal levator	caudal levators	
+ZDB-ANAT-011113-403	caudal mesencephalo-cerebellar tract	posterior mesencephalo-cerebellar tract	
+ZDB-ANAT-011113-557	caudal motor nucleus	nVIc	
+ZDB-ANAT-011113-557	caudal motor nucleus	nucleus nervi abducentis, pars caudalis	
+ZDB-ANAT-011113-110	caudal oblique	caudal obliques	
+ZDB-ANAT-011113-249	caudal octaval nucleus	caudal octaval nuclei	
+ZDB-ANAT-011113-404	caudal octavolateralis nucleus	nucleus octavolateralis caudalis	
+ZDB-ANAT-011113-558	caudal parvocellular preoptic nucleus	caudal parvocellular preoptic nuclei	
+ZDB-ANAT-011113-558	caudal parvocellular preoptic nucleus	posterior parvocellular preoptic nucleus	
+ZDB-ANAT-011113-250	caudal periventricular hypothalamus	caudal zone of periventricular hypothalamus	
+ZDB-ANAT-011113-250	caudal periventricular hypothalamus	nucleus periventricularis hypothalami, zona caudalis	
+ZDB-ANAT-011113-405	caudal preglomerular nucleus	nucleus praeglomerulosus caudalis	
+ZDB-ANAT-011113-559	caudal pretectal nucleus	posterior pretectal nucleus	
+ZDB-ANAT-011113-559	caudal pretectal nucleus	caudal pretectal nuclei	
+ZDB-ANAT-071024-7	caudal principal ray	caudal principal lepidotrichium	
+ZDB-ANAT-071024-6	caudal procurrent ray	caudal procurrent lepidotrichium	
+ZDB-ANAT-011113-112	caudal root of abducens nerve	radix caudalis nervi abducentis	
+ZDB-ANAT-011113-251	caudal thalamic nucleus	posterior thalamic nucleus	
+ZDB-ANAT-011113-406	caudal tuberal nucleus	posterior tuberal nucleus	
+ZDB-ANAT-011113-560	caudal tuberculum	posterior tuberculum	
+ZDB-ANAT-011113-560	caudal tuberculum	posterior tubercle	
+ZDB-ANAT-011113-113	caudal vein	CV	
+ZDB-ANAT-011113-252	caudal vertebra	caudal vertebrae	
+ZDB-ANAT-011113-114	caudal zone of dorsal telencephalon	caudal zone of D	
+ZDB-ANAT-011113-114	caudal zone of dorsal telencephalon	area dorsalis telencephali, zona posterior	
+ZDB-ANAT-011113-114	caudal zone of dorsal telencephalon	posterior zone of dorsal telencephalic area	
+ZDB-ANAT-070517-6	cavitated compound organ	cavitated compound organs	
+ZDB-ANAT-060816-76	cell	cells	
+ZDB-ANAT-070308-21	cementoblast	cementoblasts	
+ZDB-ANAT-070308-66	cementocyte	cementocytes	
+ZDB-ANAT-050915-138	central artery	CtA	
+ZDB-ANAT-020309-300	central canal	canalis centralis	
+ZDB-ANAT-020309-300	central canal	neural lumen	
+ZDB-ANAT-011113-115	central caudal thalamic nucleus	nucleus centralis posterior thalami	
+ZDB-ANAT-011113-115	central caudal thalamic nucleus	central posterior thalamic nucleus	
+ZDB-ANAT-010921-420	central nervous system	cns	
+ZDB-ANAT-011113-409	central nucleus inferior lobe	central nucleus of the inferior lobe	
+ZDB-ANAT-011113-409	central nucleus inferior lobe	central nucleus inferior lobes	
+ZDB-ANAT-011113-409	central nucleus inferior lobe	nucleus centralis lobi inferioris hypothalami	
+ZDB-ANAT-081013-43	central nucleus of ventral telencephalon	area ventralis telencephali, nucleus centralis	
+ZDB-ANAT-020309-2	central nucleus torus semicircularis	central nucleus of semicircular torus	
+ZDB-ANAT-020309-2	central nucleus torus semicircularis	nucleus centralis tori semicircularis	
+ZDB-ANAT-011113-562	central pretectal nucleus	nucleus praetectalis centralis	
+ZDB-ANAT-060816-55	central ray artery	central ray arteries	
+ZDB-ANAT-011113-410	central zone of dorsal telencephalon	area dorsalis telencephali, zona centralis	
+ZDB-ANAT-011113-410	central zone of dorsal telencephalon	central zone of D	
+ZDB-ANAT-060331-2	centrum	autocentrum	
+ZDB-ANAT-080417-119	cephalic flexure	ventral flexure	
+ZDB-ANAT-011113-255	cephalic musculature	head muscles	
+ZDB-ANAT-011113-79	ceratobranchial 5 tooth	teeth	
+ZDB-ANAT-011113-79	ceratobranchial 5 tooth	pharyngeal tooth	
+ZDB-ANAT-011113-79	ceratobranchial 5 tooth	tooth	
+ZDB-ANAT-011113-411	ceratobranchial bone	ceratobranchial bones	
+ZDB-ANAT-070928-118	ceratobranchial cartilage	ceratobranchial cartilages	
+ZDB-ANAT-011113-505	ceratohyal bone	ceratohyal anterior	
+ZDB-ANAT-011113-505	ceratohyal bone	anterior ceratohyal	
+ZDB-ANAT-011113-505	ceratohyal bone	rostral ceratohyal	
+ZDB-ANAT-050915-139	cerebellar central artery	CCtA	
+ZDB-ANAT-011113-563	cerebellar crest	crista cerebellaris	
+ZDB-ANAT-080417-105	cerebral spinal fluid	CSF	
+ZDB-ANAT-070308-230	cerebrospinal fluid secreting cell	cerebrospinal fluid secreting cells	
+ZDB-ANAT-070308-93	chemoreceptor cell	chemoreceptor cells	
+ZDB-ANAT-070308-45	cholinergic neuron	cholinergic neurons	
+ZDB-ANAT-050915-153	chondroblast	chondroblasts	
+ZDB-ANAT-060331-49	chondrocranium	chondocranium	
+ZDB-ANAT-060331-49	chondrocranium	neurocranium	
+ZDB-ANAT-060816-30	chondrocranium cartilage	neurocranium cartilage	
+ZDB-ANAT-050915-154	chondrocyte	chondrocytes	
+ZDB-ANAT-030922-13	choroid fissure	choroid fissures	
+ZDB-ANAT-070308-238	choroid plexus epithelial cell	choroid plexus epithelial cells	
+ZDB-ANAT-060816-14	choroid plexus tectal ventricle	choroid plexus tectal ventricles	
+ZDB-ANAT-070308-137	choroidal cell	choroidal cells	
+ZDB-ANAT-060816-51	choroidal vascular plexus	CVP	
+ZDB-ANAT-050915-151	chromaffin cell	phaeochromocyte	
+ZDB-ANAT-050711-18	ciliary body	ciliary bodies	
+ZDB-ANAT-050915-94	ciliary marginal zone	CMZ	
+ZDB-ANAT-050915-94	ciliary marginal zone	circumferential germinal zone	
+ZDB-ANAT-070308-23	ciliated cell	ciliated cells	
+ZDB-ANAT-070308-26	ciliated epithelial cell	ciliated epithelial cells	
+ZDB-ANAT-070308-290	ciliated olfactory receptor neuron	ciliated sensory neuron	
+ZDB-ANAT-070308-290	ciliated olfactory receptor neuron	ciliated olfactory sensory neuron	
+ZDB-ANAT-070308-33	circulating cell	circulating cells	
+ZDB-ANAT-011113-117	cleithrum	cleithra	
+ZDB-ANAT-060816-7	coelom	body cavity	
+ZDB-ANAT-070308-225	collagen secreting cell	collagen secreting cells	
+ZDB-ANAT-050420-31	collagenous dermal stroma	primary dermal stroma	
+ZDB-ANAT-070308-247	columnar chondrocyte	columnar chondrocytes	
+ZDB-ANAT-070308-28	columnar/cuboidal epithelial cell	columnar/cuboidal epithelial cells	
+ZDB-ANAT-011113-413	commissura cerebelli	cerebellar commissure	
+ZDB-ANAT-011113-565	commissura rostral, pars dorsalis	commissura anterior, pars dorsalis	
+ZDB-ANAT-011113-118	commissura rostral, pars ventralis	commissura anterior, pars ventralis	
+ZDB-ANAT-011113-258	commissure infima of Haller	commissura infima of Haller	
+ZDB-ANAT-011113-258	commissure infima of Haller	commissura infima Halleri	
+ZDB-ANAT-011113-414	commissure of the caudal tuberculum	commissure of the posterior tuberculum	
+ZDB-ANAT-011113-414	commissure of the caudal tuberculum	commissura tuberculi posterioris	
+ZDB-ANAT-011113-566	commissure of the secondary gustatory nuclei	commissura nucleorum gustatoriorum secundariorum	
+ZDB-ANAT-011113-119	common cardinal vein	duct of Cuvier	
+ZDB-ANAT-050915-142	common lymphocyte progenitor	early lymphocyte progenitor	
+ZDB-ANAT-050915-142	common lymphocyte progenitor	ELP	
+ZDB-ANAT-050915-142	common lymphocyte progenitor	committed lymphopoietic stem cell	
+ZDB-ANAT-050915-142	common lymphocyte progenitor	CLP	
+ZDB-ANAT-050915-142	common lymphocyte progenitor	lymphoid stem cell	
+ZDB-ANAT-050915-142	common lymphocyte progenitor	lymphopoietic stem cell	
+ZDB-ANAT-060331-73	common myeloid progenitor	pluripotent stem cell (bone marrow)	
+ZDB-ANAT-060331-73	common myeloid progenitor	multipotential myeloid stem cell	
+ZDB-ANAT-060331-73	common myeloid progenitor	colony forming unit granulocyte, erythrocyte, macrophage, and megakaryocyte	
+ZDB-ANAT-060331-73	common myeloid progenitor	CMP	
+ZDB-ANAT-060331-73	common myeloid progenitor	myeloid stem cell	
+ZDB-ANAT-051116-35	communicating vessel palatocerebral artery	communicating vessels	
+ZDB-ANAT-051116-35	communicating vessel palatocerebral artery	CMV	
+ZDB-ANAT-061101-6	compound organ	organ	
+ZDB-ANAT-070517-5	compound organ component	compound organ components	
+ZDB-ANAT-050915-132	concurrent branch afferent branchial artery	CCB	
+ZDB-ANAT-070308-255	cone retinal bipolar cell	cone retinal bipolar cells	
+ZDB-ANAT-080417-130	constrictor dorsalis	constrictors dorsalis	
+ZDB-ANAT-050711-33	copula	copulae	
+ZDB-ANAT-011113-259	coracoid	scapulocoracoid	
+ZDB-ANAT-011113-259	coracoid	coracoids	
+ZDB-ANAT-011113-567	cornea	corneas	
+ZDB-ANAT-070308-59	corneal endothelial cell	corneal endothelial cells	
+ZDB-ANAT-070308-206	corneal epithelial cell	corneal epithelial cells	
+ZDB-ANAT-050711-82	coronomeckelian	sesamoid articular	
+ZDB-ANAT-011113-120	corpus cerebelli	cerebellar corpus	
+ZDB-ANAT-011113-260	corpus mamillare	mammillary body	
+ZDB-ANAT-060816-27	cranial cartilage	cranial cartilages	
+ZDB-ANAT-020702-17	cranial division of the internal carotid artery	CrDI	
+ZDB-ANAT-020702-17	cranial division of the internal carotid artery	rostral division of the internal carotid artery	
+ZDB-ANAT-010921-422	cranial ganglion	presumptive cranial ganglia	
+ZDB-ANAT-010921-422	cranial ganglion	cranial ganglia	
+ZDB-ANAT-011113-568	cranial nerve	cranial nerves	
+ZDB-ANAT-011113-180	cranial nerve I	olfactory nerve	
+ZDB-ANAT-011113-180	cranial nerve I	CN-I	
+ZDB-ANAT-011113-36	cranial nerve II	optic nerve	
+ZDB-ANAT-011113-36	cranial nerve II	CN-II	
+ZDB-ANAT-011113-36	cranial nerve II	optic	
+ZDB-ANAT-011113-33	cranial nerve III	oculomotor nerve	
+ZDB-ANAT-011113-33	cranial nerve III	CN-III	
+ZDB-ANAT-011113-33	cranial nerve III	occulomotor	
+ZDB-ANAT-011113-528	cranial nerve IV	CN-IV	
+ZDB-ANAT-011113-528	cranial nerve IV	trochlear nerve	
+ZDB-ANAT-011113-528	cranial nerve IV	trochlear	
+ZDB-ANAT-011113-594	cranial nerve IX	glossopharyngeal nerve	
+ZDB-ANAT-011113-594	cranial nerve IX	CN-IX	
+ZDB-ANAT-011113-594	cranial nerve IX	nervus glossopharyngeus	
+ZDB-ANAT-011113-81	cranial nerve V	trigeminal nerve	
+ZDB-ANAT-011113-81	cranial nerve V	CN-V	
+ZDB-ANAT-011113-238	cranial nerve VI	abducens nerve	
+ZDB-ANAT-011113-238	cranial nerve VI	nervus abducens	
+ZDB-ANAT-011113-238	cranial nerve VI	CN-VI	
+ZDB-ANAT-011113-589	cranial nerve VII	facial nerve	
+ZDB-ANAT-011113-589	cranial nerve VII	nervus facialis	
+ZDB-ANAT-011113-589	cranial nerve VII	CN-VII	
+ZDB-ANAT-011113-179	cranial nerve VIII	octaval nerve	
+ZDB-ANAT-011113-179	cranial nerve VIII	statoacoustic nerve	
+ZDB-ANAT-011113-179	cranial nerve VIII	CN-VIII	
+ZDB-ANAT-011113-179	cranial nerve VIII	auditory nerve	
+ZDB-ANAT-011113-377	cranial nerve X	vagus nerve	
+ZDB-ANAT-011113-377	cranial nerve X	CN-X	
+ZDB-ANAT-011113-377	cranial nerve X	vagal nerve	
+ZDB-ANAT-070308-3	cranial neural crest cell	cranial neural crest cells	
+ZDB-ANAT-050711-76	cranial vasculature	head vasculature	
+ZDB-ANAT-020309-117	cranium	cranial skeleton	
+ZDB-ANAT-011113-261	crossed tecto-bulbar tract	tractus tectobulbaris cruciatus	
+ZDB-ANAT-070308-292	crypt olfactory receptor neuron	crypt olfactory sensory neuron	
+ZDB-ANAT-070308-292	crypt olfactory receptor neuron	crypt cell	
+ZDB-ANAT-070308-292	crypt olfactory receptor neuron	crypt sensory neuron	
+ZDB-ANAT-070308-250	cyanophore	blue chromatophore	
+ZDB-ANAT-061101-17	deep blastomere	deep blastomeres	
+ZDB-ANAT-011113-417	deep white zone	deep white zones	
+ZDB-ANAT-070308-164	dendritic cell	veiled cell	
+ZDB-ANAT-070308-164	dendritic cell	interdigitating cell	
+ZDB-ANAT-070517-37	dental epithelium	dental epithelia	
+ZDB-ANAT-070517-41	dental organ	enamel organ	
+ZDB-ANAT-070517-43	dental papilla	tooth mesenchyme	
+ZDB-ANAT-070517-43	dental papilla	pharyngeal tooth mesenchyme	
+ZDB-ANAT-070308-135	dental papilla cell	dental papilla cells	
+ZDB-ANAT-011113-570	dental plate	dental plates	
+ZDB-ANAT-011113-123	dentary	dentary bone	
+ZDB-ANAT-071024-12	dermal bone	dermal bones	
+ZDB-ANAT-050420-28	dermal deep region	stratum compactum	
+ZDB-ANAT-050420-29	dermal superficial region	stratum laxum	
+ZDB-ANAT-020309-232	dermatocranium	dermal bone cranium	
+ZDB-ANAT-070517-29	dermomyotome	dermomyotomes	
+ZDB-ANAT-011113-571	descending octaval nucleus	nucleus octavus descendens	
+ZDB-ANAT-011113-124	descending trigeminal root	radix descendens nervi trigemini	
+ZDB-ANAT-011113-125	diffuse nuclei	diffuse nuclei	
+ZDB-ANAT-070308-171	digestive enzyme secreting cell	digestive enzyme secreting cells	
+ZDB-ANAT-011113-420	dilator operculi	dilators operculi	
+ZDB-ANAT-060331-64	distal conduction system	His-Purkinje system	
+ZDB-ANAT-060331-64	distal conduction system	His-Purkinji network	
+ZDB-ANAT-060331-64	distal conduction system	HPS	
+ZDB-ANAT-080417-101	distal early tubule	distal early tubules	
+ZDB-ANAT-070928-185	distal epidermal cap	distal epidermal caps	
+ZDB-ANAT-080417-103	distal late tubule	distal late tubules	
+ZDB-ANAT-060816-77	dopaminergic neuron	dopaminergic neurons	
+ZDB-ANAT-011113-126	dorsal accessory optic nucleus	nucleus opticus accessorius dorsalis	
+ZDB-ANAT-060131-1	dorsal actinotrichium	dorsal actinotrichia	
+ZDB-ANAT-080417-133	dorsal adductor hyomandibulae	dorsal adductors hyomandibulae	
+ZDB-ANAT-050915-116	dorsal anterior lateral line ganglion	anterodorsal lateral line ganglion	
+ZDB-ANAT-061101-24	dorsal anterior lateral line nerve	dorsal anterior lateral line nerves	
+ZDB-ANAT-010921-424	dorsal aorta	dorsal aortic root	
+ZDB-ANAT-010921-424	dorsal aorta	DA	
+ZDB-ANAT-011113-421	dorsal arrector	dorsal arrectors	
+ZDB-ANAT-060816-39	dorsal branch nasal ciliary artery	dorsal branch nasal ciliary arteries	
+ZDB-ANAT-011113-573	dorsal caudal thalamic nucleus	nucleus dorsalis posterior thalami	
+ZDB-ANAT-011113-573	dorsal caudal thalamic nucleus	dorsal posterior thalamic nucleus	
+ZDB-ANAT-051116-14	dorsal ciliary vein	DCV	
+ZDB-ANAT-011113-127	dorsal depressor	dorsal depressors	
+ZDB-ANAT-011113-266	dorsal entopeduncular nucleus of ventral telencephalon	entopeduncular nucleus, dorsal part	
+ZDB-ANAT-011113-266	dorsal entopeduncular nucleus of ventral telencephalon	nucleus entopeduncularis, pars dorsalis	
+ZDB-ANAT-011113-422	dorsal erector	dorsal erectors	
+ZDB-ANAT-020309-3	dorsal fin distal radial	dorsal fin distal radials	
+ZDB-ANAT-060331-43	dorsal fin lepidotrichium	dorsal fin lepidotrichia	
+ZDB-ANAT-060331-43	dorsal fin lepidotrichium	dorsal fin ray	
+ZDB-ANAT-020309-310	dorsal fin proximal radial	dorsal fin proximal radials	
+ZDB-ANAT-060331-44	dorsal fin pterygiophore	dorsal fin support	
+ZDB-ANAT-080417-126	dorsal fin radial	dorsal fin radials	
+ZDB-ANAT-011113-267	dorsal flexor	dorsal flexors	
+ZDB-ANAT-011113-423	dorsal funiculus	funiculus dorsalis	
+ZDB-ANAT-011113-575	dorsal horn spinal cord	dorsal horn	
+ZDB-ANAT-011113-575	dorsal horn spinal cord	cornu dorsale	
+ZDB-ANAT-060331-26	dorsal hyoid arch	dorsal visceral arch 2	
+ZDB-ANAT-011113-128	dorsal hypohyal	dorsal hypohyals	
+ZDB-ANAT-011113-268	dorsal inclinator	dorsal inclinators	
+ZDB-ANAT-061211-16	dorsal lateral line	dorsal lateral lines	
+ZDB-ANAT-061211-17	dorsal lateral line neuromast	neuromast dorsal	
+ZDB-ANAT-050915-85	dorsal longitudinal anastomotic vessel	DLAV	
+ZDB-ANAT-051116-15	dorsal longitudinal vein	DLV	
+ZDB-ANAT-011113-576	dorsal motor root of V	dorsal motor roots of V	
+ZDB-ANAT-011113-129	dorsal nucleus	dorsal nuclei	
+ZDB-ANAT-011113-269	dorsal nucleus of ventral telencephalon	area ventralis telencephali, nucleus dorsalis	
+ZDB-ANAT-011113-269	dorsal nucleus of ventral telencephalon	dorsal nucleus of V	
+ZDB-ANAT-011113-425	dorsal oblique branchial muscle	dorsal oblique branchial muscles	
+ZDB-ANAT-020309-118	dorsal oblique extraocular muscle	dorsal oblique extraocular muscles	
+ZDB-ANAT-011113-577	dorsal pelvic arrector	dorsal pelvic arrectors	
+ZDB-ANAT-011113-270	dorsal rectus	dorsal recti	
+ZDB-ANAT-011113-426	dorsal retractor	dorsal retractors	
+ZDB-ANAT-011113-578	dorsal root	radix dorsalis	
+ZDB-ANAT-011113-131	dorsal root ganglion	DRG	
+ZDB-ANAT-011113-131	dorsal root ganglion	dorsal root ganglia	
+ZDB-ANAT-011113-271	dorsal tegmental nucleus	nucleus tegmentalis dorsalis	
+ZDB-ANAT-011113-427	dorsal telencephalon	area dorsalis telencephali	
+ZDB-ANAT-011113-427	dorsal telencephalon	dorsal telencephalic area	
+ZDB-ANAT-011113-579	dorsal thalamus	thalamus, pars dorsalis	
+ZDB-ANAT-050228-51	dorsal tooth row	dorsal tooth rows	
+ZDB-ANAT-011113-428	dorsal zone of dorsal telencephalon	dorsal zone of D	
+ZDB-ANAT-011113-428	dorsal zone of dorsal telencephalon	dorsal zone of dorsal telencephalic area	
+ZDB-ANAT-011113-428	dorsal zone of dorsal telencephalon	area dorsalis telencephali, zona dorsalis	
+ZDB-ANAT-060331-69	dorso-rostral cluster	drc	
+ZDB-ANAT-060331-69	dorso-rostral cluster	dorsorostral cluster	
+ZDB-ANAT-080417-140	dorsolateral field	dorsolateral fields	
+ZDB-ANAT-050915-115	dorsolateral placode	dorsolateral placodes	
+ZDB-ANAT-011113-580	dorsomedial optic tract	tractus opticus dorsomedialis	
+ZDB-ANAT-060131-6	dorsoventral diencephalic tract	DVDT	
+ZDB-ANAT-070308-2	early embryonic cell	early embryonic cells	
+ZDB-ANAT-070308-106	ectodermal cell	ectoderm cell	
+ZDB-ANAT-011113-581	ectopterygoid	ectopterygoids	
+ZDB-ANAT-011113-133	efferent branchial artery	EBA	
+ZDB-ANAT-050915-136	efferent filamental artery	EFA	
+ZDB-ANAT-050915-137	efferent lamellar arteriole	ELA	
+ZDB-ANAT-050915-137	efferent lamellar arteriole	efferent lamellar arterioles	
+ZDB-ANAT-070308-192	efferent neuron	output neuron	
+ZDB-ANAT-070308-97	electrically active cell	electrically active cells	
+ZDB-ANAT-070308-150	electrically responsive cell	electrically responsive cells	
+ZDB-ANAT-070308-153	electrically signaling cell	electrically signaling cells	
+ZDB-ANAT-050228-2	embryonic structure	embryonic structures	
+ZDB-ANAT-070517-45	enameloid	enamel	
+ZDB-ANAT-051116-3	endocardial cushion	endocardial cushions	
+ZDB-ANAT-071024-13	endochondral bone	endochondral bones	
+ZDB-ANAT-060816-68	endocrine cell	endocrine cells	
+ZDB-ANAT-050711-7	endocrine pancreas	pancreatic islet	
+ZDB-ANAT-070308-108	endodermal cell	endoderm cell	
+ZDB-ANAT-070308-185	endorphin secreting cell	endorphin secreting cells	
+ZDB-ANAT-070308-49	endothelial cell	endothelial cells	
+ZDB-ANAT-070308-237	endothelial tip cell	endothelial tip cells	
+ZDB-ANAT-080417-118	endothelium	endothelia	
+ZDB-ANAT-070308-184	enkephalin secreting cell	enkephalin secreting cells	
+ZDB-ANAT-070308-209	enterocyte	enterocytes	
+ZDB-ANAT-070308-73	enteroendocrine cell	enteroendocrine cells	
+ZDB-ANAT-011113-582	entopterygoid	endopterygoid	
+ZDB-ANAT-011113-582	entopterygoid	mesopterygoid	
+ZDB-ANAT-031211-12	epaxial myotome region	epaxial myotome regions	
+ZDB-ANAT-070308-24	ependymal cell	ependymocyte	
+ZDB-ANAT-070308-229	ependymoglial cell	ependymoglial cells	
+ZDB-ANAT-050711-58	epibranchial 3 bone	infrapharyngobranchial 3	
+ZDB-ANAT-050711-55	epibranchial 5	interbranchial IV	
+ZDB-ANAT-011113-583	epibranchial bone	epibranchial bones	
+ZDB-ANAT-070928-129	epibranchial cartilage	epibranchial cartilages	
+ZDB-ANAT-080417-141	epibranchial field	epibranchial fields	
+ZDB-ANAT-070928-157	epibranchial ganglion	epibranchial ganglia	
+ZDB-ANAT-050915-99	epibranchial placode	epibranchial placodes	
+ZDB-ANAT-060331-16	epibranchial uncinate process	epibranchial uncinate processes	
+ZDB-ANAT-060816-78	epidermal cell	epidermal cells	
+ZDB-ANAT-011113-555	epihyal	posterior ceratohyal	
+ZDB-ANAT-011113-555	epihyal	caudal ceratohyal	
+ZDB-ANAT-070308-166	epinephrin secreting cell	epinephrin secreting cells	
+ZDB-ANAT-011113-429	epineural	epineurals	
+ZDB-ANAT-060331-37	epiotic	epioccipital	
+ZDB-ANAT-050915-97	epiphyseal stalk	pineal stalk	
+ZDB-ANAT-060331-72	epiphysial cluster	ec	
+ZDB-ANAT-010921-430	epiphysis	pineal gland	
+ZDB-ANAT-010921-430	epiphysis	pineal organ	
+ZDB-ANAT-010921-430	epiphysis	corpus pineale	
+ZDB-ANAT-011113-275	epipleural	epipleurals	
+ZDB-ANAT-070308-25	epithelial cell	epithelial cells	
+ZDB-ANAT-070308-35	epithelial cell of pancreas	epithelial cells of pancreas	
+ZDB-ANAT-060131-59	epithelial mesenchymal boundary	epithelial mesenchymal boundarys	
+ZDB-ANAT-070308-258	erythroid lineage cell	erythroid lineage cells	
+ZDB-ANAT-070308-12	erythroid progenitor cell	colony forming unit erythroid	
+ZDB-ANAT-070308-12	erythroid progenitor cell	erythroid stem cell	
+ZDB-ANAT-070308-12	erythroid progenitor cell	blast forming unit erythroid	
+ZDB-ANAT-070308-12	erythroid progenitor cell	burst forming unit erythroid	
+ZDB-ANAT-070308-205	erythrophore	erythrophores	
+ZDB-ANAT-011113-34	esophageal sphincter	oesophagial sphincter	
+ZDB-ANAT-011113-135	esophagus	oesophagus	
+ZDB-ANAT-070308-84	estradiol secreting cell	estradiol secreting cells	
+ZDB-ANAT-060331-30	ethmoid cartilage	ethmoid plate	
+ZDB-ANAT-070308-119	eurydendroid cell	eurydendroid cells	
+ZDB-ANAT-011113-586	exoccipital	exoccipitals	
+ZDB-ANAT-080417-76	exoccipital posteroventral region	exoccipitals posteroventral regions	
+ZDB-ANAT-070308-69	exocrine cell	exocrine cells	
+ZDB-ANAT-010921-531	extension	yolk extension	
+ZDB-ANAT-011113-277	external cellular layer	stratum cellulare externum bulbi olfactorii	
+ZDB-ANAT-011113-432	external levatores	external levators	
+ZDB-ANAT-011113-587	external pharyngoclavicularis	external pharyngoclavicularae	
+ZDB-ANAT-070308-125	extracellular matrix secreting cell	extracellular matrix secreting cells	
+ZDB-ANAT-070308-138	extraembryonic cell	extraembryonic cells	
+ZDB-ANAT-010921-431	extraembryonic structure	extraembryonic structures	
+ZDB-ANAT-070308-118	extramedullary cell	extramedullary cells	
+ZDB-ANAT-011113-588	extrascapular	supratemporal	
+ZDB-ANAT-010921-532	eye	eyes	
+ZDB-ANAT-051116-42	eye photoreceptor cell	eye photoreceptor cells	
+ZDB-ANAT-050915-96	facial ganglion	gVII	
+ZDB-ANAT-050915-96	facial ganglion	geniculate ganglion	
+ZDB-ANAT-011113-434	facial lobe	lobus facialis	
+ZDB-ANAT-060816-65	facial lymphatic vessel	FL	
+ZDB-ANAT-011113-137	facial nerve motor nucleus	facial motor nucleus	
+ZDB-ANAT-011113-137	facial nerve motor nucleus	nucleus motorius nervi facialis	
+ZDB-ANAT-011113-137	facial nerve motor nucleus	nVII	
+ZDB-ANAT-011113-137	facial nerve motor nucleus	motor nucleus VII	
+ZDB-ANAT-050915-100	facial placode	geniculate placode	
+ZDB-ANAT-011113-278	fasciculus retroflexus	habenulointerpeduncular tract	
+ZDB-ANAT-011113-278	fasciculus retroflexus	habenulo-interpeduncular tract	
+ZDB-ANAT-011113-278	fasciculus retroflexus	tractus habenulo-interpeduncularis	
+ZDB-ANAT-031211-3	fast muscle cell	white muscle cell	
+ZDB-ANAT-011113-435	fast muscle cell somite 1	fast muscle cells somite 1	
+ZDB-ANAT-020309-129	fast muscle cell somite 10	fast muscle cells somite 10	
+ZDB-ANAT-020309-244	fast muscle cell somite 11	fast muscle cells somite 11	
+ZDB-ANAT-020309-15	fast muscle cell somite 12	fast muscle cells somite 12	
+ZDB-ANAT-020309-130	fast muscle cell somite 13	fast muscle cells somite 13	
+ZDB-ANAT-020309-245	fast muscle cell somite 14	fast muscle cells somite 14	
+ZDB-ANAT-020309-16	fast muscle cell somite 15	fast muscle cells somite 15	
+ZDB-ANAT-020309-131	fast muscle cell somite 16	fast muscle cells somite 16	
+ZDB-ANAT-020309-246	fast muscle cell somite 17	fast muscle cells somite 17	
+ZDB-ANAT-020309-17	fast muscle cell somite 18	fast muscle cells somite 18	
+ZDB-ANAT-020309-132	fast muscle cell somite 19	fast muscle cells somite 19	
+ZDB-ANAT-020309-247	fast muscle cell somite 2	fast muscle cells somite 2	
+ZDB-ANAT-020309-18	fast muscle cell somite 20	fast muscle cells somite 20	
+ZDB-ANAT-020309-133	fast muscle cell somite 21	fast muscle cells somite 21	
+ZDB-ANAT-020309-248	fast muscle cell somite 22	fast muscle cells somite 22	
+ZDB-ANAT-020309-19	fast muscle cell somite 23	fast muscle cells somite 23	
+ZDB-ANAT-020309-134	fast muscle cell somite 24	fast muscle cells somite 24	
+ZDB-ANAT-020309-249	fast muscle cell somite 25	fast muscle cells somite 25	
+ZDB-ANAT-020309-20	fast muscle cell somite 26	fast muscle cells somite 26	
+ZDB-ANAT-020309-135	fast muscle cell somite 27	fast muscle cells somite 27	
+ZDB-ANAT-020309-250	fast muscle cell somite 28	fast muscle cells somite 28	
+ZDB-ANAT-020309-21	fast muscle cell somite 29	fast muscle cells somite 29	
+ZDB-ANAT-020309-136	fast muscle cell somite 3	fast muscle cells somite 3	
+ZDB-ANAT-020309-251	fast muscle cell somite 30	fast muscle cells somite 30	
+ZDB-ANAT-020309-22	fast muscle cell somite 4	fast muscle cells somite 4	
+ZDB-ANAT-020309-137	fast muscle cell somite 5	fast muscle cells somite 5	
+ZDB-ANAT-020309-252	fast muscle cell somite 6	fast muscle cells somite 6	
+ZDB-ANAT-020309-23	fast muscle cell somite 7	fast muscle cells somite 7	
+ZDB-ANAT-020309-138	fast muscle cell somite 8	fast muscle cells somite 8	
+ZDB-ANAT-020309-253	fast muscle cell somite 9	fast muscle cells somite 9	
+ZDB-ANAT-070308-300	fast muscle myoblast	fast muscle myoblasts	
+ZDB-ANAT-070308-62	fat cell	adipocyte	
+ZDB-ANAT-070308-224	fenestrated cell	window cell	
+ZDB-ANAT-070308-18	fibroblast	fibroblasts	
+ZDB-ANAT-011113-590	filamental artery	filamental arteries	
+ZDB-ANAT-010921-533	fin	fins	
+ZDB-ANAT-060131-54	fin bud	fin buds	
+ZDB-ANAT-010921-433	floor plate	flexural organ	
+ZDB-ANAT-010921-433	floor plate	fp	
+ZDB-ANAT-010921-433	floor plate	floorplate	
+ZDB-ANAT-020309-24	floor plate diencephalon	floorplate diencephalon	
+ZDB-ANAT-020309-254	floor plate neural rod	floorplate neural rod	
+ZDB-ANAT-020309-25	floor plate rhombomere 1	floor plate r1	
+ZDB-ANAT-020309-140	floor plate rhombomere 2	floorplate r2	
+ZDB-ANAT-020309-140	floor plate rhombomere 2	floor plate r2	
+ZDB-ANAT-020309-255	floor plate rhombomere 3	floor plate r3	
+ZDB-ANAT-020309-255	floor plate rhombomere 3	floorplate r3	
+ZDB-ANAT-020309-26	floor plate rhombomere 4	floor plate r4	
+ZDB-ANAT-020309-26	floor plate rhombomere 4	floorplate r4	
+ZDB-ANAT-020309-141	floor plate rhombomere 5	floor plate r5	
+ZDB-ANAT-020309-141	floor plate rhombomere 5	floorplate r5	
+ZDB-ANAT-020309-256	floor plate rhombomere 6	floorplate r6	
+ZDB-ANAT-020309-256	floor plate rhombomere 6	floor plate r6	
+ZDB-ANAT-020309-27	floor plate rhombomere 7	floor plate r7	
+ZDB-ANAT-020309-27	floor plate rhombomere 7	floorplate r7	
+ZDB-ANAT-020309-142	floor plate rhombomere 8	floor plate r8	
+ZDB-ANAT-020309-142	floor plate rhombomere 8	floorplate r8	
+ZDB-ANAT-020309-257	floor plate spinal cord	floorplate spinal cord	
+ZDB-ANAT-020309-28	floor plate telencephalon	floorplate telencephalon	
+ZDB-ANAT-070308-160	follicle stimulating hormone secreting cell	gonadotroph	
+ZDB-ANAT-070308-160	follicle stimulating hormone secreting cell	delta basophil	
+ZDB-ANAT-070308-219	folliculostellate cell	folliculostellate cells	
+ZDB-ANAT-010921-534	forebrain	prosencephalon	
+ZDB-ANAT-050711-69	forebrain ventricle	forebrain vesicle	
+ZDB-ANAT-050711-69	forebrain ventricle	prosencephalic ventricle	
+ZDB-ANAT-010921-434	forerunner cell group	DFCs	
+ZDB-ANAT-010921-434	forerunner cell group	forerunner cells	
+ZDB-ANAT-010921-434	forerunner cell group	dorsal forerunner cells	
+ZDB-ANAT-010921-535	fourth ventricle	hindbrain ventricle	
+ZDB-ANAT-010921-535	fourth ventricle	rhombencephalic ventricle	
+ZDB-ANAT-010921-535	fourth ventricle	ventricle IV	
+ZDB-ANAT-010921-535	fourth ventricle	rhombencephalic vesicle	
+ZDB-ANAT-010921-535	fourth ventricle	4th ventricle	
+ZDB-ANAT-070308-120	gamete	gametes	
+ZDB-ANAT-070308-269	gamma-delta T cell	gamma-delta T-cell	
+ZDB-ANAT-070308-269	gamma-delta T cell	gamma-delta T lymphocyte	
+ZDB-ANAT-070308-269	gamma-delta T cell	gamma-delta T-lymphocyte	
+ZDB-ANAT-070308-272	gamma-delta intraepithelial T cell	intraepithelial lymphocyte	
+ZDB-ANAT-070308-272	gamma-delta intraepithelial T cell	gamma-delta intraepithelial T-lymphocyte	
+ZDB-ANAT-070308-272	gamma-delta intraepithelial T cell	IEL	
+ZDB-ANAT-070308-272	gamma-delta intraepithelial T cell	gamma-delta intraepithelial T lymphocyte	
+ZDB-ANAT-070308-272	gamma-delta intraepithelial T cell	gamma-delta intraepithelial T-cell	
+ZDB-ANAT-011113-122	ganglion	ganglia	
+ZDB-ANAT-070308-143	gastrula cell	gastrula cells	
+ZDB-ANAT-070308-13	germ line cell	germ line cells	
+ZDB-ANAT-011113-140	gigantocellular part of magnocellular preoptic nucleus	nucleus praeopticus magnocellularis, pars gigantocellularis	
+ZDB-ANAT-011113-279	gill	gills	
+ZDB-ANAT-011113-592	gill filament	gill filaments	
+ZDB-ANAT-011113-141	gill lamella	gill lamellae	
+ZDB-ANAT-011113-280	gill raker	gill rakers	
+ZDB-ANAT-010921-436	glial cell	neuroglia	
+ZDB-ANAT-070308-115	glial cell (sensu Vertebrata)	glial cells (sensu Vertebrata)	
+ZDB-ANAT-050915-148	glioblast	glioblasts	
+ZDB-ANAT-070308-131	glioblast (sensu Vertebrata)	glioblasts (sensu Vertebrata)	
+ZDB-ANAT-011113-281	glomerular layer	stratum glomerulosum bulbi olfactorii	
+ZDB-ANAT-050915-106	glossopharyngeal ganglion	gIX	
+ZDB-ANAT-050915-106	glossopharyngeal ganglion	petrosal ganglion	
+ZDB-ANAT-011113-440	glossopharyngeal lobe	lobus glossopharyngei	
+ZDB-ANAT-050915-101	glossopharyngeal placode	petrosal placode	
+ZDB-ANAT-070308-77	glucagon secreting cell	glucagon secreting cells	
+ZDB-ANAT-070308-170	glucocorticoid secreting cell	glucocorticoid secreting cells	
+ZDB-ANAT-070308-227	glutamatergic neuron	glutamatergic neurons	
+ZDB-ANAT-070308-71	goblet cell	chalice cell	
+ZDB-ANAT-060816-1	gonad	gonads	
+ZDB-ANAT-050711-71	gonad primordium	juvenile gonad	
+ZDB-ANAT-050711-71	gonad primordium	undifferentiated gonad	
+ZDB-ANAT-050711-71	gonad primordium	gonadal primordium	
+ZDB-ANAT-011113-142	granular eminence	lateral granular eminence	
+ZDB-ANAT-011113-142	granular eminence	eminentia granularis	
+ZDB-ANAT-070308-53	granule cell	granule cells	
+ZDB-ANAT-060816-79	granulocyte	granulocytes	
+ZDB-ANAT-060331-74	granulocyte monocyte progenitor cell	CFU-C , Colony forming unit in culture	
+ZDB-ANAT-060331-74	granulocyte monocyte progenitor cell	GMP	
+ZDB-ANAT-060331-74	granulocyte monocyte progenitor cell	colony forming unit granulocyte macrophage	
+ZDB-ANAT-060331-74	granulocyte monocyte progenitor cell	granulocyte-macrophage progenitor	
+ZDB-ANAT-070308-180	granulosa cell	granulosa cells	
+ZDB-ANAT-050228-26	granulosa cell layer	granulosa cell layers	
+ZDB-ANAT-070308-176	green sensitive photoreceptor cell	green sensitive photoreceptor cells	
+ZDB-ANAT-011113-441	griseum centrale	central gray	
+ZDB-ANAT-011113-441	griseum centrale	central grey	
+ZDB-ANAT-010921-537	gut	gut tube	
+ZDB-ANAT-010921-537	gut	alimentary canal	
+ZDB-ANAT-070308-226	gut absorptive cell	gut absorptive cells	
+ZDB-ANAT-070308-58	gut endothelial cell	gut endothelial cells	
+ZDB-ANAT-011113-143	habenula	habenular nucleus	
+ZDB-ANAT-011113-143	habenula	habenulae	
+ZDB-ANAT-011113-283	habenular commissure	commissura habenularum	
+ZDB-ANAT-070308-297	hair cell	hair cells	
+ZDB-ANAT-011113-63	hair cell anterior macula	sensory hair cells anterior macula	
+ZDB-ANAT-011113-210	hair cell posterior macula	sensory hair cells posterior macula	
+ZDB-ANAT-010921-437	hatching gland	hgg	
+ZDB-ANAT-070308-117	hatching gland cell	hatching gland cells	
+ZDB-ANAT-011113-595	head kidney	kidney marrow	
+ZDB-ANAT-011113-595	head kidney	anterior kidney	
+ZDB-ANAT-081013-27	head muscle	cephalic muscle	
+ZDB-ANAT-010921-439	heart primordium	heart primordia	
+ZDB-ANAT-010921-540	heart rudiment	rudimentary heart	
+ZDB-ANAT-010921-540	heart rudiment	heart cone	
+ZDB-ANAT-060131-70	heart valve	heart valves	
+ZDB-ANAT-011113-442	hemal arch	ventral arcocentrum	
+ZDB-ANAT-011113-442	hemal arch	haemal arch	
+ZDB-ANAT-060331-4	hemal postzygapophysis	hemal postzygopophysis	
+ZDB-ANAT-060331-4	hemal postzygapophysis	haemal postzygapophysis	
+ZDB-ANAT-060331-4	hemal postzygapophysis	hemal postzygapophyses	
+ZDB-ANAT-070928-187	hemal prezygapophysis	haemal prezygapophysis	
+ZDB-ANAT-070928-187	hemal prezygapophysis	hemal prezygopophysis	
+ZDB-ANAT-060331-13	hemal spine	haemal spine	
+ZDB-ANAT-070308-286	hematopoietic progenitor cell	hemopoietic progenitor cell	
+ZDB-ANAT-050915-141	hematopoietic stem cell	hemopoietic progenitor cell	
+ZDB-ANAT-050915-141	hematopoietic stem cell	hematopoietic progenitor cell	
+ZDB-ANAT-050915-141	hematopoietic stem cell	HSC	
+ZDB-ANAT-050915-141	hematopoietic stem cell	colony forming unit hematopoietic	
+ZDB-ANAT-050915-141	hematopoietic stem cell	hemopoietic stem cell	
+ZDB-ANAT-060816-47	hepatic portal vein	HPV	
+ZDB-ANAT-060816-47	hepatic portal vein	primary hepatic portal vein	
+ZDB-ANAT-060816-48	hepatic sinusoid	hepatic sinusoids	
+ZDB-ANAT-011113-596	hepatic vein	hepatic veins	
+ZDB-ANAT-070308-85	hepatocyte	hepatocytes	
+ZDB-ANAT-010921-440	hindbrain	rhombencephalon	
+ZDB-ANAT-070308-248	horizontal cell	horizontal cells	
+ZDB-ANAT-011113-597	horizontal myoseptum	horizontal septum	
+ZDB-ANAT-051116-29	hyaloid artery	hyaloid arteries	
+ZDB-ANAT-051116-31	hyaloid vein	hyaloid veins	
+ZDB-ANAT-051116-30	hyaloid vessel	hyaloid vasculature	
+ZDB-ANAT-051116-30	hyaloid vessel	hyaloid vessels	
+ZDB-ANAT-011113-444	hyoid muscle	hyoid muscles	
+ZDB-ANAT-011113-598	hyomandibula	hyomandibular	
+ZDB-ANAT-060331-47	hyosymplectic cartilage	hyomandibular cartilage	
+ZDB-ANAT-031211-13	hypaxial myotome region	hypaxial muscle	
+ZDB-ANAT-070308-246	hypertrophic chondrocyte	hypertrophic chondrocytes	
+ZDB-ANAT-010921-542	hypoblast	mesendoderm	
+ZDB-ANAT-050711-45	hypobranchial 1 bone	hypobranchial 1 bones	
+ZDB-ANAT-070928-126	hypobranchial 1 cartilage	hypobranchial 1 cartilages	
+ZDB-ANAT-050711-48	hypobranchial 2 bone	hypobranchial 2 bones	
+ZDB-ANAT-070928-127	hypobranchial 2 cartilage	hypobranchial 2 cartilages	
+ZDB-ANAT-050711-47	hypobranchial 3 bone	hypobranchial 3 bones	
+ZDB-ANAT-070928-128	hypobranchial 3 cartilage	hypobranchial 3 cartilages	
+ZDB-ANAT-050711-46	hypobranchial 4 bone	hypobranchial 4 bones	
+ZDB-ANAT-070928-125	hypobranchial 4 cartilage	hypobranchial 4 cartilages	
+ZDB-ANAT-011113-599	hypobranchial artery	HA	
+ZDB-ANAT-011113-288	hypobranchial bone	hypobranchial bones	
+ZDB-ANAT-070928-124	hypobranchial cartilage	hypobranchial cartilages	
+ZDB-ANAT-081013-26	hypobranchial muscle	sternohyoideus	
+ZDB-ANAT-011113-144	hypobranchial vessel	hypobranchial vessels	
+ZDB-ANAT-070308-156	hypodermal cell	hypodermal cells	
+ZDB-ANAT-050228-48	hypodermis	subcutis	
+ZDB-ANAT-060331-15	hypohyal	hypohyals	
+ZDB-ANAT-010921-543	hypophysis	pituitary	
+ZDB-ANAT-011113-289	hypural	hyp	
+ZDB-ANAT-011113-289	hypural	hypurals	
+ZDB-ANAT-011113-289	hypural	hypuralia	
+ZDB-ANAT-020309-268	hypural musculature	hypural muscles	
+ZDB-ANAT-020309-75	hypurapophysis	hypurapophyses	
+ZDB-ANAT-020309-75	hypurapophysis	parhypurapophysis process	
+ZDB-ANAT-020309-75	hypurapophysis	parhypurapophysis	
+ZDB-ANAT-070308-276	immature B cell	immature B-lymphocyte	
+ZDB-ANAT-070308-276	immature B cell	immature B-cell	
+ZDB-ANAT-070308-276	immature B cell	immature B lymphocyte	
+ZDB-ANAT-070308-273	immature T cell	immature T-lymphocyte	
+ZDB-ANAT-070308-273	immature T cell	immature T lymphocyte	
+ZDB-ANAT-070308-273	immature T cell	immature T-cell	
+ZDB-ANAT-050228-11	immature anterior macula	immature anterior maculae	
+ZDB-ANAT-070308-270	immature gamma-delta T cell	immature gamma-delta T lymphocyte	
+ZDB-ANAT-070308-270	immature gamma-delta T cell	immature gamma-delta T-lymphocyte	
+ZDB-ANAT-070308-270	immature gamma-delta T cell	immature gamma-delta T-cell	
+ZDB-ANAT-050228-13	immature hair cell anterior macula	immature sensory hair cells anterior macula	
+ZDB-ANAT-050228-14	immature hair cell posterior macula	immature sensory hair cells posterior macula	
+ZDB-ANAT-050228-10	immature macula	immature sensory patches	
+ZDB-ANAT-050228-10	immature macula	immature sensory patch	
+ZDB-ANAT-050228-10	immature macula	immature maculae	
+ZDB-ANAT-070308-279	immature natural killer cell	p-NK	
+ZDB-ANAT-070308-261	immature neutrophil	immature neutrocyte	
+ZDB-ANAT-070308-261	immature neutrophil	immature neutrophilic leucocyte	
+ZDB-ANAT-070308-261	immature neutrophil	immature neutrophil leucocyte	
+ZDB-ANAT-070308-261	immature neutrophil	immature neutrophil leukocyte	
+ZDB-ANAT-050228-12	immature posterior macula	immature posterior maculae	
+ZDB-ANAT-011113-445	inferior hyohyoid	inferior hyohyoids	
+ZDB-ANAT-011113-1	inferior lobe	inferior lobes	
+ZDB-ANAT-011113-1	inferior lobe	lateral lobe of hypothalamus	
+ZDB-ANAT-011113-290	inferior raphe nucleus	posterior raphe nucleus	
+ZDB-ANAT-011113-153	infraorbital 1	lacrimal	
+ZDB-ANAT-011113-153	infraorbital 1	lachrymal bone	
+ZDB-ANAT-011113-153	infraorbital 1	lacrymal bone	
+ZDB-ANAT-011113-418	infraorbital 5	dermosphenotic	
+ZDB-ANAT-020309-186	infraorbital lateral line neuromast	neuromasts infraorbital	
+ZDB-ANAT-020309-186	infraorbital lateral line neuromast	neuromast infraorbital	
+ZDB-ANAT-081013-24	infraorbital series	circumorbital series	
+ZDB-ANAT-050711-14	infundibulum	infundibulum of hypothalamus	
+ZDB-ANAT-050711-14	infundibulum	pituitary stalk	
+ZDB-ANAT-050711-14	infundibulum	hypophysial stalk	
+ZDB-ANAT-070308-178	inhibitory interneuron	inhibitory interneurons	
+ZDB-ANAT-070517-39	inner dental epithelium	inner enamel epithelium	
+ZDB-ANAT-011113-147	inner ear	ear	
+ZDB-ANAT-011113-147	inner ear	otic capsule	
+ZDB-ANAT-011113-147	inner ear	otocyst	
+ZDB-ANAT-061101-7	inner limiting membrane	inner limiting membranes	
+ZDB-ANAT-051116-38	inner optic circle	IOC	
+ZDB-ANAT-070308-103	insulating cell	insulating cells	
+ZDB-ANAT-070308-75	insulin secreting cell	insulin secreting cells	
+ZDB-ANAT-011113-292	integument	skin	
+ZDB-ANAT-011113-4	intercalar	opisthotic	
+ZDB-ANAT-080417-82	intercalarium articulating process	articular process	
+ZDB-ANAT-070517-27	interhyal cartilage	interhyal bone	
+ZDB-ANAT-070517-27	interhyal cartilage	stylohyal	
+ZDB-ANAT-010921-444	intermediate cell mass of mesoderm	intermediate cell mass of Oellacher	
+ZDB-ANAT-010921-444	intermediate cell mass of mesoderm	ICM	
+ZDB-ANAT-010921-444	intermediate cell mass of mesoderm	posterior intermediate cell mass	
+ZDB-ANAT-050711-20	intermediate mesoderm	IM	
+ZDB-ANAT-011113-149	intermediate reticular formation	intermediate reticular formations	
+ZDB-ANAT-011113-294	intermediate thalamic nucleus	intermediate thalamic nuclei	
+ZDB-ANAT-011113-449	intermuscular bone	intermuscular bones	
+ZDB-ANAT-060816-38	internal carotid artery	ICA	
+ZDB-ANAT-011113-5	internal cellular layer	stratum cellulare internum bulbi olfactorii	
+ZDB-ANAT-050228-21	internal gill bud	internal gill buds	
+ZDB-ANAT-011113-150	internal levator	internal levators	
+ZDB-ANAT-011113-295	internal pharyngoclavicularis	internal pharyngoclavicularae	
+ZDB-ANAT-050711-65	interneuromast cell	interneuromast cells	
+ZDB-ANAT-070308-38	interneuron	interneurons	
+ZDB-ANAT-020309-154	interneuron spinal cord	interneurons spinal cord	
+ZDB-ANAT-011113-6	interopercle	interopercles	
+ZDB-ANAT-011113-450	interradialis	interradiali	
+ZDB-ANAT-060816-58	interray vessel	interray vessels	
+ZDB-ANAT-020702-19	intersegmental artery	intersegmental arteries	
+ZDB-ANAT-020702-15	intersegmental vein	ISV	
+ZDB-ANAT-050915-90	intersegmental vessel	intersegmental vessels	
+ZDB-ANAT-050915-90	intersegmental vessel	intersomitic vessels	
+ZDB-ANAT-050915-90	intersegmental vessel	segmental vessel	
+ZDB-ANAT-060131-19	intervening zone	IZ	
+ZDB-ANAT-060816-57	intervessel commissure	intervessel comisures	
+ZDB-ANAT-030922-14	intestinal bulb	anterior intestine	
+ZDB-ANAT-061211-26	intestinal epithelium	intestine epithelium	
+ZDB-ANAT-061211-27	intestinal villus	intestinal villi	
+ZDB-ANAT-080417-114	intramembranous bone	intramembranous bones	
+ZDB-ANAT-050711-5	iris	irises	
+ZDB-ANAT-011113-152	isthmic primary nucleus	isthmic primary nuclei	
+ZDB-ANAT-070308-218	ito cell	perisinusoidal cell	
+ZDB-ANAT-080417-75	joint	joints	
+ZDB-ANAT-060816-66	jugular lymphatic vessel	JL	
+ZDB-ANAT-070308-121	keratin accumulating cell	keratin accumulating cells	
+ZDB-ANAT-070308-122	keratinocyte	keratinocytes	
+ZDB-ANAT-011113-451	kidney	mesonephros	
+ZDB-ANAT-011113-8	labial cavities	labial cavities	
+ZDB-ANAT-011113-298	lagena	lagenas	
+ZDB-ANAT-080417-106	lagenar capsule	lagenar capsules	
+ZDB-ANAT-070517-19	lamina orbitonasalis	laminas orbitonasalis	
+ZDB-ANAT-011113-452	lapillus	utriculith	
+ZDB-ANAT-011113-452	lapillus	immature anterior otolith	
+ZDB-ANAT-011113-452	lapillus	utricular otolith	
+ZDB-ANAT-011113-453	lateral column	lateral columns	
+ZDB-ANAT-011113-10	lateral crista	lc	
+ZDB-ANAT-011113-10	lateral crista	lateral crista ampullaris	
+ZDB-ANAT-011113-10	lateral crista	lateral semicircular canal sensory patches	
+ZDB-ANAT-011113-10	lateral crista	lateral cristae	
+ZDB-ANAT-011113-10	lateral crista	lateral semicircular canal sensory patch	
+ZDB-ANAT-011113-155	lateral crista primordium	lateral crista primordia	
+ZDB-ANAT-020702-12	lateral dorsal aorta	LDA	
+ZDB-ANAT-011113-156	lateral ethmoid	lateral ethmoids	
+ZDB-ANAT-070928-193	lateral forebrain bundle	lateral forebrain bundles	
+ZDB-ANAT-011113-301	lateral forebrain bundle diencephalon	lateral forebrain bundles diencephalon	
+ZDB-ANAT-020309-155	lateral forebrain bundle telencephalon	lateral forebrain bundles telencephalon	
+ZDB-ANAT-011113-455	lateral funiculus	lateral funiculi	
+ZDB-ANAT-011113-157	lateral hypothalamic nucleus	arcuate nucleus	
+ZDB-ANAT-011113-157	lateral hypothalamic nucleus	lateral hypothalamic nuclei	
+ZDB-ANAT-011113-157	lateral hypothalamic nucleus	lateral tuberal nucleus	
+ZDB-ANAT-011113-302	lateral lemniscus nucleus	lateral lemniscus nuclei	
+ZDB-ANAT-061101-13	lateral line	lateral lines	
+ZDB-ANAT-010921-546	lateral line ganglion	lateral line ganglia	
+ZDB-ANAT-010921-546	lateral line ganglion	llg	
+ZDB-ANAT-061101-23	lateral line nerve	lateral line nerves	
+ZDB-ANAT-011113-158	lateral line primordium	lateral line primordia	
+ZDB-ANAT-011113-158	lateral line primordium	llp	
+ZDB-ANAT-011113-303	lateral line sensory nuclei	lateral line sensory nuclei	
+ZDB-ANAT-010921-445	lateral line system	ll	
+ZDB-ANAT-011113-456	lateral longitudinal fasciculus	lateral longitundinal fasciculus	
+ZDB-ANAT-011113-11	lateral nucleus of ventral telencephalon	area ventralis telencephali, nucleus lateralis	
+ZDB-ANAT-011113-159	lateral olfactory tract	tractus olfactorius lateralis	
+ZDB-ANAT-010921-547	lateral plate mesoderm	lateral plate	
+ZDB-ANAT-011113-14	lateral preglomerular nucleus	lateral preglomerular nuclei	
+ZDB-ANAT-011113-160	lateral recess	lateral recesses	
+ZDB-ANAT-011113-305	lateral rectus	lateral recti	
+ZDB-ANAT-011113-457	lateral reticular nucleus	lateral reticular nuclei	
+ZDB-ANAT-011113-15	lateral semicircular canal	lateral semicircular canals	
+ZDB-ANAT-011113-15	lateral semicircular canal	horizontal semicircular canal	
+ZDB-ANAT-011113-15	lateral semicircular canal	lateral semicircular duct	
+ZDB-ANAT-011113-161	lateral semicircular canal primordium	lateral semicircular canal primordia	
+ZDB-ANAT-011113-454	lateral valvula cerebelli	lateral division	
+ZDB-ANAT-011113-454	lateral valvula cerebelli	valvula cerebelli, pars lateralis	
+ZDB-ANAT-011113-458	lateral zone of dorsal telencephalon	lateral zone of dorsal telencephalic area	
+ZDB-ANAT-011113-458	lateral zone of dorsal telencephalon	lateral zone of D	
+ZDB-ANAT-011113-458	lateral zone of dorsal telencephalon	area dorsalis telencephali, zona lateralis	
+ZDB-ANAT-010921-447	lens	lenses	
+ZDB-ANAT-010921-548	lens placode	lens placodes	
+ZDB-ANAT-070928-156	lepidotrichium	lepidotrichia	
+ZDB-ANAT-070308-239	leptomemingeal cell	leptomemingeal cells	
+ZDB-ANAT-070308-204	leucophore	leucophores	
+ZDB-ANAT-070308-243	leukocyte	leucocyte	
+ZDB-ANAT-070308-243	leukocyte	immune cell	
+ZDB-ANAT-070308-243	leukocyte	white blood cell	
+ZDB-ANAT-011113-307	levator arcus palatini	levators arcus palatini	
+ZDB-ANAT-011113-459	levator operculi	levator operculae	
+ZDB-ANAT-070308-148	ligament cell	ligament cells	
+ZDB-ANAT-070308-99	lining cell	boundary cell	
+ZDB-ANAT-070928-188	lip	lips	
+ZDB-ANAT-070308-163	lipocyte	lipocytes	
+ZDB-ANAT-010921-550	liver primordium	liver bud	
+ZDB-ANAT-011113-460	locus coeruleus	loci coeruleus	
+ZDB-ANAT-060816-63	longitudinal lateral lymphatic vessel	LLL	
+ZDB-ANAT-060816-75	luteinizing hormone secreting cell	delta basophila	
+ZDB-ANAT-060816-75	luteinizing hormone secreting cell	gonadotroph	
+ZDB-ANAT-060816-62	lymph vessel	lymph vessels	
+ZDB-ANAT-070308-197	lymphocyte	lymphocytes	
+ZDB-ANAT-070308-287	lymphoid progenitor cell	lymphoid progenitor cells	
+ZDB-ANAT-070308-56	macroglial cell	macroglial cells	
+ZDB-ANAT-060331-85	macrophage	histiocyte	
+ZDB-ANAT-011113-309	macula	maculae	
+ZDB-ANAT-011113-309	macula	sensory macula	
+ZDB-ANAT-011113-309	macula	sensory patch	
+ZDB-ANAT-010921-541	macula lagena	maculae lagena	
+ZDB-ANAT-011113-163	macula neglecta	maculae neglecta	
+ZDB-ANAT-070517-48	macula saccule	saccular macula	
+ZDB-ANAT-010921-441	macula utricle	maculae utricle	
+ZDB-ANAT-011113-461	magnocellular octaval nucleus	magnocellular octaval nuclei	
+ZDB-ANAT-011113-18	magnocellular preoptic nucleus	magnocellular preoptic nuclei	
+ZDB-ANAT-011113-164	magnocellular superficial pretectal nucleus	magnocellular superficial pretectal nuclei	
+ZDB-ANAT-050711-4	mandibular arch	oral jaw skeleton	
+ZDB-ANAT-050711-4	mandibular arch	jaw cartilage	
+ZDB-ANAT-050711-4	mandibular arch	jaws	
+ZDB-ANAT-050711-4	mandibular arch	jaw	
+ZDB-ANAT-050711-4	mandibular arch	visceral arch 1	
+ZDB-ANAT-050711-4	mandibular arch	pharyngeal arch 1 skeleton	
+ZDB-ANAT-011113-19	mandibular lateral line	mandibular lateral lines	
+ZDB-ANAT-010921-551	mandibular lateral line neuromast	neuromast mandibular	
+ZDB-ANAT-010921-551	mandibular lateral line neuromast	neuromasts mandibular	
+ZDB-ANAT-011113-165	mandibular muscle	mandibular muscles	
+ZDB-ANAT-080417-80	manubrium	horizontal process	
+ZDB-ANAT-080417-80	manubrium	anterior process	
+ZDB-ANAT-080417-80	manubrium	manubrium incudus	
+ZDB-ANAT-011113-462	marginal blastomere	marginal blastomeres	
+ZDB-ANAT-070308-264	mature B cell	mature B-cell	
+ZDB-ANAT-070308-264	mature B cell	mature B-lymphocyte	
+ZDB-ANAT-070308-264	mature B cell	mature B lymphocyte	
+ZDB-ANAT-070308-274	mature T cell	mature T lymphocyte	
+ZDB-ANAT-070308-274	mature T cell	mature T-lymphocyte	
+ZDB-ANAT-070308-274	mature T cell	mature T-cell	
+ZDB-ANAT-070308-271	mature gamma-delta T cell	mature gamma-delta T-lymphocyte	
+ZDB-ANAT-070308-271	mature gamma-delta T cell	mature gamma-delta T-cell	
+ZDB-ANAT-070308-271	mature gamma-delta T cell	mature gamma-delta T lymphocyte	
+ZDB-ANAT-070308-280	mature natural killer cell	LAK cell	
+ZDB-ANAT-070308-280	mature natural killer cell	lymphokine activated killer cell	
+ZDB-ANAT-060331-81	mature neutrophil	PMN	
+ZDB-ANAT-060331-81	mature neutrophil	mature neutrophil leukocyte	
+ZDB-ANAT-060331-81	mature neutrophil	mature neutrophilic leukocyte	
+ZDB-ANAT-060331-81	mature neutrophil	mature neutrophilic leucocyte	
+ZDB-ANAT-060331-81	mature neutrophil	polymorphonuclear leukocyte	
+ZDB-ANAT-060331-81	mature neutrophil	mature neutrocyte	
+ZDB-ANAT-060331-81	mature neutrophil	poly	
+ZDB-ANAT-060331-81	mature neutrophil	polymorphonuclear neutrophil	
+ZDB-ANAT-060331-81	mature neutrophil	polynuclear neutrophilic leukocyte	
+ZDB-ANAT-060331-81	mature neutrophil	mature neutrophil leucocyte	
+ZDB-ANAT-060331-81	mature neutrophil	polynuclear neutrophilic leucocyte	
+ZDB-ANAT-060331-81	mature neutrophil	polymorphonuclear leucocyte	
+ZDB-ANAT-011113-20	maxilla	maxillae	
+ZDB-ANAT-070308-90	mechanoreceptor cell	mechanoreceptor cells	
+ZDB-ANAT-011113-311	medial caudal lobe	caudal lobe of cerebellum	
+ZDB-ANAT-011113-311	medial caudal lobe	lobus caudalis cerebelli	
+ZDB-ANAT-011113-463	medial column	medial columns	
+ZDB-ANAT-061101-29	medial forebrain bundle	medial forebrain bundles	
+ZDB-ANAT-011113-167	medial forebrain bundle diencephalon	medial forebrain bundles diencephalon	
+ZDB-ANAT-020309-275	medial forebrain bundle telencephalon	medial forebrain bundles telencephalon	
+ZDB-ANAT-011113-464	medial longitudinal fasciculus	MLF	
+ZDB-ANAT-011113-22	medial octavolateralis nucleus	medial octavolateralis nuclei	
+ZDB-ANAT-011113-168	medial olfactory tract	tractus olfactorius medialis	
+ZDB-ANAT-011113-313	medial preglomerular nucleus	medial preglomerular nuclei	
+ZDB-ANAT-011113-23	medial rectus	medial recti	
+ZDB-ANAT-011113-21	medial valvula cerebelli	medial division	
+ZDB-ANAT-011113-21	medial valvula cerebelli	valvula cerebelli, pars medialis	
+ZDB-ANAT-011113-314	medial zone of dorsal telencephalon	medial zone of dorsal telencephalic area	
+ZDB-ANAT-011113-314	medial zone of dorsal telencephalon	medial zone of D	
+ZDB-ANAT-011113-314	medial zone of dorsal telencephalon	area dorsalis telencephali, zona medialis	
+ZDB-ANAT-070928-137	median fin cartilage	median fin cartilages	
+ZDB-ANAT-010921-453	median fin fold	median fin	
+ZDB-ANAT-051116-39	median palatocerebral vein	MPLV	
+ZDB-ANAT-050228-50	mediodorsal tooth row	mediodorsal tooth rows	
+ZDB-ANAT-070308-16	megakaryocyte erythroid progenitor cell	colony forming unit erythroid megakaryocyte	
+ZDB-ANAT-070308-16	megakaryocyte erythroid progenitor cell	MEP	
+ZDB-ANAT-050915-150	melanoblast	melanoblasts	
+ZDB-ANAT-040708-2	melanocyte	melanophore	
+ZDB-ANAT-060816-72	melanocyte stimulating hormone secreting cell	melanotroph	
+ZDB-ANAT-060816-72	melanocyte stimulating hormone secreting cell	melanotrope	
+ZDB-ANAT-060816-32	melanophore stripe	melanophore stripes	
+ZDB-ANAT-080417-115	membrane bone	membrane bones	
+ZDB-ANAT-070308-266	memory B cell	memory B-cell	
+ZDB-ANAT-070308-266	memory B cell	memory B lymphocyte	
+ZDB-ANAT-070308-266	memory B cell	memory B-lymphocyte	
+ZDB-ANAT-070308-275	memory T cell	memory T-cell	
+ZDB-ANAT-070308-275	memory T cell	memory T lymphocyte	
+ZDB-ANAT-070308-275	memory T cell	memory T-lymphocyte	
+ZDB-ANAT-070308-221	mesangial cell	mesangial cells	
+ZDB-ANAT-020702-7	mesencephalic artery	MsA	
+ZDB-ANAT-011113-24	mesencephalic nucleus of trigeminal nerve	mesencephalic nuclei of trigeminal nerves	
+ZDB-ANAT-060816-49	mesencephalic vein	MsV	
+ZDB-ANAT-070308-61	mesenchymal cell	mesenchymal cells	
+ZDB-ANAT-070308-128	mesenchyme condensation cell	mesenchyme condensation cells	
+ZDB-ANAT-020309-49	mesenchyme pectoral fin	mesenchyme pectoral fins	
+ZDB-ANAT-060816-18	mesenchyme pelvic fin	mesenchyme pelvic fins	
+ZDB-ANAT-011113-25	mesethmoid bone	ethmoid bone	
+ZDB-ANAT-011113-171	mesocoracoid bone	mesocoracoid bones	
+ZDB-ANAT-070928-139	mesocorocoid cartilage	mesocorocoid cartilages	
+ZDB-ANAT-020309-164	mesoderm pectoral fin bud	mesoderm pectoral fin buds	
+ZDB-ANAT-060131-57	mesoderm pelvic fin bud	mesoderm pelvic fin buds	
+ZDB-ANAT-070308-107	mesodermal cell	mesoblast	
+ZDB-ANAT-070308-107	mesodermal cell	mesoderm cell	
+ZDB-ANAT-011113-467	mesonephric duct	renal duct	
+ZDB-ANAT-011113-467	mesonephric duct	Wolffian duct	
+ZDB-ANAT-070308-30	mesothelial cell	mesothelial cells	
+ZDB-ANAT-070308-124	metanephric mesenchyme stem cell	metanephric mesenchyme stem cells	
+ZDB-ANAT-011113-172	metapterygoid	metapterygoids	
+ZDB-ANAT-060816-41	metencephalic artery	metencephalic arteries	
+ZDB-ANAT-070308-57	microglial cell	microglia	
+ZDB-ANAT-070308-291	microvillous olfactory receptor neuron	microvillous olfactory sensory neuron	
+ZDB-ANAT-070308-291	microvillous olfactory receptor neuron	microvillous sensory neuron	
+ZDB-ANAT-050915-82	mid cerebral vein	MCeV	
+ZDB-ANAT-050915-82	mid cerebral vein	mid-cerebral vein	
+ZDB-ANAT-050915-82	mid cerebral vein	middle cerebral vein	
+ZDB-ANAT-010921-555	midbrain	mesencephalon	
+ZDB-ANAT-010921-455	midbrain hindbrain boundary	isthmus	
+ZDB-ANAT-010921-455	midbrain hindbrain boundary	mhb	
+ZDB-ANAT-011113-27	middle lateral line	middle lateral lines	
+ZDB-ANAT-061101-27	middle lateral line ganglion	middle lateral line ganglia	
+ZDB-ANAT-061101-26	middle lateral line nerve	middle lateral line nerves	
+ZDB-ANAT-020309-301	middle lateral line neuromast	neuromasts middle	
+ZDB-ANAT-020309-301	middle lateral line neuromast	neuromast middle	
+ZDB-ANAT-061211-23	middle lateral line placode	middle lateral line placodes	
+ZDB-ANAT-061211-22	middle lateral line primordium	middle lateral line primordia	
+ZDB-ANAT-060816-35	middle mesencephalic central artery	MMCtA	
+ZDB-ANAT-060131-47	migratory slow muscle precursor cell	migratory slow muscle precursor cells	
+ZDB-ANAT-060331-82	monoblast	monocyte stem cell	
+ZDB-ANAT-060331-82	monoblast	CFU-M	
+ZDB-ANAT-060331-82	monoblast	colony forming unit macrophage	
+ZDB-ANAT-070308-207	monocyte	monocytes	
+ZDB-ANAT-070308-289	mononuclear cell	mononuclear cells	
+ZDB-ANAT-070308-263	mononuclear odontoclast	mononuclear odontoclasts	
+ZDB-ANAT-070308-262	mononuclear osteoclast	mononuclear osteoclasts	
+ZDB-ANAT-060331-84	mononuclear phagocyte	mononuclear phagocytes	
+ZDB-ANAT-070308-105	motile cell	motile cells	
+ZDB-ANAT-070308-39	motor neuron	motoneuron	
+ZDB-ANAT-011113-226	motor nucleus of vagal nerve	nucleus motorius of nervi vagi	
+ZDB-ANAT-011113-226	motor nucleus of vagal nerve	motor nucleus X	
+ZDB-ANAT-011113-226	motor nucleus of vagal nerve	nX	
+ZDB-ANAT-011113-226	motor nucleus of vagal nerve	vagal lobe	
+ZDB-ANAT-010921-556	mucus secreting cell	mucous cell	
+ZDB-ANAT-070308-15	multi fate stem cell	multipotent stem cell	
+ZDB-ANAT-070517-4	multi-tissue structure	multi-tissue structures	
+ZDB-ANAT-070308-41	multipolar neuron	multipolar neurons	
+ZDB-ANAT-070928-181	muscle	muscles	
+ZDB-ANAT-050915-158	muscle cell	myocyte	
+ZDB-ANAT-031211-14	muscle pioneer	non migratory adaxial cells	
+ZDB-ANAT-031211-14	muscle pioneer	muscle pioneers	
+ZDB-ANAT-010921-456	muscle pioneer somite 1	muscle pioneers somite 1	
+ZDB-ANAT-020309-165	muscle pioneer somite 10	muscle pioneers somite 10	
+ZDB-ANAT-020309-280	muscle pioneer somite 11	muscle pioneers somite 11	
+ZDB-ANAT-020309-51	muscle pioneer somite 12	muscle pioneers somite 12	
+ZDB-ANAT-020309-166	muscle pioneer somite 13	muscle pioneers somite 13	
+ZDB-ANAT-020309-281	muscle pioneer somite 14	muscle pioneers somite 14	
+ZDB-ANAT-020309-52	muscle pioneer somite 15	muscle pioneers somite 15	
+ZDB-ANAT-020309-167	muscle pioneer somite 16	muscle pioneers somite 16	
+ZDB-ANAT-020309-282	muscle pioneer somite 17	muscle pioneers somite 17	
+ZDB-ANAT-020309-53	muscle pioneer somite 18	muscle pioneers somite 18	
+ZDB-ANAT-020309-168	muscle pioneer somite 19	muscle pioneers somite 19	
+ZDB-ANAT-011113-318	muscle pioneer somite 2	muscle pioneers somite 2	
+ZDB-ANAT-020309-283	muscle pioneer somite 20	muscle pioneers somite 20	
+ZDB-ANAT-020309-54	muscle pioneer somite 21	muscle pioneers somite 21	
+ZDB-ANAT-020309-169	muscle pioneer somite 22	muscle pioneers somite 22	
+ZDB-ANAT-020309-284	muscle pioneer somite 23	muscle pioneers somite 23	
+ZDB-ANAT-020309-55	muscle pioneer somite 24	muscle pioneers somite 24	
+ZDB-ANAT-020309-170	muscle pioneer somite 25	muscle pioneers somite 25	
+ZDB-ANAT-020309-285	muscle pioneer somite 26	muscle pioneers somite 26	
+ZDB-ANAT-020309-56	muscle pioneer somite 27	muscle pioneers somite 27	
+ZDB-ANAT-020309-171	muscle pioneer somite 28	muscle pioneers somite 28	
+ZDB-ANAT-020309-286	muscle pioneer somite 29	muscle pioneers somite 29	
+ZDB-ANAT-020309-57	muscle pioneer somite 3	muscle pioneers somite 3	
+ZDB-ANAT-020309-172	muscle pioneer somite 30	muscle pioneers somite 30	
+ZDB-ANAT-020309-287	muscle pioneer somite 4	muscle pioneers somite 4	
+ZDB-ANAT-020309-58	muscle pioneer somite 5	muscle pioneers somite 5	
+ZDB-ANAT-020309-173	muscle pioneer somite 6	muscle pioneers somite 6	
+ZDB-ANAT-020309-288	muscle pioneer somite 7	muscle pioneers somite 7	
+ZDB-ANAT-020309-59	muscle pioneer somite 8	muscle pioneers somite 8	
+ZDB-ANAT-020309-174	muscle pioneer somite 9	muscle pioneers somite 9	
+ZDB-ANAT-050915-155	muscle precursor cell	muscle precursor cells	
+ZDB-ANAT-050915-156	muscle stem cell	muscle stem cells	
+ZDB-ANAT-070308-126	myelin accumulating cell	myelin accumulating cells	
+ZDB-ANAT-070308-285	myeloblast	myeloblasts	
+ZDB-ANAT-070308-257	myeloid cell	myeloid cells	
+ZDB-ANAT-070308-259	myeloid leukocyte	myeloid leukocytes	
+ZDB-ANAT-070308-288	myeloid progenitor cell	myeloid progenitor cells	
+ZDB-ANAT-050915-157	myoblast	myoblasts	
+ZDB-ANAT-051116-5	myocardium	cardiac muscle	
+ZDB-ANAT-070308-87	myoepithelial cell	myoepithelial cells	
+ZDB-ANAT-031211-5	myoseptum	myosepta	
+ZDB-ANAT-020702-14	myotome	myomeres	
+ZDB-ANAT-070308-267	naive B cell	nave B-cell	
+ZDB-ANAT-070308-267	naive B cell	naive B lymphocyte	
+ZDB-ANAT-070308-267	naive B cell	nave B-lymphocyte	
+ZDB-ANAT-011113-470	naris	nares	
+ZDB-ANAT-060816-42	nasal artery	NA	
+ZDB-ANAT-011113-29	nasal bone	nasal bones	
+ZDB-ANAT-051116-37	nasal ciliary artery	NCA	
+ZDB-ANAT-060816-50	nasal vein	NV	
+ZDB-ANAT-070308-217	natural killer cell	large granular lymphocyte	
+ZDB-ANAT-070308-217	natural killer cell	null cell	
+ZDB-ANAT-070308-217	natural killer cell	NK cell	
+ZDB-ANAT-070308-281	natural killer cell progenitor	preNK cell	
+ZDB-ANAT-070308-281	natural killer cell progenitor	null cell	
+ZDB-ANAT-070308-281	natural killer cell progenitor	NKP	
+ZDB-ANAT-070308-147	nephrogenic mesenchyme stem cell	nephrogenic mesenchyme stem cells	
+ZDB-ANAT-070928-190	nerve	nerves	
+ZDB-ANAT-060331-6	neural arch	dorsal arcocentrum	
+ZDB-ANAT-060331-12	neural complex	Weberian supraneural	
+ZDB-ANAT-050915-149	neural crest cell	neural crest cells	
+ZDB-ANAT-010921-559	neural keel	presumptive central nervous system	
+ZDB-ANAT-010921-560	neural plate	presumptive central nervous system	
+ZDB-ANAT-060331-3	neural postzygapophysis	neural postzygapophyses	
+ZDB-ANAT-060331-3	neural postzygapophysis	neural postzygopophysis	
+ZDB-ANAT-060331-7	neural prezygapophysis	neural prezygapophyses	
+ZDB-ANAT-060331-7	neural prezygapophysis	neural prezygopophyses	
+ZDB-ANAT-010921-561	neural rod	presumptive central nervous system	
+ZDB-ANAT-060331-9	neural spine	neural spines	
+ZDB-ANAT-050228-47	neural tube	presumptive central nervous system	
+ZDB-ANAT-070308-60	neurectodermal cell	neurectoderm cell	
+ZDB-ANAT-070308-9	neuroblast	neuroblasts	
+ZDB-ANAT-051116-7	neurocranial trabecula	trabecular cartilage	
+ZDB-ANAT-051116-7	neurocranial trabecula	trabecula	
+ZDB-ANAT-051116-7	neurocranial trabecula	neurocranial trabeculae	
+ZDB-ANAT-071024-2	neurocranium	braincase	
+ZDB-ANAT-050228-33	neuroectoderm	neural ectoderm	
+ZDB-ANAT-050228-33	neuroectoderm	neurectoderm	
+ZDB-ANAT-070308-74	neuroendocrine cell	neurosecretory cell	
+ZDB-ANAT-070308-240	neuroepithelial cell	neuroepithelial cells	
+ZDB-ANAT-080417-139	neurogenic field	neurogenic fields	
+ZDB-ANAT-050915-114	neurogenic placode	neurogenic placodes	
+ZDB-ANAT-070308-234	neuroglioform cell	spiderweb cell	
+ZDB-ANAT-050711-8	neurohypophysis	posterior pituitary	
+ZDB-ANAT-011113-175	neuromast	lateral line neuromast	
+ZDB-ANAT-011113-175	neuromast	neuromasts	
+ZDB-ANAT-011113-175	neuromast	lateral line organ	
+ZDB-ANAT-070308-298	neuromast hair cell	neuromast hair cells	
+ZDB-ANAT-070308-294	neuromast mantle cell	neuromast mantle cells	
+ZDB-ANAT-070308-295	neuromast support cell	neuromast support cells	
+ZDB-ANAT-060131-11	neuromere	neuromeres	
+ZDB-ANAT-060131-11	neuromere	neural segment	
+ZDB-ANAT-070308-14	neuronal stem cell	neuronal stem cells	
+ZDB-ANAT-070308-10	neuroplacodal cell	neuroplacodal cells	
+ZDB-ANAT-070308-146	neurosecretory neuron	neurosecretory neurons	
+ZDB-ANAT-070308-260	neutrophil	polymorphonuclear leucocyte	
+ZDB-ANAT-070308-260	neutrophil	neutrocyte	
+ZDB-ANAT-070308-260	neutrophil	polynuclear neutrophilic leukocyte	
+ZDB-ANAT-070308-260	neutrophil	PMN	
+ZDB-ANAT-070308-260	neutrophil	polymorphonuclear leukocyte	
+ZDB-ANAT-070308-260	neutrophil	neutrophilic leucocyte	
+ZDB-ANAT-070308-260	neutrophil	neutrophil leucocyte	
+ZDB-ANAT-070308-260	neutrophil	polynuclear neutrophilic leucocyte	
+ZDB-ANAT-070308-260	neutrophil	polymorphonuclear neutrophil	
+ZDB-ANAT-070308-260	neutrophil	neutrophil leukocyte	
+ZDB-ANAT-070308-260	neutrophil	neutrophilic leukocyte	
+ZDB-ANAT-070308-284	neutrophil progenitor cell	neutrophil stem cell	
+ZDB-ANAT-060331-79	neutrophilic metamyelocyte	juvenile neutrophil	
+ZDB-ANAT-060331-76	neutrophilic myeloblast	neutrophilic granuloblast	
+ZDB-ANAT-060331-78	neutrophilic myelocyte	neutrophilic myelocytes	
+ZDB-ANAT-060331-77	neutrophilic promyelocyte	promyelocyte	
+ZDB-ANAT-060331-77	neutrophilic promyelocyte	neutrophilic progranulocyte	
+ZDB-ANAT-060331-77	neutrophilic promyelocyte	neutrophilic premyelocyte	
+ZDB-ANAT-051116-27	nevus	f-nevi	
+ZDB-ANAT-051116-27	nevus	naevus	
+ZDB-ANAT-070308-193	nitrergic neuron	nitrergic neurons	
+ZDB-ANAT-050420-24	non neural ectoderm	ventral ectoderm	
+ZDB-ANAT-071024-4	non-Weberian precaudal vertebra	non-Weberian precaudal vertebrae	
+ZDB-ANAT-070308-134	non-visual cell (sensu Vertebrata)	non-visual cells (sensu Vertebrata)	
+ZDB-ANAT-050228-39	noninvoluting endocytic marginal cell cluster	NEM	
+ZDB-ANAT-050228-39	noninvoluting endocytic marginal cell cluster	noninvoluting endocytic marginal cells	
+ZDB-ANAT-070308-169	norepinephrin secreting cell	norepinephrin secreting cells	
+ZDB-ANAT-010921-564	notochord	notocord	
+ZDB-ANAT-070308-200	nucleate erythrocyte	red blood cell	
+ZDB-ANAT-070308-200	nucleate erythrocyte	RBC	
+ZDB-ANAT-011113-176	nucleus Edinger-Westphal	Edinger-Westphal nucleus	
+ZDB-ANAT-060131-17	nucleus of the tract of the anterior commissure	ntAC	
+ZDB-ANAT-060131-18	nucleus of the tract of the postoptic commissure	ntPOC	
+ZDB-ANAT-070517-20	occipital arch cartilage	occipital arch cartilages	
+ZDB-ANAT-011113-322	occipital lateral line	supratemporal lateral line	
+ZDB-ANAT-020309-72	occipital lateral line neuromast	neuromasts occipital	
+ZDB-ANAT-020309-72	occipital lateral line neuromast	neuromast occipital	
+ZDB-ANAT-060331-39	occipital region	basicranial region	
+ZDB-ANAT-011113-323	octaval nerve sensory nucleus	octaval nerve sensory nuclei	
+ZDB-ANAT-080417-137	ocular vasculature	eye vasculature	
+ZDB-ANAT-080417-137	ocular vasculature	optic vasculature	
+ZDB-ANAT-011113-474	oculomotor nucleus	nIII	
+ZDB-ANAT-011113-474	oculomotor nucleus	motor nucleus III	
+ZDB-ANAT-070308-20	odontoblast	odontoblasts	
+ZDB-ANAT-070308-210	odontoclast	odontoclasts	
+ZDB-ANAT-070308-65	odontocyte	odontocytes	
+ZDB-ANAT-011113-324	olfactory bulb	bulbus olfactorius	
+ZDB-ANAT-011113-324	olfactory bulb	olfactory lobe	
+ZDB-ANAT-070308-296	olfactory epithelial support cell	olfactory sustentacular cell	
+ZDB-ANAT-011113-475	olfactory epithelium	nasal epithelium	
+ZDB-ANAT-011113-475	olfactory epithelium	nasal sensory epithelium	
+ZDB-ANAT-080417-142	olfactory field	olfactory fields	
+ZDB-ANAT-010921-558	olfactory pit	nasal pit	
+ZDB-ANAT-010921-558	olfactory pit	olfactory cavity	
+ZDB-ANAT-010921-558	olfactory pit	nasal canal	
+ZDB-ANAT-010921-558	olfactory pit	nasal cavity	
+ZDB-ANAT-010921-464	olfactory placode	olfactory placodes	
+ZDB-ANAT-070308-94	olfactory receptor cell	olfactory sensory neuron	
+ZDB-ANAT-070308-94	olfactory receptor cell	olfactory receptor neuron	
+ZDB-ANAT-070308-94	olfactory receptor cell	Schultze's cell	
+ZDB-ANAT-011113-276	olfactory region	ethmoid region	
+ZDB-ANAT-060331-53	olfactory rosette	olfactory rosettes	
+ZDB-ANAT-011113-73	olfactory support cell	support cells	
+ZDB-ANAT-060131-75	oligodendrocyte	oligodendroglia	
+ZDB-ANAT-050228-23	oocyte	egg	
+ZDB-ANAT-050228-23	oocyte	ovum	
+ZDB-ANAT-070928-169	oocyte stage I	oocytes stage I	
+ZDB-ANAT-070928-167	oocyte stage II	oocytes stage II	
+ZDB-ANAT-070928-168	oocyte stage III	oocytes stage III	
+ZDB-ANAT-070928-170	oocyte stage IV	oocytes stage IV	
+ZDB-ANAT-070928-171	oocyte stage V	unactivated egg	
+ZDB-ANAT-070928-171	oocyte stage V	mature egg	
+ZDB-ANAT-011113-181	opercle	opercles	
+ZDB-ANAT-050915-140	opercular artery	external carotid artery	
+ZDB-ANAT-050915-140	opercular artery	ORA	
+ZDB-ANAT-011113-476	opercular flap	gill slit	
+ZDB-ANAT-011113-476	opercular flap	opercular apparatus	
+ZDB-ANAT-011113-476	opercular flap	operculum	
+ZDB-ANAT-011113-476	opercular flap	gill cover	
+ZDB-ANAT-011113-35	opercular lateral line	opercular lateral lines	
+ZDB-ANAT-020309-187	opercular lateral line neuromast	neuromasts opercular	
+ZDB-ANAT-020309-187	opercular lateral line neuromast	neuromast opercular	
+ZDB-ANAT-051116-28	optic artery	optic arteries	
+ZDB-ANAT-050711-17	optic cup	eye cup	
+ZDB-ANAT-080417-98	optic fiber layer	optic fiber layers	
+ZDB-ANAT-050915-89	optic fissure	choroid fissure	
+ZDB-ANAT-050915-89	optic fissure	optic fissures	
+ZDB-ANAT-080417-104	optic nerve head	optic nerve heads	
+ZDB-ANAT-011113-496	optic primordium	eye field	
+ZDB-ANAT-010921-465	optic recess	optic recesses	
+ZDB-ANAT-010921-566	optic stalk	optic stalks	
+ZDB-ANAT-011113-37	optic tectum	dorsal midbrain	
+ZDB-ANAT-011113-37	optic tectum	tectum opticum	
+ZDB-ANAT-011113-37	optic tectum	tectal lobe	
+ZDB-ANAT-011113-37	optic tectum	tectum	
+ZDB-ANAT-011113-37	optic tectum	mesencephalic tectum	
+ZDB-ANAT-011113-183	optic tract	optic tracts	
+ZDB-ANAT-051116-16	optic vein	OV	
+ZDB-ANAT-010921-466	optic vesicle	optic vesicles	
+ZDB-ANAT-011113-184	orbitosphenoid	orbitosphenoids	
+ZDB-ANAT-050915-113	organism subdivision	body part	
+ZDB-ANAT-050228-38	organizer inducing center	Nieuwkoop center	
+ZDB-ANAT-070308-22	osteoblast	osteoblasts	
+ZDB-ANAT-070308-36	osteoclast	chondroclast	
+ZDB-ANAT-070308-63	osteocyte	osteocytes	
+ZDB-ANAT-070308-144	osteoprogenitor cell	osteoprogenitor cells	
+ZDB-ANAT-011113-39	otic lateral line	otic lateral lines	
+ZDB-ANAT-010921-565	otic lateral line neuromast	neuromast otic	
+ZDB-ANAT-010921-565	otic lateral line neuromast	neuromasts otic	
+ZDB-ANAT-011113-121	otic region	cranial vault	
+ZDB-ANAT-010921-468	otic vesicle	otic capsule	
+ZDB-ANAT-010921-468	otic vesicle	otocyst	
+ZDB-ANAT-010921-468	otic vesicle	ov	
+ZDB-ANAT-080417-96	otolith	immature otolith	
+ZDB-ANAT-080417-96	otolith	statolith	
+ZDB-ANAT-080417-96	otolith	immature otoliths	
+ZDB-ANAT-011113-480	otolith organ	otolith organs	
+ZDB-ANAT-051116-10	outer limiting membrane	outer limiting membranes	
+ZDB-ANAT-050228-24	ovarian follicle	egg follicle	
+ZDB-ANAT-050711-72	ovarian follicle stage I	previtillogenic ovarian follicle	
+ZDB-ANAT-050711-74	ovarian follicle stage II	ovarian follicles stage II	
+ZDB-ANAT-050711-75	ovarian follicle stage III	ovarian follicles stage III	
+ZDB-ANAT-050711-73	ovarian follicle stage IV	mature ovarian follicle	
+ZDB-ANAT-011113-328	ovary	ovaries	
+ZDB-ANAT-011113-481	oviduct	oviducts	
+ZDB-ANAT-070308-127	oxygen accumulating cell	oxygen accumulating cells	
+ZDB-ANAT-070308-89	pain receptor cell	nocireceptor	
+ZDB-ANAT-070308-89	pain receptor cell	nociceptor	
+ZDB-ANAT-070928-145	paired fin cartilage	paired fin cartilages	
+ZDB-ANAT-060331-1	paired fin skeleton	appendicular skeleton	
+ZDB-ANAT-051116-34	palatocerebral artery	PLA	
+ZDB-ANAT-051116-40	palatocerebral vein	PLV	
+ZDB-ANAT-050711-80	palatoquadrate arch	dorsal mandibular arch	
+ZDB-ANAT-050711-80	palatoquadrate arch	upper pharyngeal jaw	
+ZDB-ANAT-050711-80	palatoquadrate arch	upper jaw	
+ZDB-ANAT-050711-80	palatoquadrate arch	dorsal visceral arch 1	
+ZDB-ANAT-060331-24	palatoquadrate cartilage	dorsal mandibular cartilage	
+ZDB-ANAT-060331-24	palatoquadrate cartilage	quadrate cartilage	
+ZDB-ANAT-060331-24	palatoquadrate cartilage	pterygoquadrate	
+ZDB-ANAT-070928-189	pallium	pallia	
+ZDB-ANAT-070308-78	pancreatic A cell	alpha cell	
+ZDB-ANAT-070308-76	pancreatic B cell	beta cell	
+ZDB-ANAT-060131-61	pancreatic bud	pancreatic buds	
+ZDB-ANAT-060331-48	parachordal cartilage	parachordal cartilages	
+ZDB-ANAT-051116-18	parachordal vessel	PAV	
+ZDB-ANAT-070308-186	paracrine cell	paracrine cells	
+ZDB-ANAT-070308-203	parafollicular cell	C cell	
+ZDB-ANAT-060331-11	parapophysis	transverse process	
+ZDB-ANAT-060331-11	parapophysis	lateral process of basiventral	
+ZDB-ANAT-060331-17	parapophysis 1	basipophysis 1	
+ZDB-ANAT-060331-17	parapophysis 1	lateral process 1	
+ZDB-ANAT-060331-18	parapophysis 2	basipophysis	
+ZDB-ANAT-060331-18	parapophysis 2	lateral process 2	
+ZDB-ANAT-070308-162	parathyroid hormone secreting cell	chief cell	
+ZDB-ANAT-011113-40	paraventricular organ	PVO	
+ZDB-ANAT-011113-186	paraxial mesoderm	paraxial mesenchyme	
+ZDB-ANAT-011113-363	parhypural	parhyural	
+ZDB-ANAT-011113-363	parhypural	phy	
+ZDB-ANAT-011113-41	parietal bone	post parietal	
+ZDB-ANAT-050711-10	pars anterior	pars distalis	
+ZDB-ANAT-011113-187	pars subcommissuralis of ventral telencephalon	pars subcommissuralis of V	
+ZDB-ANAT-011113-330	parvocellular superficial pretectal nucleus	parvocellular superficial pretectal nuclei	
+ZDB-ANAT-060816-43	pectoral artery	PA	
+ZDB-ANAT-060816-43	pectoral artery	subclavian artery	
+ZDB-ANAT-050304-1	pectoral fin	pectoral fins	
+ZDB-ANAT-010921-571	pectoral fin bud	pectoral fin buds	
+ZDB-ANAT-011113-188	pectoral fin cartilage	pectoral fin cartilages	
+ZDB-ANAT-071024-10	pectoral fin distal radial	pectoral fin distal radials	
+ZDB-ANAT-060816-25	pectoral fin endoskeletal disc	fin plate cartilage	
+ZDB-ANAT-060816-22	pectoral fin field	pectoral fin fields	
+ZDB-ANAT-070928-153	pectoral fin lepidotrichium	pectoral fin lepidotrichia	
+ZDB-ANAT-070928-153	pectoral fin lepidotrichium	pectoral fin ray	
+ZDB-ANAT-011113-484	pectoral fin musculature	pectoral fin muscle	
+ZDB-ANAT-071024-8	pectoral fin radial	pectoral fin radials	
+ZDB-ANAT-011113-331	pectoral girdle	pectoral girdles	
+ZDB-ANAT-060816-64	pectoral lymphatic vessel	PL	
+ZDB-ANAT-060816-44	pectoral vein	PV	
+ZDB-ANAT-011113-485	pelvic abductor profundus	pelvic abductors profundus	
+ZDB-ANAT-011113-42	pelvic adductor profundus	pelvic adductors profundus	
+ZDB-ANAT-050420-3	pelvic fin	pelvic fins	
+ZDB-ANAT-060131-55	pelvic fin bud	pelvic fin buds	
+ZDB-ANAT-060816-28	pelvic fin cartilage	pelvic fin cartilages	
+ZDB-ANAT-060816-23	pelvic fin field	pelvic fin fields	
+ZDB-ANAT-070928-154	pelvic fin lepidotrichium	pelvic fin ray	
+ZDB-ANAT-070928-154	pelvic fin lepidotrichium	pelvic fin lepidotrichia	
+ZDB-ANAT-011113-486	pelvic girdle	pelvic girdles	
+ZDB-ANAT-011113-43	pelvic radial	pelvic radials	
+ZDB-ANAT-060331-42	pelvic radial 1	pelvic radials 1	
+ZDB-ANAT-070928-144	pelvic radial 1 cartilage	pelvic radials 1 cartilages	
+ZDB-ANAT-060331-40	pelvic radial 2	pelvic radials 2	
+ZDB-ANAT-070928-143	pelvic radial 2 cartilage	pelvic radials 2 cartilages	
+ZDB-ANAT-060331-41	pelvic radial 3	pelvic radials 3	
+ZDB-ANAT-070928-142	pelvic radial 3 cartilage	pelvic radials 3 cartilages	
+ZDB-ANAT-070928-140	pelvic radial cartilage	pelvic radial cartilages	
+ZDB-ANAT-060816-69	peptide hormone secreting cell	peptide hormone secreting cells	
+ZDB-ANAT-070308-47	peptidergic neuron	peptidergic neurons	
+ZDB-ANAT-070308-245	periarticular chondrocyte	periarticular chondrocytes	
+ZDB-ANAT-010921-471	pericardium	pericardial sac	
+ZDB-ANAT-080417-109	perichondral bone	perichondral bones	
+ZDB-ANAT-080417-113	perichondrium	cartilage connective tissue	
+ZDB-ANAT-080417-108	perichordal bone	perichordal bones	
+ZDB-ANAT-070308-86	pericyte	pericytes	
+ZDB-ANAT-050420-30	periderm	EVL	
+ZDB-ANAT-070308-31	peridermal cell	peridermal cells	
+ZDB-ANAT-070308-231	perijunctional fibroblast	perijunctional fibroblasts	
+ZDB-ANAT-070308-190	perineuronal satellite cell	perineural satellite cell	
+ZDB-ANAT-010921-572	peripheral nervous system	pns	
+ZDB-ANAT-070308-48	peripheral neuron	peripheral neurons	
+ZDB-ANAT-010921-463	peripheral olfactory organ	nose	
+ZDB-ANAT-010921-463	peripheral olfactory organ	nasal sac	
+ZDB-ANAT-070308-208	peritoneal macrophage	peritoneal macrophages	
+ZDB-ANAT-011113-44	periventricular grey zone	periventricular grey zones	
+ZDB-ANAT-011113-190	periventricular nucleus	periventricular nuclei	
+ZDB-ANAT-011113-333	periventricular nucleus of caudal tuberculum	periventricular nucleus of posterior tuberculum	
+ZDB-ANAT-070308-109	phagocyte	phagocytes	
+ZDB-ANAT-050915-111	pharyngeal arch	pharyngeal arches	
+ZDB-ANAT-080417-91	pharyngeal arch 1	pharyngeal arches 1	
+ZDB-ANAT-080417-90	pharyngeal arch 2	hyoid arch	
+ZDB-ANAT-080417-90	pharyngeal arch 2	pharyngeal arches 2	
+ZDB-ANAT-080417-90	pharyngeal arch 2	visceral arch 2	
+ZDB-ANAT-050711-84	pharyngeal arch 2 skeleton	hyoid bars	
+ZDB-ANAT-080417-85	pharyngeal arch 3	gill arch 1	
+ZDB-ANAT-080417-85	pharyngeal arch 3	branchial arch 1	
+ZDB-ANAT-080417-85	pharyngeal arch 3	visceral arch 3	
+ZDB-ANAT-080417-92	pharyngeal arch 3-7	branchial arch	
+ZDB-ANAT-080417-92	pharyngeal arch 3-7	branchial arches	
+ZDB-ANAT-080417-92	pharyngeal arch 3-7	gill arches 1-5	
+ZDB-ANAT-080417-92	pharyngeal arch 3-7	visceral arches 3-7	
+ZDB-ANAT-080417-92	pharyngeal arch 3-7	gill arch	
+ZDB-ANAT-080417-86	pharyngeal arch 4	branchial arch 2	
+ZDB-ANAT-080417-86	pharyngeal arch 4	gill arch 2	
+ZDB-ANAT-080417-86	pharyngeal arch 4	visceral arch 4	
+ZDB-ANAT-080417-87	pharyngeal arch 5	branchial arch 3	
+ZDB-ANAT-080417-87	pharyngeal arch 5	gill arch 3	
+ZDB-ANAT-080417-87	pharyngeal arch 5	visceral arch 5	
+ZDB-ANAT-080417-88	pharyngeal arch 6	visceral arch 6	
+ZDB-ANAT-080417-88	pharyngeal arch 6	branchial arch 4	
+ZDB-ANAT-080417-88	pharyngeal arch 6	gill arch 4	
+ZDB-ANAT-080417-89	pharyngeal arch 7	branchial arch 5	
+ZDB-ANAT-080417-89	pharyngeal arch 7	gill arch 5	
+ZDB-ANAT-080417-89	pharyngeal arch 7	visceral arch 7	
+ZDB-ANAT-060816-29	pharyngeal arch cartilage	pharyngeal arch cartilages	
+ZDB-ANAT-060816-29	pharyngeal arch cartilage	splanchnocranium cartilage	
+ZDB-ANAT-050228-20	pharyngeal pouch	pharyngeal pouches	
+ZDB-ANAT-050228-40	pharyngeal pouch 1	pharyngeal pouches 1	
+ZDB-ANAT-050228-42	pharyngeal pouch 2	pharyngeal pouches 2	
+ZDB-ANAT-050228-43	pharyngeal pouch 3	pharyngeal pouches 3	
+ZDB-ANAT-050228-46	pharyngeal pouch 4	pharyngeal pouches 4	
+ZDB-ANAT-050228-45	pharyngeal pouch 5	pharyngeal pouches 5	
+ZDB-ANAT-050228-44	pharyngeal pouch 6	pharyngeal pouches 6	
+ZDB-ANAT-050228-41	pharyngeal pouches 2-6	pharyngeal pouches 2-6	
+ZDB-ANAT-050915-123	pharyngeal vasculature	branchial basket	
+ZDB-ANAT-050915-123	pharyngeal vasculature	branchial vasculature	
+ZDB-ANAT-050711-60	pharyngobranchial 2 bone	infrapharyngobranchial 2	
+ZDB-ANAT-070928-138	pharyngobranchial 2 cartilage	pharyngobranchial 2 cartilages	
+ZDB-ANAT-050711-62	pharyngobranchial 3 bone	pharyngobranchial 3 bones	
+ZDB-ANAT-070928-136	pharyngobranchial 3 cartilage	pharyngobranchial 3 cartilages	
+ZDB-ANAT-050711-61	pharyngobranchial 4 cartilage	infrapharyngobranchials	
+ZDB-ANAT-011113-45	pharyngobranchial bone	infrapharyngobranchial	
+ZDB-ANAT-070928-135	pharyngobranchial cartilage	pharyngobranchial cartilages	
+ZDB-ANAT-070308-173	photopic photoreceptor cell	photopic photoreceptor cells	
+ZDB-ANAT-070308-96	photoreceptor cell	photoreceptor cells	
+ZDB-ANAT-061101-9	photoreceptor inner segment layer	photoreceptor inner segment layers	
+ZDB-ANAT-061101-10	photoreceptor outer segment layer	photoreceptor outer segment layers	
+ZDB-ANAT-010921-474	pigment cell	chromatocyte	
+ZDB-ANAT-010921-474	pigment cell	chromatophore	
+ZDB-ANAT-070308-132	pigment cell (sensu Vertebrata)	pigment cells (sensu Vertebrata)	
+ZDB-ANAT-070308-194	pigmented epithelial cell	pigmented epithelial cells	
+ZDB-ANAT-080417-134	pillar of the anterior semicircular canal	anterior pillar	
+ZDB-ANAT-080417-134	pillar of the anterior semicircular canal	anterior pillar of the semicircular canal	
+ZDB-ANAT-080417-135	pillar of the lateral semicircular canal	ventral piller of the semicircular canal	
+ZDB-ANAT-080417-135	pillar of the lateral semicircular canal	ventral pillar	
+ZDB-ANAT-080417-136	pillar of the posterior semicircular canal	posterior pillar of the semicircular	
+ZDB-ANAT-080417-136	pillar of the posterior semicircular canal	posterior pillar	
+ZDB-ANAT-070308-222	pinealocyte	pinealocytes	
+ZDB-ANAT-070308-265	plasma cell	plasmacyte	
+ZDB-ANAT-070308-223	podocyte	podocytes	
+ZDB-ANAT-010921-475	polster	pillow	
+ZDB-ANAT-070308-40	polymodal neuron	polymodal neurons	
+ZDB-ANAT-060331-22	post-Weberian supraneural	post-Weberian supraneurals	
+ZDB-ANAT-050228-30	post-vent region	tail	
+ZDB-ANAT-011113-335	postcleithrum	postcleithra	
+ZDB-ANAT-020309-191	postcommissural nucleus of ventral telencephalon	area ventralis telencephali, nucleus postcommissuralis	
+ZDB-ANAT-020309-191	postcommissural nucleus of ventral telencephalon	postcommissural nucleus of V	
+ZDB-ANAT-060816-26	postcranial axial cartilage	postcranial axial cartilages	
+ZDB-ANAT-011113-244	postcranial axial skeleton	axial skeleton	
+ZDB-ANAT-011113-401	posterior cardinal vein	caudal cardinal veins	
+ZDB-ANAT-011113-401	posterior cardinal vein	postcardinal vein	
+ZDB-ANAT-011113-401	posterior cardinal vein	axial vein	
+ZDB-ANAT-011113-401	posterior cardinal vein	PCV	
+ZDB-ANAT-050915-87	posterior cerebral vein	PCeV	
+ZDB-ANAT-050915-87	posterior cerebral vein	caudal cerebral vein	
+ZDB-ANAT-050915-121	posterior communicating artery	PCS	
+ZDB-ANAT-050915-121	posterior communicating artery	caudal communicating segment	
+ZDB-ANAT-050915-121	posterior communicating artery	PCA	
+ZDB-ANAT-050915-121	posterior communicating artery	posterior communicating segment of the basilar artery	
+ZDB-ANAT-011113-490	posterior crista	posterior cristae	
+ZDB-ANAT-011113-490	posterior crista	posterior semicircular canal sensory patches	
+ZDB-ANAT-011113-490	posterior crista	posterior crista ampullaris	
+ZDB-ANAT-011113-490	posterior crista	pc	
+ZDB-ANAT-011113-490	posterior crista	posterior semicircular canal sensory patch	
+ZDB-ANAT-011113-490	posterior crista	caudal crista	
+ZDB-ANAT-011113-336	posterior crista primordium	posterior crista primordia	
+ZDB-ANAT-050915-98	posterior kidney	posterior kidneys	
+ZDB-ANAT-020309-306	posterior lateral line	pll	
+ZDB-ANAT-050915-118	posterior lateral line ganglion	posterior lateral line ganglia	
+ZDB-ANAT-011113-109	posterior lateral line nerve	caudal lateral line nerve	
+ZDB-ANAT-020309-302	posterior lateral line neuromast	neuromasts posterior	
+ZDB-ANAT-020309-302	posterior lateral line neuromast	neuromast posterior	
+ZDB-ANAT-050228-66	posterior lateral line placode	posterior lateral line placodes	
+ZDB-ANAT-050228-67	posterior lateral line primordium	posterior lateral line primordia	
+ZDB-ANAT-051116-24	posterior lateral mesoderm	PLM	
+ZDB-ANAT-051116-26	posterior lateral plate mesoderm	PLPM	
+ZDB-ANAT-011113-48	posterior macula	posterior sensory patch	
+ZDB-ANAT-011113-48	posterior macula	pm	
+ZDB-ANAT-011113-48	posterior macula	posteromedial macula	
+ZDB-ANAT-060816-36	posterior mesencephalic central artery	PMCtA	
+ZDB-ANAT-060816-36	posterior mesencephalic central artery	caudal mesencephalic central artery	
+ZDB-ANAT-060816-45	posterior mesenteric artery	caudal mesenteric artery	
+ZDB-ANAT-060816-45	posterior mesenteric artery	PMA	
+ZDB-ANAT-060331-51	posterior naris	posterior nares	
+ZDB-ANAT-060131-44	posterior pancreatic bud	dorsal pancreatic anlage	
+ZDB-ANAT-080417-102	posterior pronephric duct	posterior pronephric ducts	
+ZDB-ANAT-060331-57	posterior sclerotic bone	posterior sclerotic bones	
+ZDB-ANAT-011113-192	posterior semicircular canal	caudal vertical semicircular canal	
+ZDB-ANAT-011113-192	posterior semicircular canal	posterior semicircular canals	
+ZDB-ANAT-011113-192	posterior semicircular canal	posterior semicircular duct	
+ZDB-ANAT-011113-337	posterior semicircular canal primordium	posterior semicircular canal primordia	
+ZDB-ANAT-010921-476	postoptic commissure	POC	
+ZDB-ANAT-010921-476	postoptic commissure	post optic commissure	
+ZDB-ANAT-010921-476	postoptic commissure	post-optic commissure	
+ZDB-ANAT-070928-173	postovulatory follicle	postovulatory follicles	
+ZDB-ANAT-011113-47	posttemporal	postemporal	
+ZDB-ANAT-070308-277	pre-B cell	pre-B lymphocyte	
+ZDB-ANAT-011113-193	precaudal vertebra	trunk vertebra	
+ZDB-ANAT-011113-193	precaudal vertebra	abdominal vertebra	
+ZDB-ANAT-011113-193	precaudal vertebra	precaudal vertebrae	
+ZDB-ANAT-060331-29	preethmoid bone	preethmoid bones	
+ZDB-ANAT-011113-492	premaxilla	premaxillae	
+ZDB-ANAT-070928-179	premaxilla ascending process	premaxilla ascending processes	
+ZDB-ANAT-011113-194	preopercle	preopercles	
+ZDB-ANAT-080417-73	preopercle horizontal limb	preopercle horizontal arm	
+ZDB-ANAT-080417-73	preopercle horizontal limb	preopercle lower limb	
+ZDB-ANAT-080417-74	preopercle vertical limb	preopercle vertical arm	
+ZDB-ANAT-080417-74	preopercle vertical limb	preopercle upper limb	
+ZDB-ANAT-011113-395	preoptic area	preoptic region	
+ZDB-ANAT-011113-395	preoptic area	area praeoptica	
+ZDB-ANAT-011113-395	preoptic area	area preoptica	
+ZDB-ANAT-070308-214	pressoreceptor cell	pressoreceptor cells	
+ZDB-ANAT-010921-578	presumptive brain	brain rudiment	
+ZDB-ANAT-060131-50	presumptive ectoderm	presumptive epidermis	
+ZDB-ANAT-010921-479	presumptive forebrain	presumptive prosencephalon	
+ZDB-ANAT-011113-495	presumptive hindbrain	presumptive rhombencephalon	
+ZDB-ANAT-010921-580	presumptive midbrain	presumptive mesencephalon	
+ZDB-ANAT-010921-480	presumptive neural plate	neurectoderm	
+ZDB-ANAT-010921-480	presumptive neural plate	prospective neuroectoderm	
+ZDB-ANAT-010921-480	presumptive neural plate	presumptive central nervous system	
+ZDB-ANAT-010921-480	presumptive neural plate	prospective vegetal ectoderm	
+ZDB-ANAT-030922-1	presumptive neural retina	presumptive retinas	
+ZDB-ANAT-030922-1	presumptive neural retina	inner layer optic cup	
+ZDB-ANAT-020309-192	presumptive neuron neural tube	presumptive neurons neural tube	
+ZDB-ANAT-020702-9	presumptive pronephric mesoderm	nephron primordium	
+ZDB-ANAT-010921-481	presumptive retinal pigmented epithelium	outer layer optic cup	
+ZDB-ANAT-010921-481	presumptive retinal pigmented epithelium	presumptive pigmented epithelia	
+ZDB-ANAT-010921-470	presumptive segmental plate	presumptive segmental plates	
+ZDB-ANAT-011113-343	presumptive spinal cord	presumptive spinal cord neural keel	
+ZDB-ANAT-011113-343	presumptive spinal cord	presumptive spinal cord neural plate	
+ZDB-ANAT-011113-343	presumptive spinal cord	presumptive spinal cord neural rod	
+ZDB-ANAT-050228-3	presumptive structure	presumptive structures	
+ZDB-ANAT-011113-53	pretectal periventricular nucleus	pretectal periventricular nuclei	
+ZDB-ANAT-011113-196	pretecto-mamillary tract	pretectomamillary tract	
+ZDB-ANAT-011113-479	preural 1 vertebra	penultimate vertebra	
+ZDB-ANAT-011113-479	preural 1 vertebra	pu1	
+ZDB-ANAT-011113-479	preural 1 vertebra	preural centrum 1	
+ZDB-ANAT-011113-479	preural 1 vertebra	second last vertebra	
+ZDB-ANAT-011113-514	preural 2 vertebra	third last vertebra	
+ZDB-ANAT-011113-514	preural 2 vertebra	pu2	
+ZDB-ANAT-011113-514	preural 2 vertebra	antepenultimate vertebra	
+ZDB-ANAT-011113-514	preural 2 vertebra	preural centrum 2	
+ZDB-ANAT-020309-114	preural vertebra	caudal fin vertebra	
+ZDB-ANAT-020309-114	preural vertebra	specialized centra/vertebrae	
+ZDB-ANAT-011113-236	prevomer	vomer	
+ZDB-ANAT-070517-38	primary dental epithelium	tooth epithelium	
+ZDB-ANAT-070517-38	primary dental epithelium	pharyngeal tooth epithelium	
+ZDB-ANAT-050228-35	primary germ layer	embryonic germ layers	
+ZDB-ANAT-050915-86	primary head sinus	PHS	
+ZDB-ANAT-050915-86	primary head sinus	lateral head vein	
+ZDB-ANAT-011113-498	primary motor neuron	primary motoneuron	
+ZDB-ANAT-020309-195	primary neuron hindbrain	primary neurons hindbrain	
+ZDB-ANAT-011113-197	primary olfactory fiber layer	stratum nervosum bulbi olfactorii	
+ZDB-ANAT-061211-19	primary posterior lateral line primordium	primI	
+ZDB-ANAT-061211-19	primary posterior lateral line primordium	primary posterior lateral line primordia	
+ZDB-ANAT-020702-11	primitive internal carotid artery	PICA	
+ZDB-ANAT-060131-33	primitive meninx	meninx primitiva	
+ZDB-ANAT-060131-33	primitive meninx	meninges	
+ZDB-ANAT-020702-2	primitive mesencephalic artery	PMsA	
+ZDB-ANAT-051116-32	primitive prosencephalic artery	PPrA	
+ZDB-ANAT-020702-10	primordial hindbrain channel	PHBC	
+ZDB-ANAT-020702-10	primordial hindbrain channel	medial head vein	
+ZDB-ANAT-050915-83	primordial midbrain channel	PMBC	
+ZDB-ANAT-070308-282	pro-B cell	pro-B lymphocyte	
+ZDB-ANAT-050915-144	pro-T cell	DN1 thymocyte	
+ZDB-ANAT-050915-144	pro-T cell	pro-T lymphocyte	
+ZDB-ANAT-050915-144	pro-T cell	TN1 cell	
+ZDB-ANAT-050915-144	pro-T cell	DN1 cell	
+ZDB-ANAT-010921-484	proctodeum	anus	
+ZDB-ANAT-070308-67	professional antigen presenting cell	APC	
+ZDB-ANAT-070308-83	progesterone secreting cell	progesterone secreting cells	
+ZDB-ANAT-060816-70	prolactin secreting cell	lactotroph	
+ZDB-ANAT-060816-70	prolactin secreting cell	mammotroph	
+ZDB-ANAT-060816-70	prolactin secreting cell	lactotrope	
+ZDB-ANAT-060816-70	prolactin secreting cell	mammotropic cell	
+ZDB-ANAT-060816-70	prolactin secreting cell	mammotrope	
+ZDB-ANAT-060816-70	prolactin secreting cell	epsilon-acidophil	
+ZDB-ANAT-060816-70	prolactin secreting cell	lactotropic cell	
+ZDB-ANAT-060816-70	prolactin secreting cell	mammotrophic cell	
+ZDB-ANAT-010921-520	proliferative region	proliferation	
+ZDB-ANAT-010921-520	proliferative region	cell division	
+ZDB-ANAT-010921-520	proliferative region	cell cycle	
+ZDB-ANAT-070308-199	promonocyte	promonocytes	
+ZDB-ANAT-010921-585	pronephric duct	pronephric ducts	
+ZDB-ANAT-020702-13	pronephric duct opening	pronephric duct openings	
+ZDB-ANAT-070928-159	pronephric glomerulus	pronephric glomeruli	
+ZDB-ANAT-070928-160	pronephric tubule	ciliated neck segment	
+ZDB-ANAT-010921-586	pronephros	embryonic kidney	
+ZDB-ANAT-010921-486	proneural cluster	proneural clusters	
+ZDB-ANAT-011113-500	prootic	prootics	
+ZDB-ANAT-071024-11	propterygium	propterygia	
+ZDB-ANAT-051116-33	prosencephalic artery	PrA	
+ZDB-ANAT-011113-54	protractor hyoidei	protractors hyoidei	
+ZDB-ANAT-080417-99	proximal convoluted tubule	PCT	
+ZDB-ANAT-080417-100	proximal straight tubule	proximal straight tubules	
+ZDB-ANAT-050915-130	pseudobranchial artery	pseudobranchial arteries	
+ZDB-ANAT-070308-42	pseudounipolar neuron	pseudounipolar neurons	
+ZDB-ANAT-011113-345	pterosphenoid	pterosphenoids	
+ZDB-ANAT-011113-501	pterotic	autopterotic	
+ZDB-ANAT-050915-88	pupil	pupils	
+ZDB-ANAT-070308-213	pyramidal cell	pyramidal cells	
+ZDB-ANAT-011113-55	quadrate	quadrates	
+ZDB-ANAT-080417-72	quadrate ventral process	quadrate ventral processes	
+ZDB-ANAT-011113-200	radial	radials	
+ZDB-ANAT-050915-162	radial glial cell	radial glial cells	
+ZDB-ANAT-060816-56	ray vein	ray veins	
+ZDB-ANAT-070308-1	receptor cell (sensu Animalia)	receptor cells (sensu Animalia)	
+ZDB-ANAT-050915-133	recurrent branch afferent branchial artery	recurrent branch afferent branchial arteries	
+ZDB-ANAT-050915-133	recurrent branch afferent branchial artery	RCB	
+ZDB-ANAT-070308-177	red sensitive photoreceptor cell	red sensitive photoreceptor cells	
+ZDB-ANAT-050711-78	regenerating fin	regenerating fins	
+ZDB-ANAT-070928-183	regenerating tissue	regenerating tissues	
+ZDB-ANAT-060131-60	regeneration epithelium	epidermal cap	
+ZDB-ANAT-060131-60	regeneration epithelium	wound epidermis	
+ZDB-ANAT-060131-60	regeneration epithelium	wound epithelium	
+ZDB-ANAT-011113-346	renal artery	renal arteries	
+ZDB-ANAT-050915-93	renal glomerulus	renal glomeruli	
+ZDB-ANAT-011113-502	renal portal vein	renal portal veins	
+ZDB-ANAT-050915-92	renal tubule	mesonephric tubule	
+ZDB-ANAT-050915-92	renal tubule	renal tubules	
+ZDB-ANAT-080417-107	replacement bone	replacement bones	
+ZDB-ANAT-070308-158	reticular cell	reticular cells	
+ZDB-ANAT-070308-198	reticulocyte	reticulocytes	
+ZDB-ANAT-010921-587	retina	retinas	
+ZDB-ANAT-051116-43	retinal cone cell	retinal cone cells	
+ZDB-ANAT-051116-46	retinal ganglion cell	gangliocyte	
+ZDB-ANAT-051116-46	retinal ganglion cell	RGC	
+ZDB-ANAT-010921-435	retinal ganglion cell layer	ganglion cell layer	
+ZDB-ANAT-010921-544	retinal inner nuclear layer	intermediate cell layer	
+ZDB-ANAT-010921-544	retinal inner nuclear layer	inner nuclear layer	
+ZDB-ANAT-051116-8	retinal inner plexiform layer	inner plexiform layer	
+ZDB-ANAT-010921-459	retinal neural layer	neuroretina	
+ZDB-ANAT-010921-459	retinal neural layer	neural retina	
+ZDB-ANAT-061101-8	retinal outer nuclear layer	retinal outer nuclear layers	
+ZDB-ANAT-051116-9	retinal outer plexiform layer	retinal outer plexiform layers	
+ZDB-ANAT-010921-574	retinal photoreceptor layer	retinal photoreceptor layers	
+ZDB-ANAT-010921-575	retinal pigmented epithelium	pigmented epithelium	
+ZDB-ANAT-010921-575	retinal pigmented epithelium	pigmented retinal epithelium	
+ZDB-ANAT-010921-575	retinal pigmented epithelium	RPE	
+ZDB-ANAT-010921-575	retinal pigmented epithelium	pigmented retina	
+ZDB-ANAT-010921-575	retinal pigmented epithelium	PRE	
+ZDB-ANAT-051116-44	retinal rod cell	retinal rod cells	
+ZDB-ANAT-011113-348	retroarticular	retroarticulars	
+ZDB-ANAT-020702-3	rhombomere	hindbrain segment	
+ZDB-ANAT-020702-3	rhombomere	neuromere	
+ZDB-ANAT-020702-3	rhombomere	rhombomeres	
+ZDB-ANAT-020309-81	rhombomere 1	r1	
+ZDB-ANAT-020309-196	rhombomere 2	r2	
+ZDB-ANAT-020309-311	rhombomere 3	r3	
+ZDB-ANAT-020309-82	rhombomere 4	r4	
+ZDB-ANAT-020309-197	rhombomere 5	r5	
+ZDB-ANAT-010921-487	rhombomere 6	r6	
+ZDB-ANAT-020309-312	rhombomere 7	r7	
+ZDB-ANAT-010921-588	rhombomere 8	r8	
+ZDB-ANAT-011113-46	rib	dorsal rib	
+ZDB-ANAT-011113-46	rib	pleural rib	
+ZDB-ANAT-070308-254	rod bipolar cell	rod bipolar cells	
+ZDB-ANAT-051116-13	rostral blood island	RBI	
+ZDB-ANAT-011113-57	rostral cerebellar tract	tractus cerebellaris anterior	
+ZDB-ANAT-011113-57	rostral cerebellar tract	anterior cerebellar tract	
+ZDB-ANAT-011113-506	rostral mesencephalo-cerebellar tract	anterior mesencephalo-cerebellar tract	
+ZDB-ANAT-011113-204	rostral octaval nucleus	nucleus octavus anterior	
+ZDB-ANAT-011113-204	rostral octaval nucleus	anterior octaval nucleus	
+ZDB-ANAT-011113-351	rostral parvocellular preoptic nucleus	anterior parvocellular preoptic nucleus	
+ZDB-ANAT-011113-351	rostral parvocellular preoptic nucleus	rostral parvocellular preoptic nuclei	
+ZDB-ANAT-011113-507	rostral preglomerular nucleus	anterior preglomerular nucleus	
+ZDB-ANAT-011113-507	rostral preglomerular nucleus	nucleus praeglomerulosus anterior	
+ZDB-ANAT-011113-352	rostral thalamic nucleus	anterior thalamic nucleus	
+ZDB-ANAT-011113-352	rostral thalamic nucleus	nucleus anterior thalami	
+ZDB-ANAT-011113-508	rostral tuberal nucleus	nucleus tuberis anterior	
+ZDB-ANAT-011113-508	rostral tuberal nucleus	anterior tuberal nucleus	
+ZDB-ANAT-011113-353	saccule	sacculus	
+ZDB-ANAT-011113-61	sagitta	saccular otolith	
+ZDB-ANAT-011113-61	sagitta	immature posterior otolith	
+ZDB-ANAT-011113-61	sagitta	sacculith	
+ZDB-ANAT-011113-207	scale	scales	
+ZDB-ANAT-011113-510	scapula	scapulae	
+ZDB-ANAT-060816-24	scapulocoracoid	coraco-scapular cartilage	
+ZDB-ANAT-070308-136	scleral cell	scleral cells	
+ZDB-ANAT-060331-36	sclerotic bone	sclerotic bones	
+ZDB-ANAT-070517-25	sclerotic cartilage	sclerotic cartilages	
+ZDB-ANAT-030922-5	sclerotome	sclerotomes	
+ZDB-ANAT-011113-511	secondary motor neuron	secondary motoneuron	
+ZDB-ANAT-070308-196	secondary neuron	secondary neurons	
+ZDB-ANAT-061211-20	secondary posterior lateral line primordium	secondary posterior lateral line primordia	
+ZDB-ANAT-011113-62	segmental intercostal artery	segmental intercostal arteries	
+ZDB-ANAT-011113-209	segmental plate	PSM	
+ZDB-ANAT-011113-209	segmental plate	presomitic mesoderm	
+ZDB-ANAT-011113-356	semicircular canal	scc	
+ZDB-ANAT-011113-356	semicircular canal	semicircular duct	
+ZDB-ANAT-011113-356	semicircular canal	semicircular canals	
+ZDB-ANAT-070308-123	seminal fluid secreting cell	seminal fluid secreting cells	
+ZDB-ANAT-070308-37	sensory epithelial cell	sensory epithelial cells	
+ZDB-ANAT-070308-145	sensory processing neuron	sensory processing neurons	
+ZDB-ANAT-011113-64	sensory root of facial nerve	sensory roots of facial nerves	
+ZDB-ANAT-011113-211	sensory system	sensory systems	
+ZDB-ANAT-011113-358	sensory trigeminal nuclei	sensory trigeminal nuclei	
+ZDB-ANAT-070308-168	serotin secreting cell	serotin secreting cells	
+ZDB-ANAT-070308-152	serotinergic neuron	serotinergic neurons	
+ZDB-ANAT-070308-293	serotonergic neuron	5-hydroxytryptamine neuron	
+ZDB-ANAT-070308-293	serotonergic neuron	5-HT neuron	
+ZDB-ANAT-010921-489	shield	Spemann Mangold organizer	
+ZDB-ANAT-010921-489	shield	organizer	
+ZDB-ANAT-010921-489	shield	Spemann's organizer	
+ZDB-ANAT-070308-68	simple columnar epithelial cell	simple columnar epithelial cells	
+ZDB-ANAT-070517-12	simple columnar epithelium	simple columnar epithelia	
+ZDB-ANAT-070517-13	simple cuboidal epithelium	simple cuboidal epithelia	
+ZDB-ANAT-070517-8	simple organ	simple organs	
+ZDB-ANAT-070517-14	simple squamous epithelium	simple squamous epithelia	
+ZDB-ANAT-070308-11	single fate stem cell	single fate stem cells	
+ZDB-ANAT-011113-65	sinoatrial valve	sinoatrial valves	
+ZDB-ANAT-050915-159	skeletal muscle cell	striated muscle cell	
+ZDB-ANAT-070308-189	skeletal muscle myoblast	skeletal muscle myoblasts	
+ZDB-ANAT-070308-212	skeletal muscle satellite cell	skeletal muscle satellite cells	
+ZDB-ANAT-031211-15	slow muscle cell	red muscle cell	
+ZDB-ANAT-020309-325	slow muscle cell somite 1	slow muscle cells somite 1	
+ZDB-ANAT-020309-96	slow muscle cell somite 10	slow muscle cells somite 10	
+ZDB-ANAT-020309-211	slow muscle cell somite 11	slow muscle cells somite 11	
+ZDB-ANAT-020309-326	slow muscle cell somite 12	slow muscle cells somite 12	
+ZDB-ANAT-020309-97	slow muscle cell somite 13	slow muscle cells somite 13	
+ZDB-ANAT-020309-212	slow muscle cell somite 14	slow muscle cells somite 14	
+ZDB-ANAT-020309-327	slow muscle cell somite 15	slow muscle cells somite 15	
+ZDB-ANAT-020309-98	slow muscle cell somite 16	slow muscle cells somite 16	
+ZDB-ANAT-020309-213	slow muscle cell somite 17	slow muscle cells somite 17	
+ZDB-ANAT-020309-328	slow muscle cell somite 18	slow muscle cells somite 18	
+ZDB-ANAT-020309-99	slow muscle cell somite 19	slow muscle cells somite 19	
+ZDB-ANAT-020309-214	slow muscle cell somite 2	slow muscle cells somite 2	
+ZDB-ANAT-020309-329	slow muscle cell somite 20	slow muscle cells somite 20	
+ZDB-ANAT-020309-100	slow muscle cell somite 21	slow muscle cells somite 21	
+ZDB-ANAT-020309-215	slow muscle cell somite 22	slow muscle cells somite 22	
+ZDB-ANAT-020309-330	slow muscle cell somite 23	slow muscle cells somite 23	
+ZDB-ANAT-020309-101	slow muscle cell somite 24	slow muscle cells somite 24	
+ZDB-ANAT-020309-216	slow muscle cell somite 25	slow muscle cells somite 25	
+ZDB-ANAT-020309-331	slow muscle cell somite 26	slow muscle cells somite 26	
+ZDB-ANAT-020309-102	slow muscle cell somite 27	slow muscle cells somite 27	
+ZDB-ANAT-020309-217	slow muscle cell somite 28	slow muscle cells somite 28	
+ZDB-ANAT-020309-332	slow muscle cell somite 29	slow muscle cells somite 29	
+ZDB-ANAT-020309-103	slow muscle cell somite 3	slow muscle cells somite 3	
+ZDB-ANAT-020309-218	slow muscle cell somite 30	slow muscle cells somite 30	
+ZDB-ANAT-020309-333	slow muscle cell somite 4	slow muscle cells somite 4	
+ZDB-ANAT-020309-104	slow muscle cell somite 5	slow muscle cells somite 5	
+ZDB-ANAT-020309-219	slow muscle cell somite 6	slow muscle cells somite 6	
+ZDB-ANAT-020309-334	slow muscle cell somite 7	slow muscle cells somite 7	
+ZDB-ANAT-020309-105	slow muscle cell somite 8	slow muscle cells somite 8	
+ZDB-ANAT-020309-220	slow muscle cell somite 9	slow muscle cells somite 9	
+ZDB-ANAT-070308-299	slow muscle myoblast	slow muscle myoblasts	
+ZDB-ANAT-070308-88	smooth muscle cell	non-striated muscle cell	
+ZDB-ANAT-070308-188	smooth muscle myoblast	satellite cell	
+ZDB-ANAT-070517-7	solid compound organ	solid compound organs	
+ZDB-ANAT-070308-241	somatic stem cell	somatic stem cells	
+ZDB-ANAT-070308-79	somatostatin secreting cell	somatostatin secreting cells	
+ZDB-ANAT-060816-74	somatotropin secreting cell	somatotrophin secreting cell	
+ZDB-ANAT-060816-74	somatotropin secreting cell	somatrophic cell	
+ZDB-ANAT-060816-74	somatotropin secreting cell	somatotroph	
+ZDB-ANAT-060816-74	somatotropin secreting cell	somatotropic cell	
+ZDB-ANAT-060816-74	somatotropin secreting cell	somatotrope	
+ZDB-ANAT-060816-74	somatotropin secreting cell	growth hormone secreting cell	
+ZDB-ANAT-010921-591	somite	somitic mesoderm	
+ZDB-ANAT-060816-31	somite border	somite border cell	
+ZDB-ANAT-020309-229	specialized hemal arch and spine	specialized hemal arches and spines	
+ZDB-ANAT-020309-229	specialized hemal arch and spine	ha(pu)	
+ZDB-ANAT-020309-229	specialized hemal arch and spine	hemal arch (preural)	
+ZDB-ANAT-020309-229	specialized hemal arch and spine	specialized haemal arch and spine	
+ZDB-ANAT-070308-5	sperm	sperm cell	
+ZDB-ANAT-070308-5	sperm	spermatozoon	
+ZDB-ANAT-070308-5	sperm	spermatozoid	
+ZDB-ANAT-050711-77	sperm duct	sperm ducts	
+ZDB-ANAT-060131-74	spermatocyte	spermatocytes	
+ZDB-ANAT-070308-6	spermatogonium	spermatogonia	
+ZDB-ANAT-011113-515	sphenotic	autosphenotic	
+ZDB-ANAT-070308-244	spinal accessory motor neuron	SACMN	
+ZDB-ANAT-011113-67	spinal artery	spinal arteries	
+ZDB-ANAT-010921-494	spinal cord	spinal cord structure	
+ZDB-ANAT-060131-12	spinal neuromere	spinal neuromeres	
+ZDB-ANAT-060131-12	spinal neuromere	spinal cord segment	
+ZDB-ANAT-050711-3	splanchnocranium	pharyngeal arch skeleton	
+ZDB-ANAT-050711-3	splanchnocranium	pharyngeal skeleton	
+ZDB-ANAT-070308-29	squamous epithelial cell	squamous epithelial cells	
+ZDB-ANAT-011113-516	statoacoustic (VIII) ganglion	statoacoustic ganglia	
+ZDB-ANAT-011113-516	statoacoustic (VIII) ganglion	sag	
+ZDB-ANAT-011113-516	statoacoustic (VIII) ganglion	gVIII	
+ZDB-ANAT-011113-516	statoacoustic (VIII) ganglion	auditory ganglion	
+ZDB-ANAT-080417-117	statoacoustic (VIII) nucleus	vestibulocochlear nucleus	
+ZDB-ANAT-080417-117	statoacoustic (VIII) nucleus	cochlear nucleus	
+ZDB-ANAT-070308-55	stellate cell	stellate cells	
+ZDB-ANAT-070308-232	stellate interneuron	stellate interneurons	
+ZDB-ANAT-011113-212	sternohyoid	sternohyoids	
+ZDB-ANAT-070308-80	steroid hormone secreting cell	steroid hormone secreting cells	
+ZDB-ANAT-070308-113	stratified cuboidal epithelial cell	stratified cuboidal epithelial cells	
+ZDB-ANAT-070308-32	stratified epithelial cell	stratified epithelial cells	
+ZDB-ANAT-070308-141	stratified epithelial stem cell	stratified epithelial stem cells	
+ZDB-ANAT-070308-302	stratified keratinized epithelial stem cell	stratified keratinized epithelial stem cells	
+ZDB-ANAT-070308-112	stratified squamous epithelial cell	stratified squamous epithelial cells	
+ZDB-ANAT-060131-29	stratum album centrale	strata album centrales	
+ZDB-ANAT-060131-25	stratum fibrosum et griseum superficiale	strata fibrosum et griseum superficiales	
+ZDB-ANAT-060131-26	stratum marginale	strata marginale	
+ZDB-ANAT-060131-27	stratum opticum	strata opticum	
+ZDB-ANAT-060131-30	stratum periventriculare	strata periventriculare	
+ZDB-ANAT-070308-301	stretch receptor cell	stretch receptor cells	
+ZDB-ANAT-070308-179	stromal cell	stromal cells	
+ZDB-ANAT-011113-69	subcommissural organ	SCO	
+ZDB-ANAT-051116-19	subintestinal vein	SIV	
+ZDB-ANAT-051116-19	subintestinal vein	vitelline vein	
+ZDB-ANAT-011113-213	subopercle	subopercles	
+ZDB-ANAT-070308-183	substance P secreting cell	substance P secreting cells	
+ZDB-ANAT-011113-70	superficial abductor	superficial abductors	
+ZDB-ANAT-011113-214	superficial adductor	superficial adductors	
+ZDB-ANAT-061101-28	superficial blastomere	superficial blastomeres	
+ZDB-ANAT-011113-71	superficial grey and white zone	superficial grey and white zones	
+ZDB-ANAT-011113-71	superficial grey and white zone	superficial gray and white zone	
+ZDB-ANAT-011113-364	superficial pelvic abductor	superficial pelvic abductors	
+ZDB-ANAT-011113-520	superficial pelvic adductor	superficial pelvic adductors	
+ZDB-ANAT-070928-174	superior cervical ganglion	superior sympathetic cervical ganglion	
+ZDB-ANAT-011113-365	superior raphe nucleus	anterior raphe nucleus	
+ZDB-ANAT-011113-522	supracleithrum	supracleithra	
+ZDB-ANAT-011113-74	supracommissural nucleus of ventral telencephalon	supracommissural nucleus of V	
+ZDB-ANAT-011113-74	supracommissural nucleus of ventral telencephalon	area ventralis telencephali, nucleus supracommissuralis	
+ZDB-ANAT-060331-8	supradorsal	supradorsals	
+ZDB-ANAT-051116-20	supraintestinal artery	SIA	
+ZDB-ANAT-051116-22	supraintestinal vein	supraintestinal veins	
+ZDB-ANAT-011113-367	supraneural	sn	
+ZDB-ANAT-050420-7	supraneural 2	small supraneural	
+ZDB-ANAT-050420-7	supraneural 2	sn2	
+ZDB-ANAT-050420-8	supraneural 3	large supraneural	
+ZDB-ANAT-050420-8	supraneural 3	sn3	
+ZDB-ANAT-050420-12	supraneural 5	sn5	
+ZDB-ANAT-050420-11	supraneural 6	sn6	
+ZDB-ANAT-081013-32	supraoptic tract	SOT	
+ZDB-ANAT-011113-76	supraorbital bone	supraorbital bones	
+ZDB-ANAT-011113-368	supraorbital lateral line	supraorbital lateral lines	
+ZDB-ANAT-020309-73	supraorbital lateral line neuromast	neuromasts supraorbital	
+ZDB-ANAT-020309-73	supraorbital lateral line neuromast	neuromast supraorbital	
+ZDB-ANAT-011113-220	surface structure	surface structures	
+ZDB-ANAT-011113-369	suspensorium	hyopalatine	
+ZDB-ANAT-011113-369	suspensorium	suspensoria	
+ZDB-ANAT-070308-236	sustentacular cell	sustentacular cells	
+ZDB-ANAT-010921-495	swim bladder	gas bladder	
+ZDB-ANAT-060816-46	swim bladder artery	SBA	
+ZDB-ANAT-070928-158	sympathetic chain ganglion	paravertebral ganglion	
+ZDB-ANAT-011113-77	symplectic	symplectics	
+ZDB-ANAT-070308-100	synovial cell	synovial cells	
+ZDB-ANAT-070517-21	taenia marginalis anterior	orbital cartilage	
+ZDB-ANAT-070928-117	taenia marginalis posterior	orbital cartilage	
+ZDB-ANAT-010921-496	tail bud	tailbud	
+ZDB-ANAT-030922-12	taste bud	taste buds	
+ZDB-ANAT-070308-95	taste receptor cell	taste receptor cells	
+ZDB-ANAT-010921-597	tectal ventricle	mesencephalic vesicle	
+ZDB-ANAT-010921-597	tectal ventricle	cerebral aquaduct	
+ZDB-ANAT-010921-597	tectal ventricle	midbrain ventricle	
+ZDB-ANAT-010921-597	tectal ventricle	medial tectal ventricle	
+ZDB-ANAT-010921-597	tectal ventricle	mesencephalic ventricle	
+ZDB-ANAT-010921-598	tegmentum	mesencephalic tegmentum	
+ZDB-ANAT-010921-598	tegmentum	midbrain tegmentum	
+ZDB-ANAT-011113-80	telencephalic ventricle	telencephalic vesicle	
+ZDB-ANAT-011113-80	telencephalic ventricle	lateral ventricle	
+ZDB-ANAT-070308-149	tendon cell	muscle attachment cell	
+ZDB-ANAT-070308-233	terminal Schwann cell	terminal Schwann cells	
+ZDB-ANAT-060131-34	terminal nerve	nervus terminalis	
+ZDB-ANAT-011113-526	testis	testes	
+ZDB-ANAT-070308-81	testosterone secreting cell	testosterone secreting cells	
+ZDB-ANAT-050711-29	thalamus	thalami	
+ZDB-ANAT-070308-182	theca cell	theca cells	
+ZDB-ANAT-050228-27	thecal cell layer	thecal cell layers	
+ZDB-ANAT-070308-92	thermoreceptor cell	thermoreceptor cells	
+ZDB-ANAT-010921-599	third ventricle	diencephalic vesicle	
+ZDB-ANAT-010921-599	third ventricle	3rd ventricle	
+ZDB-ANAT-010921-599	third ventricle	diencephalic ventricle	
+ZDB-ANAT-010921-599	third ventricle	ventriculus diencephali	
+ZDB-ANAT-070308-283	thromboblast	thromboblasts	
+ZDB-ANAT-070308-256	thrombocyte	thrombocytes	
+ZDB-ANAT-030922-2	thymus primordium	thymic rudiment	
+ZDB-ANAT-030922-10	thyroid follicle	thyroid follicles	
+ZDB-ANAT-070308-165	thyroid hormone secreting cell	thyroid hormone secreting cells	
+ZDB-ANAT-030922-6	thyroid primordium	thyroid primordia	
+ZDB-ANAT-060816-73	thyroid stimulating hormone secreting cell	beta-basophil	
+ZDB-ANAT-060816-73	thyroid stimulating hormone secreting cell	thyrotroph	
+ZDB-ANAT-060816-73	thyroid stimulating hormone secreting cell	thyrotrope	
+ZDB-ANAT-050228-63	tooth placode	dental primordium	
+ZDB-ANAT-050228-63	tooth placode	tooth germ	
+ZDB-ANAT-080417-121	tooth row	tooth rows	
+ZDB-ANAT-011113-373	torus longitudinalis	tori longitudinalis	
+ZDB-ANAT-070308-17	totipotent stem cell	totipotent stem cells	
+ZDB-ANAT-070517-24	trabecula communis	trabecular bar	
+ZDB-ANAT-070517-23	trabecula cranii	trabeculae cranii	
+ZDB-ANAT-060131-65	trabecular layer	trabecula	
+ZDB-ANAT-060131-40	tract of the postoptic commissure	TPOC	
+ZDB-ANAT-070308-116	transitional epithelial cell	transitional epithelial cells	
+ZDB-ANAT-070308-278	transitional stage B cell	transitional stage B-cell	
+ZDB-ANAT-070308-278	transitional stage B cell	transitional stage B lymphocyte	
+ZDB-ANAT-070308-278	transitional stage B cell	transitional stage B-lymphocyte	
+ZDB-ANAT-070308-278	transitional stage B cell	T3 B cell	
+ZDB-ANAT-070308-278	transitional stage B cell	T1 B cell	
+ZDB-ANAT-070308-278	transitional stage B cell	T2 B cell	
+ZDB-ANAT-011113-223	trigeminal ganglion	trigeminal ganglia	
+ZDB-ANAT-011113-223	trigeminal ganglion	fifth ganglion	
+ZDB-ANAT-011113-223	trigeminal ganglion	5th ganglion	
+ZDB-ANAT-011113-223	trigeminal ganglion	gV	
+ZDB-ANAT-060131-39	trigeminal motor nucleus	nV	
+ZDB-ANAT-060131-39	trigeminal motor nucleus	motor nucleus V	
+ZDB-ANAT-010921-600	trigeminal placode	trigeminal placodes	
+ZDB-ANAT-011113-374	trochlear motor nucleus	motor nucleus IV	
+ZDB-ANAT-011113-374	trochlear motor nucleus	nIV	
+ZDB-ANAT-070928-175	trunk ganglion	trunk ganglia	
+ZDB-ANAT-011113-399	trunk musculature	body musculature	
+ZDB-ANAT-070308-4	trunk neural crest cell	trunk neural crest cells	
+ZDB-ANAT-060816-17	ultimobranchial body	ultimobranchial bodies	
+ZDB-ANAT-070928-172	unfertilized egg	activated oocyte	
+ZDB-ANAT-070517-11	unilaminar epithelium	unilaminar epithelia	
+ZDB-ANAT-070308-43	unipolar neuron	unipolar neurons	
+ZDB-ANAT-060816-11	upper rhombic lip	cerebellar anlage	
+ZDB-ANAT-060816-11	upper rhombic lip	presumptive cerebellum	
+ZDB-ANAT-050228-31	urogenital papilla	anal papillae	
+ZDB-ANAT-050228-31	urogenital papilla	urogenital papillae	
+ZDB-ANAT-050228-31	urogenital papilla	genital papilla	
+ZDB-ANAT-050228-31	urogenital papilla	anal papilla	
+ZDB-ANAT-050228-31	urogenital papilla	UGP	
+ZDB-ANAT-011113-530	uroneural	uroneurals	
+ZDB-ANAT-010921-596	urostyle	last vertebra	
+ZDB-ANAT-010921-596	urostyle	compound centrum	
+ZDB-ANAT-010921-596	urostyle	ultimate vertebra	
+ZDB-ANAT-070308-242	urothelial cell	urothelial cells	
+ZDB-ANAT-011113-84	utricle	utriculus	
+ZDB-ANAT-050915-107	vagal ganglion 1	gX1	
+ZDB-ANAT-050915-107	vagal ganglion 1	nodose ganglion 1	
+ZDB-ANAT-050915-108	vagal ganglion 2	gX2	
+ZDB-ANAT-050915-108	vagal ganglion 2	nodose ganglion 2	
+ZDB-ANAT-050915-109	vagal ganglion 3	nodose ganglion 3	
+ZDB-ANAT-050915-109	vagal ganglion 3	gX3	
+ZDB-ANAT-050915-110	vagal ganglion 4	nodose ganglion 4	
+ZDB-ANAT-050915-110	vagal ganglion 4	gX4	
+ZDB-ANAT-060816-2	vagal neural crest	post-otic neural crest	
+ZDB-ANAT-070928-192	vagal root	vagus root	
+ZDB-ANAT-070928-192	vagal root	rX	
+ZDB-ANAT-070308-142	vascular associated smooth muscle cell	vascular associated smooth muscle cells	
+ZDB-ANAT-030922-4	vasculature	circulatory system	
+ZDB-ANAT-030922-4	vasculature	blood vessels	
+ZDB-ANAT-010921-501	vein	venous system	
+ZDB-ANAT-060131-2	ventral actinotrichium	ventral actinotrichia	
+ZDB-ANAT-050915-117	ventral anterior lateral line ganglion	anteroventral lateral line ganglion	
+ZDB-ANAT-061101-25	ventral anterior lateral line nerve	ventral anterior lateral line nerves	
+ZDB-ANAT-011113-85	ventral arrector	ventral arrectors	
+ZDB-ANAT-011113-228	ventral entopeduncular nucleus of ventral telencephalon	ventral entopeduncular nucleus V	
+ZDB-ANAT-011113-228	ventral entopeduncular nucleus of ventral telencephalon	entopeduncular nucleus, ventral part	
+ZDB-ANAT-011113-228	ventral entopeduncular nucleus of ventral telencephalon	nucleus entopeduncularis, pars ventralis	
+ZDB-ANAT-020702-8	ventral fin fold	anal fin fold	
+ZDB-ANAT-020702-8	ventral fin fold	ventral fin	
+ZDB-ANAT-020702-8	ventral fin fold	tail fin fold	
+ZDB-ANAT-011113-533	ventral funiculus	ventral funiculi	
+ZDB-ANAT-011113-86	ventral horn spinal cord	ventral horns spinal cord	
+ZDB-ANAT-060331-27	ventral hyoid arch	ventral visceral arch 2	
+ZDB-ANAT-011113-229	ventral hypohyal	lower hypohyal	
+ZDB-ANAT-011113-229	ventral hypohyal	ventrohyal	
+ZDB-ANAT-080417-131	ventral interhyoideus	ventral interhyoidei	
+ZDB-ANAT-080417-127	ventral intermandibularis anterior	ventral intermandibulari anterior	
+ZDB-ANAT-080417-128	ventral intermandibularis posterior	ventral intermandibulari posterior	
+ZDB-ANAT-050711-81	ventral mandibular arch	mandibular series	
+ZDB-ANAT-050711-81	ventral mandibular arch	mandible	
+ZDB-ANAT-050711-81	ventral mandibular arch	lower jaw	
+ZDB-ANAT-011113-380	ventral nucleus of ventral telencephalon	area ventralis telencephali, nucleus ventralis	
+ZDB-ANAT-011113-380	ventral nucleus of ventral telencephalon	ventral nucleus of V	
+ZDB-ANAT-011113-534	ventral oblique branchial muscle	ventral oblique branchial muscles	
+ZDB-ANAT-020309-230	ventral oblique extraocular muscle	ventral oblique extraocular muscles	
+ZDB-ANAT-011113-88	ventral pelvic arrector	ventral pelvic arrectors	
+ZDB-ANAT-011113-381	ventral rectus	ventral recti	
+ZDB-ANAT-011113-89	ventral root	ventral roots	
+ZDB-ANAT-011113-232	ventral telencephalon	subpallium	
+ZDB-ANAT-011113-232	ventral telencephalon	area ventralis telencephali	
+ZDB-ANAT-011113-382	ventral thalamus	prethalamus	
+ZDB-ANAT-050228-49	ventral tooth row	ventral tooth rows	
+ZDB-ANAT-051116-12	ventral wall of dorsal aorta	aorta gonad mesonephros region	
+ZDB-ANAT-051116-12	ventral wall of dorsal aorta	AGM	
+ZDB-ANAT-030922-8	ventricular zone	ventricular zones	
+ZDB-ANAT-060331-71	ventro-caudal cluster	ventrocaudal cluster	
+ZDB-ANAT-060331-71	ventro-caudal cluster	vcc	
+ZDB-ANAT-060331-70	ventro-rostral cluster	vrc	
+ZDB-ANAT-060331-70	ventro-rostral cluster	ventrorostral cluster	
+ZDB-ANAT-011113-91	ventrolateral optic tract	ventrolateral optic tracts	
+ZDB-ANAT-050420-5	vertebra	vertebrae	
+ZDB-ANAT-051116-17	vertebral artery	vertebral arteries	
+ZDB-ANAT-011113-538	vertical myoseptum	transverse myoseptum	
+ZDB-ANAT-011113-92	vestibulo-spinal tract	vestibulo-spinal tracts	
+ZDB-ANAT-011113-93	viscerosensory commissural nucleus of Cajal	commissural nucleus of Cajal	
+ZDB-ANAT-011113-93	viscerosensory commissural nucleus of Cajal	nucleus commissuralis Cajal	
+ZDB-ANAT-070308-172	visible light photoreceptor cell	visible light photoreceptor cells	
+ZDB-ANAT-070308-133	visual pigment cell (sensu Vertebrata)	visual pigment cells (sensu Vertebrata)	
+ZDB-ANAT-050228-1	whole organism	multi-cellular organism	
+ZDB-ANAT-010921-503	yolk	yolk cell	
+ZDB-ANAT-060131-22	zona limitans intrathalamica	zli	
+ZDB-ANAT-050228-25	zona radiata	vitelline envelope	
+ZDB-ANAT-060816-20	zone of polarizing activity pectoral fin bud	ZPA	
+ZDB-ANAT-060816-21	zone of polarizing activity pelvic fin bud	ZPA	

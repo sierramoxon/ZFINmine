@@ -1,0 +1,1828 @@
+ZDB-JRNL-050621-1000|Molecular Cell|Mol. Cell||
+ZDB-JRNL-050621-1003|Mol. Cell.|Mol. Cell.||
+ZDB-JRNL-050621-1006|Molecular and Cellular Endocrinology|Mol. Cell. Endocrinol.|Elsevier|
+ZDB-JRNL-050621-1010|Mol. Endocrinol.|Mol. Endocrinol.||
+ZDB-JRNL-050621-1013|Mol. Mar. Biol. Biotechnol.|Mol. Mar. Biol. Biotechnol.||
+ZDB-JRNL-050621-1016|Mol. Phylogenet. Evol.|Mol. Phylogenet. Evol.||
+ZDB-JRNL-050621-1019|Mol. Reprod. Dev.|Mol. Reprod. Dev.||
+ZDB-JRNL-050621-1022|Mutat. Res.|Mutat. Res.||
+ZDB-JRNL-050621-1025|Médecine et hygiène|Médecine et hygiène||
+ZDB-JRNL-050621-1028|NATO ASI, Ser. A, Life Sci.|NATO ASI, Ser. A, Life Sci.||
+ZDB-JRNL-050621-1031|Nat. Cell Biol.|Nat. Cell Biol.||
+ZDB-JRNL-050621-1034|Nat. Med.|Nat. Med.||
+ZDB-JRNL-050621-1037|Nat. Rev. Drug Discov.|Nat. Rev. Drug Discov.||
+ZDB-JRNL-050621-1040|Nat. Rev. Mol. Cell. Biol.|Nat. Rev. Mol. Cell. Biol.||
+ZDB-JRNL-050621-1043|Natl. Cancer Inst. Mono.|Natl. Cancer Inst. Mono.||
+ZDB-JRNL-050621-1047|Naturwissenschaften.|Naturwissenschaften.||
+ZDB-JRNL-050621-1050|Neurobiol. Learn. Mem.|Neurobiol. Learn. Mem.||
+ZDB-JRNL-050621-1053|Neurochirurgie|Neurochirurgie||
+ZDB-JRNL-050621-1056|Neuroreport|Neuroreport||
+ZDB-JRNL-050621-1059|Neurosci. Methods|Neurosci. Methods||
+ZDB-JRNL-050621-1062|Neuroscientist|Neuroscientist||
+ZDB-JRNL-050621-1065|New York: Liss|New York: Liss||
+ZDB-JRNL-050621-1068|New York: Wiley-Liss|New York: Wiley-Liss||
+ZDB-JRNL-050621-1071|Nippon Yakurigaku Zasshi|Nippon Yakurigaku Zasshi||
+ZDB-JRNL-050621-1075|Nucleic Acids Res.|Nucleic Acids Res.||
+ZDB-JRNL-050621-1078|Oncogene|Oncogene||
+ZDB-JRNL-050621-1081|Ontogenez (Russian Journal of Developmental Biology)|Ontogenez (Russian Journal of Developmental Biology)||
+ZDB-JRNL-050621-1084|Ore. Agricul. Exp. Sta. Tech paper #10,832|Ore. Agricul. Exp. Sta. Tech paper #10,832||
+ZDB-JRNL-050621-1087|Parasitology|Parasitology||
+ZDB-JRNL-050621-1090|Peptides|Peptides||
+ZDB-JRNL-050621-1093|Perspect. Dev. Neurobiol.|Perspect. Dev. Neurobiol.||
+ZDB-JRNL-050621-1096|Pflugers Arch.|Pflugers Arch.||
+ZDB-JRNL-050621-1099|Ph.D Thesis, University of Missouri-Columbia|Ph.D Thesis, University of Missouri-Columbia||
+ZDB-JRNL-050621-1101|Ph.D. Dissertation, University of Kansas|Ph.D. Dissertation, University of Kansas||
+ZDB-JRNL-050621-1104|Ph.D. Dissertation, University of Texas Graduate School of Biomedical Sciences at San Antonio|Ph.D. Dissertation, University of Texas Graduate School of Biomedical Sciences at San Antonio||
+ZDB-JRNL-050621-1107|Ph.D. Thesis, Bryn Mawr College|Ph.D. Thesis, Bryn Mawr College||
+ZDB-JRNL-050621-1110|Ph.D. Thesis, Chinese University of Hong Kong (People's Republic of China)|Ph.D. Thesis, Chinese University of Hong Kong (People's Republic of China)||
+ZDB-JRNL-050621-1113|Ph.D. Thesis, Dalhousie University|Ph.D. Thesis, Dalhousie University||
+ZDB-JRNL-050621-1116|Ph.D. Thesis, Department of Molecular and Cellular Biology, Harvard University|Ph.D. Thesis, Department of Molecular and Cellular Biology, Harvard University||
+ZDB-JRNL-050621-1119|Ph.D. Thesis, Eberhard Karls Universität zu Tübingen|Ph.D. Thesis, Eberhard Karls Universität zu Tübingen||
+ZDB-JRNL-050621-1122|Ph.D. Thesis, George Washington University|Ph.D. Thesis, George Washington University||
+ZDB-JRNL-050621-1125|Ph.D. Thesis, Hong Kong University of Science and Technology|Ph.D. Thesis, Hong Kong University of Science and Technology||
+ZDB-JRNL-050621-1128|Ph.D. Thesis, Joint Program in Oceanography (Mass. Institute of Technology, Dept. of Biology and the Woods Hole Oceanographic Institution)|Ph.D. Thesis, Joint Program in Oceanography (Mass. Institute of Technology, Dept. of Biology and the Woods Hole Oceanographic Institution)||
+ZDB-JRNL-050621-1131|Ph.D. Thesis, McGill University|Ph.D. Thesis, McGill University||
+ZDB-JRNL-050621-1134|Ph.D. Thesis, New York University|Ph.D. Thesis, New York University||
+ZDB-JRNL-050621-1138|Ph.D. Thesis, Open University (United Kingdom)|Ph.D. Thesis, Open University (United Kingdom)||
+ZDB-JRNL-050621-1141|Ph.D. Thesis, Princeton University|Ph.D. Thesis, Princeton University||
+ZDB-JRNL-050621-1144|Ph.D. Thesis, Rockefeller University|Ph.D. Thesis, Rockefeller University||
+ZDB-JRNL-050621-1147|Ph.D. Thesis, Simon Fraser University (Canada)|Ph.D. Thesis, Simon Fraser University (Canada)||
+ZDB-JRNL-050621-1150|Ph.D. Thesis, Texas Tech University|Ph.D. Thesis, Texas Tech University||
+ZDB-JRNL-050621-1154|Ph.D. Thesis, The University of Utah|Ph.D. Thesis, The University of Utah||
+ZDB-JRNL-050621-1157|Ph.D. Thesis, Univ. of Toronto|Ph.D. Thesis, Univ. of Toronto||
+ZDB-JRNL-050621-1160|Ph.D. Thesis, University of California|Ph.D. Thesis, University of California||
+ZDB-JRNL-050621-1163|Ph.D. Thesis, University of California, San Francisco|Ph.D. Thesis, University of California, San Francisco||
+ZDB-JRNL-050621-1166|Ph.D. Thesis, University of Florida|Ph.D. Thesis, University of Florida||
+ZDB-JRNL-050621-1169|Ph.D. Thesis, University of Kansas, Molecular and Integrative Physiology|Ph.D. Thesis, University of Kansas, Molecular and Integrative Physiology||
+ZDB-JRNL-050621-1172|Ph.D. Thesis, University of Miami|Ph.D. Thesis, University of Miami||
+ZDB-JRNL-050621-1175|Ph.D. Thesis, University of New South Wales (Australia)|Ph.D. Thesis, University of New South Wales (Australia)||
+ZDB-JRNL-050621-1178|Ph.D. Thesis, University of Notre Dame|Ph.D. Thesis, University of Notre Dame||
+ZDB-JRNL-050621-1181|Ph.D. Thesis, University of Pennsylvania|Ph.D. Thesis, University of Pennsylvania||
+ZDB-JRNL-050621-1184|Ph.D. Thesis, University of Toronto|Ph.D. Thesis, University of Toronto||
+ZDB-JRNL-050621-1187|Ph.D. Thesis, University of Victoria (Canada)|Ph.D. Thesis, University of Victoria (Canada)||
+ZDB-JRNL-050621-1190|Ph.D. Thesis, University of Wisconsin-Madison|Ph.D. Thesis, University of Wisconsin-Madison||
+ZDB-JRNL-050621-1194|Ph.D. Thesis, Vanderbilt University.|Ph.D. Thesis, Vanderbilt University.||
+ZDB-JRNL-050621-1197|Ph.D. Thesis, Wesleyan University|Ph.D. Thesis, Wesleyan University||
+ZDB-JRNL-050621-1201|Pharmacol. Biochem. Behav.|Pharmacol. Biochem. Behav.||
+ZDB-JRNL-050621-1204|Philadelphia, PA: Innes Publishing Co. 210|Philadelphia, PA: Innes Publishing Co. 210||
+ZDB-JRNL-050621-1207|Philos. Trans. R. Soc. Lond. B. Biol. Sci.|Philos. Trans. R. Soc. Lond. B. Biol. Sci.||
+ZDB-JRNL-050621-1213|Physiological Genomics|Physiol. Genomics|The American Physiological Society|
+ZDB-JRNL-050621-1216|Pig. Cell Res.|Pig. Cell Res.||
+ZDB-JRNL-050621-1219|Plant Physiol.|Plant Physiol.||
+ZDB-JRNL-050621-1222|Proc. 3rd Conf. Human Factors and the Web|Proc. 3rd Conf. Human Factors and the Web||
+ZDB-JRNL-050621-1225|Proc. Int. Bot. Congr.|Proc. Int. Bot. Congr.||
+ZDB-JRNL-050621-1228|Proc. Natl. Acad. Sci.|Proc. Natl. Acad. Sci.||
+ZDB-JRNL-050621-1231|Proc. Natl. Acad. Sci. India, Sect. B|Proc. Natl. Acad. Sci. India, Sect. B||
+ZDB-JRNL-050621-1234|Proc. Okla. Acad. Sci.|Proc. Okla. Acad. Sci.||
+ZDB-JRNL-050621-1237|Proceedings of the Society for Experimental Biology and Medicine|Proc. Soc. Exp. Biol. Med.||
+ZDB-JRNL-050621-1240|Proceedings of the|Proceedings of the||
+ZDB-JRNL-050621-1243|Prog. Clin. Biol. Res.|Prog. Clin. Biol. Res.||
+ZDB-JRNL-050621-1246|Prostaglandins|Prostaglandins||
+ZDB-JRNL-050621-1249|Proteins|Proteins||
+ZDB-JRNL-050621-1252|Psychpharma|Psychpharma||
+ZDB-JRNL-050621-1255|RNA|RNA||
+ZDB-JRNL-050621-1258|Real Time Imaging|Real Time Imaging||
+ZDB-JRNL-050621-1261|Rec. Zool. Surv. India Misc. Pub. Occ.|Rec. Zool. Surv. India Misc. Pub. Occ.||
+ZDB-JRNL-050621-1264|Reg. Peptides|Reg. Peptides||
+ZDB-JRNL-050621-1267|Res. Bull. Panjab. Univ. Sci.|Res. Bull. Panjab. Univ. Sci.||
+ZDB-JRNL-050621-1270|Riv. Biol.|Riv. Biol.||
+ZDB-JRNL-050621-1273|Roux's Arch. Entwicklungsmech. Organ.|Roux's Arch. Entwicklungsmech. Organ.||
+ZDB-JRNL-050621-1276|SAAS. Bull. Biochem. Biotechnol.|SAAS. Bull. Biochem. Biotechnol.||
+ZDB-JRNL-050621-1279|Scan. Electron Micros.|Scan. Electron Micros.||
+ZDB-JRNL-050621-1282|Sci. Am.|Sci. Am.||
+ZDB-JRNL-050621-1285|Sci. Rep. Tohoku Univ. Fourth Ser. (Biol.)|Sci. Rep. Tohoku Univ. Fourth Ser. (Biol.)||
+ZDB-JRNL-050621-1288|Sci. Total Environ. pp.|Sci. Total Environ. pp.||
+ZDB-JRNL-050621-1291|Seikagaku|Seikagaku||
+ZDB-JRNL-050621-1294|Semi-automated Curation|Semi-automated Curation||
+ZDB-JRNL-050621-1297|Sinet|Sinet||
+ZDB-JRNL-050621-13|Neuron|Neuron|Cell Press|
+ZDB-JRNL-050621-1302|Soc. Dev. Biol. Mtg. Abstr|Soc. Dev. Biol. Mtg. Abstr||
+ZDB-JRNL-050621-1305|Springer-Verlag|Springer-Verlag||
+ZDB-JRNL-050621-1308|TFH Publications|TFH Publications||
+ZDB-JRNL-050621-1312|Taunusstein: Driesen, H.H., Dr., Verlag|Taunusstein: Driesen, H.H., Dr., Verlag||
+ZDB-JRNL-050621-1315|Tech. Tips Online T01208|Tech. Tips Online T01208||
+ZDB-JRNL-050621-1318|The Fourth Indian Fisheries Forum, Proceedings. 24-28 November, 1996, Kochi, Kerala|The Fourth Indian Fisheries Forum, Proceedings. 24-28 November, 1996, Kochi, Kerala||
+ZDB-JRNL-050621-1321|Thesis (M. Phil.), Hong Kong University of Science and Technology|Thesis (M. Phil.), Hong Kong University of Science and Technology||
+ZDB-JRNL-050621-1324|Totowa, NJ: Humana Press|Totowa, NJ: Humana Press||
+ZDB-JRNL-050621-1327|Toxicol. In Vitro|Toxicol. In Vitro||
+ZDB-JRNL-050621-1330|Toxicol. Sci.|Toxicol. Sci.||
+ZDB-JRNL-050621-1333|Trans. Am. Fish. Soc.|Trans. Am. Fish. Soc.||
+ZDB-JRNL-050621-1336|Trans. Kansas Acad. Sci.|Trans. Kansas Acad. Sci.||
+ZDB-JRNL-050621-1339|Trends Cardiovasc.|Trends Cardiovasc.||
+ZDB-JRNL-050621-1342|Trends Genet.|Trends Genet.||
+ZDB-JRNL-050621-1345|Trends Mol. Med.|Trends Mol. Med.||
+ZDB-JRNL-050621-1348|Trop. Fish Hobby|Trop. Fish Hobby||
+ZDB-JRNL-050621-1352|U.S. Nat. Mar. Fish Ser. Fish Bull.|U.S. Nat. Mar. Fish Ser. Fish Bull.||
+ZDB-JRNL-050621-1355|Ultrasound Med. Biol.|Ultrasound Med. Biol.||
+ZDB-JRNL-050621-1358|University of Oregon Press, Eugene|University of Oregon Press, Eugene||
+ZDB-JRNL-050621-1361|Utrecht: Rijksuniversiteit te Utrecht|Utrecht: Rijksuniversiteit te Utrecht||
+ZDB-JRNL-050621-1364|Vestn. Mosk. Univ. Ser. XVI Biol. pp.|Vestn. Mosk. Univ. Ser. XVI Biol. pp.||
+ZDB-JRNL-050621-1367|Vie Milieu|Vie Milieu||
+ZDB-JRNL-050621-1370|Visual Neurosci.|Visual Neurosci.||
+ZDB-JRNL-050621-1373|Vopr. Ikhtiol.|Vopr. Ikhtiol.||
+ZDB-JRNL-050621-1376|Water Res.|Water Res.||
+ZDB-JRNL-050621-1379|Xenobiotica|Xenobiotica||
+ZDB-JRNL-050621-1382|Ying Yong Sheng Tai Xue Bao|Ying Yong Sheng Tai Xue Bao||
+ZDB-JRNL-050621-1385|Z. Mikro. Anat. Forsch.|Z. Mikro. Anat. Forsch.||
+ZDB-JRNL-050621-1388|Z. Zell. Mikro. Anat.|Z. Zell. Mikro. Anat.||
+ZDB-JRNL-050621-1391|Zebrafish|Zebrafish||
+ZDB-JRNL-050621-1394|Zeitschrift Tierpsychol.|Zeitschrift Tierpsychol.||
+ZDB-JRNL-050621-1397|Zh. Evol. Biokhim. Fiziol.|Zh. Evol. Biokhim. Fiziol.||
+ZDB-JRNL-050621-1400|Zool. Anz.|Zool. Anz.||
+ZDB-JRNL-050621-1403|Zool. Res.|Zool. Res.||
+ZDB-JRNL-050621-1406|Zoolog. Sci.|Zoolog. Sci.||
+ZDB-JRNL-050621-1409|Zygote|Zygote||
+ZDB-JRNL-050621-1412|6th Asian Fisheries Forum Book of Abstracts|6th Asian Fisheries Forum Book of Abstracts||
+ZDB-JRNL-050621-187|Environ. Monit. Assess.|Environ. Monit. Assess.||
+ZDB-JRNL-050621-190|13th European J. Muscle Res. Cell Motil.|13th European J. Muscle Res. Cell Motil.||
+ZDB-JRNL-050621-193|AACE/WebNet97 conference on WWW, Internet, and Intranet, Toronto, Canada, Nov. 1,1997|AACE/WebNet97 conference on WWW, Internet, and Intranet, Toronto, Canada, Nov. 1,1997||
+ZDB-JRNL-050621-196|Act. Zootax. Sin.|Act. Zootax. Sin.||
+ZDB-JRNL-050621-199|Acta Hydrochim. Hydrobiol.|Acta Hydrochim. Hydrobiol.||
+ZDB-JRNL-050621-202|Acta Zool. Sinica|Acta Zool. Sinica||
+ZDB-JRNL-050621-206|Acta. Trop.|Acta. Trop.||
+ZDB-JRNL-050621-209|Adv. Space Biol. Med.|Adv. Space Biol. Med.||
+ZDB-JRNL-050621-212|Akrarium a terarium|Akrarium a terarium||
+ZDB-JRNL-050621-215|Altex|Altex||
+ZDB-JRNL-050621-218|Am. J. Anat.|Am. J. Anat.||
+ZDB-JRNL-050621-221|Am. J. Physiol.|Am. J. Physiol.||
+ZDB-JRNL-050621-224|Am. J. Physiol. Regul. Integr. Comp. Physiol.|Am. J. Physiol. Regul. Integr. Comp. Physiol.||
+ZDB-JRNL-050621-227|Am. Ms. Novitiates|Am. Ms. Novitiates 150||
+ZDB-JRNL-050621-230|Ambio|Ambio||
+ZDB-JRNL-050621-233|Anal. Bioanal. Chem.|Anal. Bioanal. Chem.||
+ZDB-JRNL-050621-236|Anat. Embryol.|Anat. Embryol.||
+ZDB-JRNL-050621-239|Angiogenesis|Angiogenesis||
+ZDB-JRNL-050621-242|Anim. Learn. Behav.|Anim. Learn. Behav.||
+ZDB-JRNL-050621-245|Ann. Appl. Biol.|Ann. Appl. Biol.||
+ZDB-JRNL-050621-248|Ann. Rev. Biochem.|Ann. Rev. Biochem.||
+ZDB-JRNL-050621-251|Ann. Soc. R. Zool. Belg.|Ann. Soc. R. Zool. Belg.||
+ZDB-JRNL-050621-254|Annu. Rev. Genet.|Annu. Rev. Genet.||
+ZDB-JRNL-050621-257|Anticancer Drugs|Anticancer Drugs||
+ZDB-JRNL-050621-260|Appl. Environ. Microbiol.|Appl. Environ. Microbiol.||
+ZDB-JRNL-050621-263|Aquacult. Fish Management|Aquacult. Fish Management||
+ZDB-JRNL-050621-266|Aquaculture|Aquaculture||
+ZDB-JRNL-050621-269|Aquarama|Aquarama||
+ZDB-JRNL-050621-272|Aquarien-Terrar. Mschr. Ornith. Vivar.|Aquarien-Terrar. Mschr. Ornith. Vivar.||
+ZDB-JRNL-050621-275|Aquarium (Den Haag)|Aquarium (Den Haag)||
+ZDB-JRNL-050621-278|Aquarium, Den Haag|Aquarium, Den Haag||
+ZDB-JRNL-050621-281|Aquatic Liv. Res.|Aquatic Liv. Res.||
+ZDB-JRNL-050621-284|Arch. Environ. Contam. Toxicol.|Arch. Environ. Contam. Toxicol.||
+ZDB-JRNL-050621-287|Arch. Latinoam. Nutr.|Arch. Latinoam. Nutr.||
+ZDB-JRNL-050621-290|Arch. Toxicol.|Arch. Toxicol.||
+ZDB-JRNL-050621-293|Arzneimittelforschung|Arzneimittelforschung||
+ZDB-JRNL-050621-296|Atti. Accad. Naz. Lincei Rend Cl. Sci. Fis. Mat. Nat. Sez III.|Atti. Accad. Naz. Lincei Rend Cl. Sci. Fis. Mat. Nat. Sez III.||
+ZDB-JRNL-050621-299|Avail. Univ. Microfilms Int., Order No. BA8622499 From: Diss. Abstr. Int. B|Avail. Univ. Microfilms Int., Order No. BA8622499 From: Diss. Abstr. Int. B||
+ZDB-JRNL-050621-302|B.S. Thesis, California Polytechnic State University|B.S. Thesis, California Polytechnic State University||
+ZDB-JRNL-050621-305|B.S. Thesis, Pennsylvania State University, Behrend College|B.S. Thesis, Pennsylvania State University, Behrend College||
+ZDB-JRNL-050621-309|Basel, Switzerland: Basel, Switzerland: Birkhäuser Verlag|Basel, Switzerland: Basel, Switzerland: Birkhäuser Verlag||
+ZDB-JRNL-050621-312|Behav. Res. Meth. Instr. Comp.|Behav. Res. Meth. Instr. Comp.||
+ZDB-JRNL-050621-315|Berlin, New York: Springer-Verla|Berlin, New York: Springer-Verla||
+ZDB-JRNL-050621-320|Biochem. Cell Biol.|Biochem. Cell Biol.||
+ZDB-JRNL-050621-323|Biochem. Pharmacol.|Biochem. Pharmacol.||
+ZDB-JRNL-050621-326|Biochemistry|Biochemistry||
+ZDB-JRNL-050621-329|Biochim. Biophys. Acta Gene Struct. Exp.|Biochim. Biophys. Acta Gene Struct. Exp.||
+ZDB-JRNL-050621-333|Biochim. Biophys. Acta. Rev. Cancer|Biochim. Biophys. Acta. Rev. Cancer||
+ZDB-JRNL-050621-336|Bioessays|Bioessays||
+ZDB-JRNL-050621-339|Biol. Cell|Biol. Cell||
+ZDB-JRNL-050621-342|Biol. Pharm. Bull.|Biol. Pharm. Bull.||
+ZDB-JRNL-050621-345|Biol. Signals|Biol. Signals||
+ZDB-JRNL-050621-348|Biol. Unserer Zeit.|Biol. Unserer Zeit.||
+ZDB-JRNL-050621-350|Biologia|Biologia||
+ZDB-JRNL-050621-353|Biophys. J.|Biophys. J.||
+ZDB-JRNL-050621-356|Bioscience|Bioscience||
+ZDB-JRNL-050621-359|Biotechnol. Annu. Rev.|Biotechnol. Annu. Rev.||
+ZDB-JRNL-050621-362|Bl. Aquar. Terr.-Kd.|Bl. Aquar. Terr.-Kd.||
+ZDB-JRNL-050621-366|Bol. Fisiol. Anim., Sao Paulo|Bol. Fisiol. Anim., Sao Paulo||
+ZDB-JRNL-050621-369|Bone|Bone||
+ZDB-JRNL-050621-372|Br. J. Anaesth.|Br. J. Anaesth.||
+ZDB-JRNL-050621-375|Brain Behav. Evol.|Brain Behav. Evol.||
+ZDB-JRNL-050621-378|Brain Res. Bull.|Brain Res. Bull.||
+ZDB-JRNL-050621-381|Brain Res. Mol. Brain Res.|Brain Res. Mol. Brain Res.||
+ZDB-JRNL-050621-384|Bull N.Y. Acad. Sci.|Bull N.Y. Acad. Sci.||
+ZDB-JRNL-050621-387|Bull. Fac. Fish. Hokkaido Univ.|Bull. Fac. Fish. Hokkaido Univ.||
+ZDB-JRNL-050621-390|Bull. S.C. Acad. Sci.|Bull. S.C. Acad. Sci.||
+ZDB-JRNL-050621-393|Bull. Soc. Zool. France|Bull. Soc. Zool. France||
+ZDB-JRNL-050621-396|Bunseki Kagaku|Bunseki Kagaku||
+ZDB-JRNL-050621-399|Calcif. Tissue Int.|Calcif. Tissue Int.||
+ZDB-JRNL-050621-403|Can. J. Biol.|Can. J. Biol.||
+ZDB-JRNL-050621-406|Can. J. Zool.|Can. J. Zool.||
+ZDB-JRNL-050621-409|Cancer Biol. Ther.|Cancer Biol. Ther.||
+ZDB-JRNL-050621-412|Cancer Res.|Cancer Res.||
+ZDB-JRNL-050621-415|Cell Adhes. Commun.|Cell Adhes. Commun.||
+ZDB-JRNL-050621-418|Cell Biol. Toxicol.|Cell Biol. Toxicol.||
+ZDB-JRNL-050621-421|Cell Cycle|Cell Cycle||
+ZDB-JRNL-050621-424|Cell Mol. Biol. Lett.|Cell Mol. Biol. Lett.||
+ZDB-JRNL-050621-428|Cell Physiol. Biochem.|Cell Physiol. Biochem.||
+ZDB-JRNL-050621-431|Cell. Mol. Life Sci.|Cell. Mol. Life Sci.||
+ZDB-JRNL-050621-434|Chemistry & Biology|Chem. Biol.|Cell Press, Elsevier|
+ZDB-JRNL-050621-438|Chemosphere.|Chemosphere.||
+ZDB-JRNL-050621-441|Chin. J. Biotechnol.|Chin. J. Biotechnol.||
+ZDB-JRNL-050621-444|Chirurg.|Chirurg.||
+ZDB-JRNL-050621-447|Circ. Res.|Circ. Res.||
+ZDB-JRNL-050621-450|Clin. Res.|Clin. Res.||
+ZDB-JRNL-050621-453|Cold Spring Harbor, NY, Cold Spring Harbor Laboratory|Cold Spring Harbor, NY, Cold Spring Harbor Laboratory||
+ZDB-JRNL-050621-456|Comp. Biochem. Physiol.|Comp. Biochem. Physiol.||
+ZDB-JRNL-050621-468|Comp. Med.|Comp. Med.||
+ZDB-JRNL-050621-471|Comput. Med. Imaging Graph.|Comput. Med. Imaging Graph.||
+ZDB-JRNL-050621-474|Connect. Tissue Res.|Connect. Tissue Res.||
+ZDB-JRNL-050621-477|Cornea|Cornea||
+ZDB-JRNL-050621-480|Cryo. Lett.|Cryo. Lett.||
+ZDB-JRNL-050621-483|Curr. Iss. Mol. Biol.|Curr. Iss. Mol. Biol.||
+ZDB-JRNL-050621-486|Curr. Opin. Cell Biol.|Curr. Opin. Cell Biol.||
+ZDB-JRNL-050621-489|Curr. Opin. Hematol.|Curr. Opin. Hematol.||
+ZDB-JRNL-050621-492|Curr. Opin. Neurobiol.|Curr. Opin. Neurobiol.||
+ZDB-JRNL-050621-495|Curr. Pharm. Design|Curr. Pharm. Design||
+ZDB-JRNL-050621-498|Curr. Top. Dev. Biol.|Curr. Top. Dev. Biol.||
+ZDB-JRNL-050621-500|Cytogenet. Genome Res.|Cytogenet. Genome Res.||
+ZDB-JRNL-050621-503|DATZ|DATZ||
+ZDB-JRNL-050621-506|DNA Seq.|DNA Seq.||
+ZDB-JRNL-050621-510|Developmental Cell|Dev. Cell|Elsevier|
+ZDB-JRNL-050621-513|Dev. Genes Evol.|Dev. Genes Evol.||
+ZDB-JRNL-050621-516|Dev. Immunol.|Dev. Immunol.||
+ZDB-JRNL-050621-521|Diabetologia|Diabetologia||
+ZDB-JRNL-050621-525|Diss. Abstr.|Diss. Abstr.||
+ZDB-JRNL-050621-528|Doc. Ophthalmol.|Doc. Ophthalmol.||
+ZDB-JRNL-050621-531|Dokl. Akad. Nauk. SSSR.|Dokl. Akad. Nauk. SSSR.||
+ZDB-JRNL-050621-534|Drug Disc. Today|Drug Disc. Today||
+ZDB-JRNL-050621-537|EMBO J.|EMBO J.||
+ZDB-JRNL-050621-54|BMC Genomics|BMC Genomics|BioMed Central|
+ZDB-JRNL-050621-542|Edinburgh and London, Archibald Constable and Co.|Edinburgh and London, Archibald Constable and Co.||
+ZDB-JRNL-050621-545|Eksp. Onkol.|Eksp. Onkol.||
+ZDB-JRNL-050621-548|Endocr. Res.|Endocr. Res.||
+ZDB-JRNL-050621-552|Endocrinology.|Endocrinology.||
+ZDB-JRNL-050621-555|Env. Toxicol. Chem.|Env. Toxicol. Chem.||
+ZDB-JRNL-050621-558|Environ. Health Perspect.|Environ. Health Perspect.||
+ZDB-JRNL-050621-561|Environ. Sci. Technol.|Environ. Sci. Technol.||
+ZDB-JRNL-050621-564|Environ. Toxicol. Chem.|Environ. Toxicol. Chem.||
+ZDB-JRNL-050621-567|Eur. J. Basic App. Histochem.|Eur. J. Basic App. Histochem.||
+ZDB-JRNL-050621-570|Eur. J. Endocrinol.|Eur. J. Endocrinol.||
+ZDB-JRNL-050621-573|Eur. J. Neurosci.|Eur. J. Neurosci.||
+ZDB-JRNL-050621-576|Evolution|Evolution||
+ZDB-JRNL-050621-579|Exp. Cell Res.|Exp. Cell Res.||
+ZDB-JRNL-050621-582|Exp. Hematol.|Exp. Hematol.||
+ZDB-JRNL-050621-585|Experientia|Experientia||
+ZDB-JRNL-050621-588|FEBS J.|FEBS J.||
+ZDB-JRNL-050621-591|Fauna och Flora|Fauna och Flora||
+ZDB-JRNL-050621-594|Fertil. Steril.|Fertil. Steril.||
+ZDB-JRNL-050621-597|Fish Biol. J. Medaka|Fish Biol. J. Medaka||
+ZDB-JRNL-050621-6|Development|Development|Company Of Biologists Limited|
+ZDB-JRNL-050621-602|Fisheries Sci.|Fisheries Sci.||
+ZDB-JRNL-050621-605|Fresenius Environ. Bull.|Fresenius Environ. Bull.||
+ZDB-JRNL-050621-608|Front. Neuroendocrinol.|Front. Neuroendocrinol.||
+ZDB-JRNL-050621-611|Gen. Comp. Endocrinol.|Gen. Comp. Endocrinol.||
+ZDB-JRNL-050621-614|Genes & Development|Genes & Dev.||
+ZDB-JRNL-050621-617|Genes Funct.|Genes Funct.||
+ZDB-JRNL-050621-620|Genet. Eng. News|Genet. Eng. News||
+ZDB-JRNL-050621-623|Genetica|Genetica||
+ZDB-JRNL-050621-626|Genome|Genome||
+ZDB-JRNL-050621-629|Genomics|Genomics||
+ZDB-JRNL-050621-632|Glia|Glia||
+ZDB-JRNL-050621-635|Growth|Growth||
+ZDB-JRNL-050621-638|Handbook Ser. Zool. Surv. India 2|Handbook Ser. Zool. Surv. India 2||
+ZDB-JRNL-050621-641|Heart Fail. Rev.|Heart Fail. Rev.||
+ZDB-JRNL-050621-644|Histochem. Cell Biol.|Histochem. Cell Biol.||
+ZDB-JRNL-050621-647|Histol. Histopathol.|Histol. Histopathol.||
+ZDB-JRNL-050621-650|Hum. Mol. Genet.|Hum. Mol. Genet.||
+ZDB-JRNL-050621-653|I. Time of origin. J. Comp. Neurol.|I. Time of origin. J. Comp. Neurol.||
+ZDB-JRNL-050621-656|ILAR J.|ILAR J.||
+ZDB-JRNL-050621-659|Ichthyol. Res.|Ichthyol. Res.||
+ZDB-JRNL-050621-663|Immunol. Rev.|Immunol. Rev.||
+ZDB-JRNL-050621-666|In Biochemistry and Molecular Biology of Fishes. Vol. 1. Phylogenetic and Biochemical Perspectives. P.W. Hochachka and T.P. Mommsen, eds., Amsterdam, New York: Elsevier Science Publishers|In Biochemistry and Molecular Biology of Fishes. Vol. 1. Phylogenetic and Biochemical Perspectives. P.W. Hochachka and T.P. Mommsen, eds., Amsterdam, New York: Elsevier Science Publishers||
+ZDB-JRNL-050621-669|In Calcium Metabolism: Comparative Endocrinology. Danks, J., Dacke, C., Flik, G., and Gay, C., Eds.|In Calcium Metabolism: Comparative Endocrinology. Danks, J., Dacke, C., Flik, G., and Gay, C., Eds.||
+ZDB-JRNL-050621-672|In Chitin and chitinases, R.A.A. Muzzarelli and P. Jollès, eds. Basel/Switzerland: Birkhäuser Verlag|In Chitin and chitinases, R.A.A. Muzzarelli and P. Jollès, eds. Basel/Switzerland: Birkhäuser Verlag||
+ZDB-JRNL-050621-675|In Determinants of Neuronal Identity. S.M. Shankland and E.R. Macagno, eds., Academic Press|In Determinants of Neuronal Identity. S.M. Shankland and E.R. Macagno, eds., Academic Press||
+ZDB-JRNL-050621-678|In Developmental Biology Protocols, Vol III, R.S. Tuan and C.W. Lo, eds., Totowa, NJ: Humana Press, Meth. Mol. Biol.|In Developmental Biology Protocols, Vol III, R.S. Tuan and C.W. Lo, eds., Totowa, NJ: Humana Press, Meth. Mol. Biol.||
+ZDB-JRNL-050621-681|In Developments in Environmental Biology of Fishes, Ecology and Ethology of Fishes. D.L.G. Noakes and J.A. Ward, eds., The Hague, Netherlands: Dr. W. Junk Publishers|In Developments in Environmental Biology of Fishes, Ecology and Ethology of Fishes. D.L.G. Noakes and J.A. Ward, eds., The Hague, Netherlands: Dr. W. Junk Publishers||
+ZDB-JRNL-050621-684|In Ecology and Ethology of Fishes, D.L.G. Noakes and J.A. Ward, eds., Dr. W. Junk Publishers: The Hague, Netherlands, Boston, Mass., USA|In Ecology and Ethology of Fishes, D.L.G. Noakes and J.A. Ward, eds., Dr. W. Junk Publishers: The Hague, Netherlands, Boston, Mass., USA||
+ZDB-JRNL-050621-687|In Encyclopedia of Neuroscience, B.S.G. Adelman, ed., Amsterdam, NY: Elsevier Science|In Encyclopedia of Neuroscience, B.S.G. Adelman, ed., Amsterdam, NY: Elsevier Science||
+ZDB-JRNL-050621-690|In Freshwater Biological Monitoring. D. Pascoe and R.W. Edwards, eds., Oxford, New York: Pergamon Press|In Freshwater Biological Monitoring. D. Pascoe and R.W. Edwards, eds., Oxford, New York: Pergamon Press||
+ZDB-JRNL-050621-693|In Gene Transfer and Gene Therapy, A.L. Beaudet, R. Mulligan, and I. M. Verma, eds., New York, NY, USA: Alan R. Liss, Inc.|In Gene Transfer and Gene Therapy, A.L. Beaudet, R. Mulligan, and I. M. Verma, eds., New York, NY, USA: Alan R. Liss, Inc.||
+ZDB-JRNL-050621-696|In Genetics of Neurological and Psychiatric Disorders, S.S. Kety, et al., ed., Research Publications Association for Research in Nervous and Mental Disease,New York: Raven Press|In Genetics of Neurological and Psychiatric Disorders, S.S. Kety, et al., ed., Research Publications Association for Research in Nervous and Mental Disease,New York: Raven Press||
+ZDB-JRNL-050621-699|In Isozymes: Current Topics in Biological and Medical Research, New York: Alan R. Liss|In Isozymes: Current Topics in Biological and Medical Research, New York: Alan R. Liss||
+ZDB-JRNL-050621-701|In Methods in Cell Biology San Diego, Academic Press|In Methods in Cell Biology San Diego, Academic Press||
+ZDB-JRNL-050621-704|In Molecular Basis of Morphogenesis, M. Bernfield, ed., New York, NY: John Wiley & Sons, Wiley-Liss Division|In Molecular Basis of Morphogenesis, M. Bernfield, ed., New York, NY: John Wiley & Sons, Wiley-Liss Division||
+ZDB-JRNL-050621-707|In Neural Mechanisms in Startle Behavior, R.C. Eaton, ed., New York: Plenum Press|In Neural Mechanisms in Startle Behavior, R.C. Eaton, ed., New York: Plenum Press||
+ZDB-JRNL-050621-710|In Nonmammalian Genomic Analysis: A Practical Guide. B. Birren and E. Lai, eds. San Diego: Academic Press|In Nonmammalian Genomic Analysis: A Practical Guide. B. Birren and E. Lai, eds. San Diego: Academic Press||
+ZDB-JRNL-050621-713|In Physiological & Molecular Mechanisms of Visual Function. Computer laser optical disc, Great Basin Visual Science Symposium, Salt Lake City, Utah: Eccles Ophthalmic Information Resource, University of Utah|In Physiological & Molecular Mechanisms of Visual Function. Computer laser optical disc, Great Basin Visual Science Symposium, Salt Lake City, Utah: Eccles Ophthalmic Information Resource, University of Utah||
+ZDB-JRNL-050621-716|In Physiology of Fishes, Vol. II, Evans D.H., ed, Boca Raton: CRC Press|In Physiology of Fishes, Vol. II, Evans D.H., ed, Boca Raton: CRC Press||
+ZDB-JRNL-050621-719|In QSAR (Quantitative Structure Activity Relationships) in Environmental Toxicology. J.L.M. Hermens and A. Opperhuizen, eds., Amsterdam, New York: Elsevier Science Publishers|In QSAR (Quantitative Structure Activity Relationships) in Environmental Toxicology. J.L.M. Hermens and A. Opperhuizen, eds., Amsterdam, New York: Elsevier Science Publishers||
+ZDB-JRNL-050621-721|In Simpler Networks and Behaviour. Fentress-J-C. ed., Sunderland, MA: Sinauer Associates Inc.|In Simpler Networks and Behaviour. Fentress-J-C. ed., Sunderland, MA: Sinauer Associates Inc.||
+ZDB-JRNL-050621-724|In The Mechanosensory Lateral Line: Neurobiology and Evolution, S. Coombs, P. Goerner, and H. Muenz, eds., Secaucus, NJ, New York, Berlin, West Germany: Springer-Verlag, Inc.|In The Mechanosensory Lateral Line: Neurobiology and Evolution, S. Coombs, P. Goerner, and H. Muenz, eds., Secaucus, NJ, New York, Berlin, West Germany: Springer-Verlag, Inc.||
+ZDB-JRNL-050621-727|In The Zebrafish Book; A Guide for the Laboratory Use of Zebrafish (Danio rerio), M. Westerfield, ed., Eugene, OR: University of Oregon Press|In The Zebrafish Book; A Guide for the Laboratory Use of Zebrafish (Danio rerio), M. Westerfield, ed., Eugene, OR: University of Oregon Press||
+ZDB-JRNL-050621-730|In The Zebrafish: Cellular and Developmental Biology,|In The Zebrafish: Cellular and Developmental Biology,||
+ZDB-JRNL-050621-733|In Transgenic Animals in Agriculture. CAB International, Wllingford, UK|In Transgenic Animals in Agriculture. CAB International, Wllingford, UK||
+ZDB-JRNL-050621-736|In Vertebrate Phototransduction and the Visual Cycle, K. Palczewski, ed., Methods in Enzymology, vol.|In Vertebrate Phototransduction and the Visual Cycle, K. Palczewski, ed., Methods in Enzymology, vol.||
+ZDB-JRNL-050621-739|In Zebrafish: A Practical Approach, S. Schulte-Merker and C. Nüsslein-Volhard, eds. IRL Press|In Zebrafish: A Practical Approach, S. Schulte-Merker and C. Nüsslein-Volhard, eds. IRL Press||
+ZDB-JRNL-050621-742|Infection and Immunity|Infect. Immun.|the American Society for Microbiology|
+ZDB-JRNL-050621-745|Int. J. Bio. Med.|Int. J. Bio. Med.||
+ZDB-JRNL-050621-748|Int. J. Dev. Neurosci.|Int. J. Dev. Neurosci.||
+ZDB-JRNL-050621-751|Int. J. Mol. Med.|Int. J. Mol. Med.||
+ZDB-JRNL-050621-754|Int. J. Radiat. Oncol. Biol. Phys.|Int. J. Radiat. Oncol. Biol. Phys.||
+ZDB-JRNL-050621-757|Int. Rev. Hydrobiol.|Int. Rev. Hydrobiol.||
+ZDB-JRNL-050621-760|Intl. J. Dev. Neurosci.|Intl. J. Dev. Neurosci.||
+ZDB-JRNL-050621-763|Isr. J. Aquacult.|Isr. J. Aquacult.||
+ZDB-JRNL-050621-769|J. Adv. Zool.|J. Adv. Zool.||
+ZDB-JRNL-050621-772|J. Am. Hum. Genet.|J. Am. Hum. Genet.||
+ZDB-JRNL-050621-775|J. Appl. Ichthyol.|J. Appl. Ichthyol.||
+ZDB-JRNL-050621-778|J. Assam Sci. Soc.|J. Assam Sci. Soc.||
+ZDB-JRNL-050621-781|J. Biochem. (Tokyo)|J. Biochem. (Tokyo)||
+ZDB-JRNL-050621-784|J. Biol. Rhythms|J. Biol. Rhythms||
+ZDB-JRNL-050621-787|J. Biosci.|J. Biosci.||
+ZDB-JRNL-050621-791|Journal of Cell Science|J. Cell Sci.||
+ZDB-JRNL-050621-766|Izdatel'stvo nauka: Moscow, USSR Inst. Gen. Genet., Acad. Sci. USSR, Moscow, USSR. Panov, E.N. (Ed.). Materialy tret'ei Vsesoyuznoi Konferentsii po povedeniyu Zhivotnykh, Tom.1. Mekhanizmy Povedeniya, (Proc. 3rd All-Union Conf. Animal Behav., Vol. 1. Beh|Izdatel'stvo nauka: Moscow, USSR Inst. Gen. Genet., Acad. Sci. USSR, Moscow, USSR. Panov, E.N. (Ed.). Materialy tret'ei Vsesoyuznoi Konferentsii po povedeniyu Zhivotnykh, Tom.1. Mekhanizmy Povedeniya, (Proc. 3rd All-Union Conf. Animal Behav., Vol. 1. Beh||
+ZDB-JRNL-050621-795|J. Chem. Neuroanat.|J. Chem. Neuroanat.||
+ZDB-JRNL-050621-798|J. Comp. Neurol.|J. Comp. Neurol.||
+ZDB-JRNL-050621-800|J. Comp. Physiol.|J. Comp. Physiol.||
+ZDB-JRNL-050621-803|J. Comp.-Asst. Micros.|J. Comp.-Asst. Micros.||
+ZDB-JRNL-050621-806|J. Drug Target|J. Drug Target||
+ZDB-JRNL-050621-809|J. Endocrinol.|J. Endocrinol.||
+ZDB-JRNL-050621-812|J. Exp. Anim. Sci.|J. Exp. Anim. Sci.||
+ZDB-JRNL-050621-815|Journal of Experimental Zoology|J. Exp. Zool.||
+ZDB-JRNL-050621-819|J. Fish Dis.|J. Fish Dis.||
+ZDB-JRNL-050621-822|J. Fr. Hydrol.|J. Fr. Hydrol.||
+ZDB-JRNL-050621-825|J. Gravit. Physiol.|J. Gravit. Physiol.||
+ZDB-JRNL-050621-828|J. Histochem. Cytochem.|J. Histochem. Cytochem.||
+ZDB-JRNL-050621-831|J. Inorg. Biochem.|J. Inorg. Biochem.||
+ZDB-JRNL-050621-834|J. Membr. Biol.|J. Membr. Biol.||
+ZDB-JRNL-050621-837|J. Mol. Biol.|J. Mol. Biol.||
+ZDB-JRNL-050621-840|J. Mol. Med.|J. Mol. Med.||
+ZDB-JRNL-050621-843|J. Mysore Univ. Sect. B|J. Mysore Univ. Sect. B||
+ZDB-JRNL-050621-846|J. Natl. Cancer Inst.|J. Natl. Cancer Inst.||
+ZDB-JRNL-050621-849|J. Neurocytol.|J. Neurocytol.||
+ZDB-JRNL-050621-852|J. Neuropathol. Exp. Neurol.|J. Neuropathol. Exp. Neurol.||
+ZDB-JRNL-050621-855|J. Neurosci. Meth.|J. Neurosci. Meth.||
+ZDB-JRNL-050621-858|J. Ocean Univ. Qingdao/Qingdao Haiyang Daxue Xuebao|J. Ocean Univ. Qingdao/Qingdao Haiyang Daxue Xuebao||
+ZDB-JRNL-050621-860|J. Parasitol.|J. Parasitol.||
+ZDB-JRNL-050621-863|J. Physiol.|J. Physiol.||
+ZDB-JRNL-050621-867|J. Physiol. Paris|J. Physiol. Paris||
+ZDB-JRNL-050621-870|J. South Chin. Norm. Univ. (Nat. Sci. Ed.)/Huanan Shifan Daxue Xuebao (Ziran Kexue Ban)|J. South Chin. Norm. Univ. (Nat. Sci. Ed.)/Huanan Shifan Daxue Xuebao (Ziran Kexue Ban)||
+ZDB-JRNL-050621-873|J. Struct. Biol.|J. Struct. Biol.||
+ZDB-JRNL-050621-876|J. Submicrosc. Cytol. Pathol.|J. Submicrosc. Cytol. Pathol.||
+ZDB-JRNL-050621-879|J. Toxicol. Toxin Rev.|J. Toxicol. Toxin Rev.||
+ZDB-JRNL-050621-882|J. Ultrastruct. Res.|J. Ultrastruct. Res.||
+ZDB-JRNL-050621-885|J. Vet. Med. Sci.|J. Vet. Med. Sci.||
+ZDB-JRNL-050621-890|Jpn. J. Cancer Res.|Jpn. J. Cancer Res.||
+ZDB-JRNL-050621-894|Lab Invest.|Lab Invest.||
+ZDB-JRNL-050621-897|Life Sci.|Life Sci.||
+ZDB-JRNL-050621-9|Genes and Development|Genes Dev.|Cold Spring Harbor Laboratory Press|
+ZDB-JRNL-050621-902|M.A. Thesis, Boston University|M.A. Thesis, Boston University||
+ZDB-JRNL-050621-905|M.A. Thesis, Temple University|M.A. Thesis, Temple University||
+ZDB-JRNL-050621-908|M.Phil. Thesis, City University of Hong Kong|M.Phil. Thesis, City University of Hong Kong||
+ZDB-JRNL-050621-911|M.S. Thesis, Department of Biological Sciences, Mississippi State University|M.S. Thesis, Department of Biological Sciences, Mississippi State University||
+ZDB-JRNL-050621-914|M.S. Thesis, Florida Institute of Technology|M.S. Thesis, Florida Institute of Technology||
+ZDB-JRNL-050621-917|M.S. Thesis, Oklahoma State University|M.S. Thesis, Oklahoma State University||
+ZDB-JRNL-050621-920|M.S. Thesis, Southern Illinois University at Carbondale|M.S. Thesis, Southern Illinois University at Carbondale||
+ZDB-JRNL-050621-923|M.S. Thesis, Texas A&M University, Kingsville|M.S. Thesis, Texas A&M University, Kingsville||
+ZDB-JRNL-050621-926|M.S. Thesis, UCLA|M.S. Thesis, UCLA||
+ZDB-JRNL-050621-929|M.S. Thesis, University of Charleston, South Carolina|M.S. Thesis, University of Charleston, South Carolina||
+ZDB-JRNL-050621-932|M.S. Thesis, University of Maryland, College Park|M.S. Thesis, University of Maryland, College Park||
+ZDB-JRNL-050621-935|M.S. Thesis, University of New Hampshire|M.S. Thesis, University of New Hampshire||
+ZDB-JRNL-050621-938|M.S. Thesis, University of South Florida|M.S. Thesis, University of South Florida||
+ZDB-JRNL-050621-941|M.S. Thesis, Vanderbilt University|M.S. Thesis, Vanderbilt University||
+ZDB-JRNL-050621-944|M.S. Thesis, Western Michigan University|M.S. Thesis, Western Michigan University||
+ZDB-JRNL-050621-947|M.Sc. Thesis, Dalhousie University (Canada)|M.Sc. Thesis, Dalhousie University (Canada)||
+ZDB-JRNL-050621-950|M.Sc. Thesis, The University of Western Ontario (Canada)|M.Sc. Thesis, The University of Western Ontario (Canada)||
+ZDB-JRNL-050621-953|M.Sc. Thesis, University of Cape Town|M.Sc. Thesis, University of Cape Town||
+ZDB-JRNL-050621-956|M.Sc. Thesis, University of Toronto|M.Sc. Thesis, University of Toronto||
+ZDB-JRNL-050621-959|Mamm. Genome|Mamm. Genome||
+ZDB-JRNL-050621-962|Marine Environmental Research|Mar. Environ. Res.||
+ZDB-JRNL-050621-965|Master of Science Thesis, University of Pittsburgh, Pa|Master of Science Thesis, University of Pittsburgh, Pa||
+ZDB-JRNL-050621-968|Master's Thesis, University of Oregon|Master's Thesis, University of Oregon||
+ZDB-JRNL-050621-971|Matrix Biol.|Matrix Biol.||
+ZDB-JRNL-050621-974|Med. Sci.|Med. Sci.||
+ZDB-JRNL-050621-977|Medd. Dan. Fiskeri-og Havsunde|Medd. Dan. Fiskeri-og Havsunde||
+ZDB-JRNL-050621-980|Meth. Enzymol.|Meth. Enzymol.||
+ZDB-JRNL-050621-983|Methods Cell Biol.|Methods Cell Biol.||
+ZDB-JRNL-050621-986|Methods Enzymol.|Methods Enzymol.||
+ZDB-JRNL-050621-989|Microb. Pathog.|Microb. Pathog.||
+ZDB-JRNL-050621-992|Microsc. Res. Tech.|Microsc. Res. Tech.||
+ZDB-JRNL-050621-995|Mol. Biol. Cell|Mol. Biol. Cell||
+ZDB-JRNL-050621-998|Mol. Brain Res.|Mol. Brain Res.||
+ZDB-JRNL-050623-2|Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology|Comp. Biochem. Physiol. B Biochem. Mol. Biol.|Elsevier|
+ZDB-JRNL-050712-2|Modern Drug Discovery|Modern Drug Discovery|ACS Publications|
+ZDB-JRNL-050714-2|Journal of Bone and Mineral Research|J. Bone Miner. Res.|American Society for Bone and Mineral Research|
+ZDB-JRNL-050718-2|Cellular Signalling|Cell. Signal.|Elsevier|
+ZDB-JRNL-050728-1|Seminars in Cell & Developmental Biology|Semin. Cell Dev. Biol.|Elsevier|
+ZDB-JRNL-050810-1|Science of The Total Environment|Sci. Total. Environ.|Elsevier|
+ZDB-JRNL-050818-2|Current Molecular Medicine|Curr. Mol. Med.|Hentschel|
+ZDB-JRNL-050823-2|Experimental Eye Research|Exp. Eye. Res.|Elsevier|
+ZDB-JRNL-050907-1|Drug Discovery Today: Targets|Drug Discov. Today Targets|Elsevier|
+ZDB-JRNL-050907-4|Molecular Microbiology|Mol. Microbiol.|Blackwell Synergy|
+ZDB-JRNL-051005-1|Nuclear Receptor|Nucl. Recept.|BMC Biotechnology|
+ZDB-JRNL-051019-1|Environment International|Environ. Int.||
+ZDB-JRNL-051031-3|BMC Biology|BMC Biol.|BioMed Central|
+ZDB-JRNL-051031-6|Nature Cell Biology|Nat. Cel. Biol.|Nature Publishing Group|
+ZDB-JRNL-051101-1|Protein Expression and Purification|Protein Expr. Purif.|Elsevier|
+ZDB-JRNL-051107-3|Biochimica et Biophysica Acta (BBA) - Gene Structure and Expression|Biochim. Biophy. Acta|Elsevier|
+ZDB-JRNL-051121-1|Anatomia, Histologia, Embryologia|Anat. Histol. Embryol.|Blackwell Synergy|
+ZDB-JRNL-051128-1|Bioscience Reports|Biosci. Rep.|Springer|
+ZDB-JRNL-051214-1|Birth Defects Research Part A: Clinical and Molecular Teratology|Birth Defects Res. A Clin. Mol. Teratol.|Wiley Interscience|
+ZDB-JRNL-060105-2|Physiological and biochemical zoology|Physiol. Biochem. Zool.|University of Chicago Press|
+ZDB-JRNL-060207-1|Respiratory Physiology & Neurobiology|Respir. Physiol. Neurobiol.|Elsevier|
+ZDB-JRNL-060210-2|European Journal of Medical Genetics|Eur. J. Med. Genet.|Elsevier|
+ZDB-JRNL-060302-3|Biotechnology Letters|Biotechnol. Lett.|Springer|
+ZDB-JRNL-060308-10|M.S.P. Thesis, University of Toledo|M.S.P. Thesis, University of Toledo||
+ZDB-JRNL-060308-4|Ph.D. Thesis, University of Massachusetts Amherst|Ph.D. Thesis, University of Massachusetts Amherst||
+ZDB-JRNL-060308-7|Ph.D. Thesis, Albert-Ludwigs-Universität Freiburg im Breisgau|Ph.D. Thesis, Albert-Ludwigs-Universität Freiburg im Breisgau||
+ZDB-JRNL-060315-1|Journal Of investigative Dermatology|J. Invest. Dermatol.|Nature Publishing Group|
+ZDB-JRNL-060323-1|Frontiers in Zoology|Front. Zool.|BioMed Central|
+ZDB-JRNL-060412-3|Optics letters|Opt. Lett.||
+ZDB-JRNL-060418-2|Nature Reviews Neuroscience|Nat Rev Neurosci|Nature Publishing Group|
+ZDB-JRNL-060517-1|Current Opinion in Chemical Biology|Curr. Opin. Chem. Biol.|Elsevier|
+ZDB-JRNL-060531-1|Journal of Interferon & Cytokine Research|J. Interferon Cytokine Res.|Mary Ann Liebert, Inc.|
+ZDB-JRNL-060616-3|Journal of Cellular Physiology|J. Cell. Physiol.|Wiley InterScience|
+ZDB-JRNL-060623-2|Annual Review of Cell and Developmental Biology|Annu. Rev. Cell Dev. Biol.|Annual Reviews|
+ZDB-JRNL-060703-2|IEEE Transactions on Nanobioscience|IEEE Trans. Nanobioscience|Engineering in Medicine and Biology Society|
+ZDB-JRNL-060724-2|Chembiochem|Chembiochem|Wiley Interscience|
+ZDB-JRNL-060816-1|Biotechnology Journal|Biotechnol. J.|Wiley Interscience|
+ZDB-JRNL-060825-1|Engineering in Medicine and Biology Society, 2004. EMBC 2004. Conference Proceedings. 26th Annual International Conference of the IEEE|Proc. IEEE EMBS|IEEE|
+ZDB-JRNL-060921-1|Journal of Leukocyte Biology|J. Leukoc. Biol.|Society for Leukocyte Biology|
+ZDB-JRNL-060927-1|Journal of Cellular and Molecular Medicine|J. Cell. Mol. Med.||
+ZDB-JRNL-061020-1|Journal of neural transmission. Supplementum|J. Neural Transm. Suppl.||
+ZDB-JRNL-061108-1|Molecular Cancer|Mol. Cancer|BMC|
+ZDB-JRNL-061116-2|Chemical Biology & Drug Design|Chem. Biol. Drug Des.|Blackwell Synergy|
+ZDB-JRNL-061222-2|Biomarkers|Biomarkers||
+ZDB-JRNL-061226-2|Animal biotechnology|Anim. Biotechnol.||
+ZDB-JRNL-061227-3|American journal of pathology, The|Am. J. Pathol.||
+ZDB-JRNL-061229-1|Nutritional neuroscience|Nutr. Neurosci.||
+ZDB-JRNL-061229-4|Behavior research methods|Behav. Res. Methods||
+ZDB-JRNL-070122-3|ScientificWorldJournal.|ScientificWorldJournal||
+ZDB-JRNL-070203-2|Naunyn-Schmiedeberg's Archives of Pharmacology|Naunyn. Schmiedebergs Arch. Pharmacol.|SpringerLink|
+ZDB-JRNL-070210-3|OMICS: A Journal of Integrative Biology|OMICS|Mary Ann Liebert, Inc.|
+ZDB-JRNL-070210-6|Leukemia|Leukemia|Nature Publishing Group|
+ZDB-JRNL-070212-1|The development of form and function in fishes and the question of larval adaptation. American Fisheries Society Symp.|The development of form and function in fishes and the question of larval adaptation. American Fisheries Society Symp.|American Fisheries Society|
+ZDB-JRNL-070212-4|Cell Research|Cell Res.|Nature Publishing Group|
+ZDB-JRNL-070221-3|Fundamental Immunology|Fundamental Immunology|Lippincott Williams & Wilkins|
+ZDB-JRNL-070221-6|Neurobiology|Neurobiology|Oxford University Press, USA|
+ZDB-JRNL-070303-2|J. Reprod. Dev.|Journal of Reproduction and Development|J-Stage|
+ZDB-JRNL-070305-1|Clinical Research in Cardiology|Clin. Res. Cardiol.|SpringerLink|
+ZDB-JRNL-070330-2|Zhong Guo Zhen Jiu|Zhongguo Zhen Jiu.||
+ZDB-JRNL-070330-5|Ageing research reviews|Ageing Res. Rev.|Elsevier|
+ZDB-JRNL-070504-1|Developmental Neurobiology|Dev. Neurobiol.|Wiley InterScience|
+ZDB-JRNL-070513-3|Epilepsy Research|Epilepsy Res.|Elsevier|
+ZDB-JRNL-070523-3|Pharmacogenetics & Genomics|Pharmacogenet. Genomics||
+ZDB-JRNL-070523-6|BMC Molecular Biology|BMC Mol. Biol.|BioMed|
+ZDB-JRNL-070601-1|Trends in Ecology & Evolution|Trends Ecol. Evol.|Elsevier|
+ZDB-JRNL-070629-1|Neuropsychopharmacology|Neuropsychopharmacology|Nature|
+ZDB-JRNL-070711-3|Journal of Molecular and Cellular Cardiology|J. Mol. Cell. Cardiol.|Elsevier|
+ZDB-JRNL-070726-3|Radiation Research|Radiat. Res.||
+ZDB-JRNL-070806-2|Cytometry Part A|Cytometry A|Wiley InterScience|
+ZDB-JRNL-070813-2|J. Exp. Zool. Part A Ecol. Genet. Physiol.|Journal of Experimental Zoology Part A: Ecological Genetics and Physiology|Wiley InterScience|
+ZDB-JRNL-070820-1|Journal of the American Veterinary Medical Association|J. Am. Vet. Med. Assoc.||
+ZDB-JRNL-070827-2|Gene Expression|Gene Expr.||
+ZDB-JRNL-070907-1|Acta Diabetologica|Acta Diabetol.|SpringerLink|
+ZDB-JRNL-070907-4|Diseases of aquatic organisms|Dis. Aquat. Organ.||
+ZDB-JRNL-070920-1|Journal of Molecular Histology|J. Mol. Histol.|SpringerLink|
+ZDB-JRNL-071001-1|Encyclopedia of Molecular Cell Biology and Molecular Medicine, 2nd Edition|Encyclopedia of Molecular Cell Biology and Molecular Medicine, 2nd Edition|Wiley InterScience|
+ZDB-JRNL-071029-1|Journal of Chemical Ecology|J. Chem. Ecol.|SpringerLink|
+ZDB-JRNL-071108-1|Anal. Chem.|Anal. Chem.||
+ZDB-JRNL-071118-4|The Journal of Toxicological Sciences|J. Toxicol. Sci.|J-Stage|
+ZDB-JRNL-071125-1|Cell Host Microbe.|Cell Host Microbe.||
+ZDB-JRNL-071129-3|Biology Direct|Biol. Direct|BioMed|
+ZDB-JRNL-071210-1|Journal of Environmental Radioactivity|J. Environ. Radioact.|Elsevier|
+ZDB-JRNL-071211-1|NC3Rs|NC3Rs|National Center for the Replacement, Refinement and Reduction of Animals in Reasearch|
+ZDB-JRNL-071227-2|Journal of Molecular Neuroscience|J. Mol. Neurosci.||
+ZDB-JRNL-080218-3|Toxic/Hazardous Substances & Environmental Engineering|J. Environ. Sci. Health A Tox. Hazard. Subst. Environ. Eng.|Informa|
+ZDB-JRNL-080226-3|Journal of Genetic Genomics|J. Genet. Genomics|Elsevier|
+ZDB-JRNL-080306-1|Neuroinformatics|Neuroinformatics|SpringerLink|
+ZDB-JRNL-080324-1|Cell Stem Cell|Cell Stem Cell||
+ZDB-JRNL-080326-3|Phytomedicine|Phytomedicine|Elsevier|
+ZDB-JRNL-080415-2|Angewandte Chemie (International ed. in English)|Angew. Chem. Int. Ed. Engl.|Wiley - VCH|
+ZDB-JRNL-080429-1|Current protocols in human genetics|Curr. Protoc. Hum. Genet.|John Wiley|
+ZDB-JRNL-080515-1|Drug discovery today|Drug Discov. Today|Elsevier Science Ltd.|
+ZDB-JRNL-080515-4|Biotechnology & genetic engineering reviews|Biotechnol. Genet. Eng. Rev.|Intercept|
+ZDB-JRNL-080527-1|Journal of Pharmacological Sciences|J. Pharmacol. Sci.|Japanese Pharmacological Society|
+ZDB-JRNL-080616-2|Journal of neuroimmunology|J. Neuroimmunol.|Elsevier/North-Holland|
+ZDB-JRNL-080622-1|Journal of bioscience and bioengineering|J. Biosci. Bioeng.|Society for Bioscience and Bioengineering, Japan|
+ZDB-JRNL-080630-3|Stem cells and development|Stem Cells Dev.|Mary Ann Liebert, Inc.|
+ZDB-JRNL-080707-1|Journal of applied physics|J. Appl. Phys.|American Institute Of Physics|
+ZDB-JRNL-080722-3|Ph.D. Thesis, Case Western Reserve University|Ph.D. Thesis, Case Western Reserve University||
+ZDB-JRNL-080723-11|Dissertation, Heidelberg University|Dissertation, Heidelberg University||
+ZDB-JRNL-080723-14|M.S. Thesis, University of California, San Diego|M.S. Thesis, University of California, San Diego||
+ZDB-JRNL-080723-17|Undergraduate Honors Thesis, Smith College|Undergraduate Honors Thesis, Smith College||
+ZDB-JRNL-080723-3|University Dissertation, Kassel|University Dissertation, Kassel||
+ZDB-JRNL-080723-7|Ph.D. Thesis, Department of Oncological Sciences, University of Utah.|Ph.D. Thesis, Department of Oncological Sciences, University of Utah.||
+ZDB-JRNL-080728-1|Wei sheng yan jiu|Wei Sheng Yan Jiu|"Wei sheng yan jiu" bian ji bu|
+ZDB-JRNL-080825-1|Carbon|Carbon N.Y.|Pergamon Press|
+ZDB-JRNL-080826-1|Birth defects research. Part B, Developmental and reproductive toxicology|Birth Defects Res. B Dev. Reprod. Toxicol.|Wiley-Liss|
+ZDB-JRNL-080826-4|Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|J. Comp. Physiol. A Neuroethol. Sens. Neural. Behav. Physiol.|Springer|
+ZDB-JRNL-080902-1|Nutrition & metabolism|Nutr. Metab. (Lond).|BioMed Central|
+ZDB-JRNL-080908-2|Optics express|Opt. Express|Optical Society of America|
+ZDB-JRNL-080912-3|Dissertation, Freie University, Berlin|Dissertation, Freie University, Berlin||
+ZDB-JRNL-080912-6|Undergraduate Honors Thesis, Ohio State University|Undergraduate Honors Thesis, Ohio State University||
+ZDB-JRNL-080915-3|The American journal of clinical nutrition|Am. J. Clin. Nutr.|American Society of Clinical Nutrition|
+ZDB-JRNL-080918-10|Dissertation, (Sammanfattning) Stockholm, Karolinska Institutet|Dissertation, (Sammanfattning) Stockholm, Karolinska Institutet||
+ZDB-JRNL-080918-13|Ph.D. Thesis, Miami University, Dept. of Zoology|Ph.D. Thesis, Miami University, Dept. of Zoology||
+ZDB-JRNL-080918-16|M.S. Thesis, Oregon Health & Science University|M.S. Thesis, Oregon Health & Science University||
+ZDB-JRNL-080918-19|M.Sc. Thesis, Ben Gurion University|M.Sc. Thesis, Ben Gurion University||
+ZDB-JRNL-080918-21|M.S. Thesis, University of Texas at Austin|M.S. Thesis, University of Texas at Austin||
+ZDB-JRNL-080918-24|M.S. Thesis, University of Pennsylvania|M.S. Thesis, University of Pennsylvania||
+ZDB-JRNL-080918-5|M.S. Thesis, University of North Texas.|M.S. Thesis, University of North Texas.||
+ZDB-JRNL-080918-8|Ph.D. Thesis, University of Iowa|Ph.D. Thesis, University of Iowa||
+ZDB-JRNL-080922-2|International journal of biological sciences|Int. J. Biol. Sci.|Ivyspring International|
+ZDB-JRNL-081008-2|Neuropsychiatric disease and treatment|Neuropsychiatr. Dis. Treat.|Dove Medical Press|
+ZDB-JRNL-081022-1|Pharmaceutical research|Pharm. Res.|Kluwer Academic/Plenum Publishers|
+ZDB-JRNL-081024-1|Sub-cellular biochemistry|Subcell. Biochem.|Plenum|
+ZDB-JRNL-081105-1|Genes, chromosomes & cancer|Genes Chromosomes Cancer|Wiley-Liss|
+ZDB-JRNL-081114-2|Journal of cell communication and signaling|J. Cell Commun. Signal.|Springer|
+ZDB-JRNL-081201-1|Journal of Behavioral and Neuroscience Research|J. Behav. Neurosci. Res.|The College of Saint Rose in Albany, NY|
+ZDB-JRNL-081203-3|Journal of veterinary science (SuwOn-si, Korea)|J. Vet. Sci.|Korean Society of Veterinary Science|
+ZDB-JRNL-081217-1|Journal of nanoscience and nanotechnology|J. Nanosci. Nanotechnol.|American Scientific Publishers|
+ZDB-JRNL-081218-1|Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes|J. Environ. Sci. Health B|Taylor & Francis|
+ZDB-JRNL-090109-1|Behaviour|Behaviour|BRILL|
+ZDB-JRNL-090123-1|Neurogastroenterology and motility : the official journal of the European Gastrointestinal Motility Society|Neurogastroenterol. Motil.|Blackwell Scientific Publications|
+ZDB-JRNL-090204-1|Journal of magnetic resonance imaging : JMRI|J. Magn. Reson. Imaging|Wiley|
+ZDB-JRNL-090210-1|International Journal for Parasitology|Int. J. Parasit.|Elsevier|
+ZDB-JRNL-090210-4|Cancer letters|Cancer Lett.|Elsevier Science Ireland|
+ZDB-JRNL-090225-1|Steroids|Steroids|Elsevier|
+ZDB-JRNL-090227-1|Autophagy|Autophagy|Landes Bioscience|
+ZDB-JRNL-090302-3|PLoS pathogens|PLoS Pathog.|Public Library of Science|
+ZDB-JRNL-090318-1|Current drug metabolism|Curr. Drug Metab.|Bentham Science Publishers|
+ZDB-JRNL-090319-2|Anatomical science international / Japanese Association of Anatomists|Anat. Sci. Int.|Blackwell Pub.|
+ZDB-JRNL-090407-2|Journal of Medical Genetics|J. Med. Genet.|British Medical Association|
+ZDB-JRNL-090429-1|Advanced drug delivery reviews|Adv. Drug Deliv. Rev.|Elsevier Science Publishers, B.V.|
+ZDB-JRNL-090511-1|Nanotechnology|Nanotechnology|IOP Pub.|
+ZDB-JRNL-090518-3|Biopolymers|Biopolymers|Wiley Interscience|
+ZDB-JRNL-090520-11|Thesis (M.Sc.) Uppsala|Thesis (M.Sc.) Uppsala||
+ZDB-JRNL-090520-14|Thesis (M.S.)--Virginia Commonwealth University|Thesis (M.S.)--Virginia Commonwealth University||
+ZDB-JRNL-090520-17|Thesis (Ph. D.)--University of Georgia|Thesis (Ph. D.)--University of Georgia||
+ZDB-JRNL-090520-3|Thesis (M.Sc.)--University of New Brunswick|Thesis (M.Sc.)--University of New Brunswick||
+ZDB-JRNL-090520-6|Thesis (Ph.D.)--University of Memphis|Thesis (Ph.D.)--University of Memphis||
+ZDB-JRNL-090520-9|Thesis (M.A.)--National Taiwan University Graduate Institute of Microbiology and Biochemistry|Thesis (M.A.)--National Taiwan University Graduate Institute of Microbiology and Biochemistry||
+ZDB-JRNL-090521-11|Thesis (M.A.)--National Taiwan University Graduate Institute of Biochemistry and Molecularbiology|Thesis (M.A.)--National Taiwan University Graduate Institute of Biochemistry and Molecularbiology||
+ZDB-JRNL-090521-14|Ph.D. Thesis, UCLA|Ph.D. Thesis, UCLA||
+ZDB-JRNL-090521-17|M.Sc. Thesis, University of Montreal|M.Sc. Thesis, University of Montreal||
+ZDB-JRNL-090521-2|Ph.D. Thesis, University of California, Irvine|Ph.D. Thesis, University of California, Irvine||
+ZDB-JRNL-090521-22|Dissertation, Uppsala|Dissertation, Uppsala||
+ZDB-JRNL-090521-25|M.Sc. Thesis, University of Victoria|M.Sc. Thesis, University of Victoria||
+ZDB-JRNL-090521-28|M.Sc. Thesis, University of Calgary|M.Sc. Thesis, University of Calgary||
+ZDB-JRNL-090521-30|University Dissertation, Marburg|University Dissertation, Marburg||
+ZDB-JRNL-090521-33|Ph.D. Thesis, Deakin University, Victoria|Ph.D. Thesis, Deakin University, Victoria||
+ZDB-JRNL-090521-36|Ph.D. Thesis, Western Michigan University|Ph.D. Thesis, Western Michigan University||
+ZDB-JRNL-090521-39|Dissertation, Darmstadt Techn. University|Dissertation, Darmstadt Techn. University||
+ZDB-JRNL-090521-41|Humboldt University Dissertation, Berlin|Humboldt University Dissertation, Berlin||
+ZDB-JRNL-090521-44|Ph.D. Thesis, Colorado State University|Ph.D. Thesis, Colorado State University||
+ZDB-JRNL-090521-47|Ph.D. Thesis, Yale University|Ph.D. Thesis, Yale University||
+ZDB-JRNL-090521-5|Thesis (Master) - National Taiwan University|Thesis (Master) - National Taiwan University||
+ZDB-JRNL-090521-52|Honors Thesis, Smith College, Northampton|Honors Thesis, Smith College, Northampton||
+ZDB-JRNL-090521-55|Thesis (Ph.D.)--National Taiwan University Graduate Institute of Biochemical Sciences|Thesis (Ph.D.)--National Taiwan University Graduate Institute of Biochemical Sciences||
+ZDB-JRNL-090521-8|Ph.D. Thesis, Stony Brook University|Ph.D. Thesis, Stony Brook University||
+ZDB-JRNL-090526-2|Thesis (M.Phil.) - University of Queensland|Thesis (M.Phil.) - University of Queensland||
+ZDB-JRNL-090526-5|Thesis (Ph.D.) -- National Taiwan University Dept. of Fisheries Science|Thesis (Ph.D.) -- National Taiwan University Dept. of Fisheries Science||
+ZDB-JRNL-090527-1|Ph.D. Thesis, University of Waterloo|Ph.D. Thesis, University of Waterloo||
+ZDB-JRNL-090527-4|M.S. Thesis, University of Akron|M.S. Thesis, University of Akron||
+ZDB-JRNL-090529-11|Ph.D. Thesis, University of Colorado at Denver and Health Sciences Center|Ph.D. Thesis, University of Colorado at Denver and Health Sciences Center||
+ZDB-JRNL-090529-14|Ph.D. Thesis, Saint Louis University|Ph.D. Thesis, Saint Louis University||
+ZDB-JRNL-090529-17|University Dissertation, Kiel|University Dissertation, Kiel||
+ZDB-JRNL-090529-2|University Dissertation, Würzburg|University Dissertation, Würzburg||
+ZDB-JRNL-090529-5|Ph.D. Thesis, Georgia State University|Ph.D. Thesis, Georgia State University||
+ZDB-JRNL-090529-8|Ph.D. Thesis, Guy's, King's and St. Thomas's School of Biomedical Sciences|Ph.D. Thesis, Guy's, King's and St. Thomas's School of Biomedical Sciences||
+ZDB-JRNL-090602-1|University Dissertation, Trier|University Dissertation, Trier||
+ZDB-JRNL-090602-4|M.Sc. Thesis, Molecular Medicine and Pathology, University of Auckland|M.Sc. Thesis, Molecular Medicine and Pathology, University of Auckland||
+ZDB-JRNL-090602-7|Thesis (M.D. with honors), Harvard Medical School|Thesis (M.D. with honors), Harvard Medical School||
+ZDB-JRNL-090603-11|Ph.D. Thesis, University of Leeds|Ph.D. Thesis, University of Leeds||
+ZDB-JRNL-090603-14|M.S. Thesis, Illinois State University|M.S. Thesis, Illinois State University||
+ZDB-JRNL-090603-17|Scriptie Wageningen Universiteit|Scriptie Wageningen Universiteit||
+ZDB-JRNL-090603-2|Ph.D. Thesis, National Taiwan Ocean University|Ph.D. Thesis, National Taiwan Ocean University||
+ZDB-JRNL-090603-22|M.Sc. Thesis, Molecular Genetics and Development, University of Auckland|M.Sc. Thesis, Molecular Genetics and Development, University of Auckland||
+ZDB-JRNL-090603-25|Thesis (M. Eng.), Massachusetts Institute of Technology, Dept. of Electrical Engineering and Computer Science|Thesis (M. Eng.), Massachusetts Institute of Technology, Dept. of Electrical Engineering and Computer Science||
+ZDB-JRNL-090603-28|M.S. Thesis, University of New Orleans|M.S. Thesis, University of New Orleans||
+ZDB-JRNL-090603-30|Ph.D. Thesis, University of Melbourne|Ph.D. Thesis, University of Melbourne||
+ZDB-JRNL-090603-5|S.M. Thesis, Massachusetts Institute of Technology, Dept. of Biology|S.M. Thesis, Massachusetts Institute of Technology, Dept. of Biology||
+ZDB-JRNL-090603-8|M.A. Thesis, National Yang-Ming University|M.A. Thesis, National Yang-Ming University||
+ZDB-JRNL-090605-2|Ph.D. Thesis, National Taiwan University|Ph.D. Thesis, National Taiwan University||
+ZDB-JRNL-090605-5|M.S. Thesis, University of Memphis|M.S. Thesis, University of Memphis||
+ZDB-JRNL-090616-3|Diabetes|Diabetes|American Diabetes Association|
+ZDB-JRNL-090616-6|Cancer science|Cancer Sci.|Blackwell Publishing|
+ZDB-JRNL-090623-1|M.S. Thesis, Northeastern University|M.S. Thesis, Northeastern University||
+ZDB-JRNL-090709-1|Dissertation, Ludwig-Maximilians-University of Munich|Dissertation, Ludwig-Maximilians-University of Munich||
+ZDB-JRNL-090727-1|IUBMB life|IUBMB Life|Published for the International Union of Biochemistry and Molecular Biology by Taylor & Francis|
+ZDB-JRNL-090731-2|Biomolecular NMR assignments|Biomol. NMR Assign.|Springer|
+ZDB-JRNL-090819-1|Sexual development|Sex. Dev.|S. Karger|
+ZDB-JRNL-090914-2|Analytica chimica acta|Anal. Chim. Acta|Elsevier|
+ZDB-JRNL-090921-1|Toxicology mechanisms and methods|Toxicol. Mech. Methods|Informa Healthcare|
+ZDB-JRNL-090929-2|Expert opinion on drug discovery|Expert Opin. Drug Discov.|Informa Healthcare|
+ZDB-JRNL-091005-1|Prion|Prion|Landes Bioscience|
+ZDB-JRNL-091023-2|Current topics in medicinal chemistry|Curr. Top. Med. Chem.|Bentham Science Publishers|
+ZDB-JRNL-091023-5|IEEE transactions on visualization and computer graphics|IEEE Trans. Vis. Comput. Graph.|IEEE Computer Society|
+ZDB-JRNL-091101-1|Frontiers in neural circuits|Front. Neural Circuits|Frontiers Research Foundation|
+ZDB-JRNL-091120-3|Advances in enzyme regulation|Adv. Enzyme Regul.|Pergamon Press|
+ZDB-JRNL-091120-6|Molecules|Molecules|Molecular Diversity Preservation International|
+ZDB-JRNL-050621-1|PLoS Biology|PLoS Biol.|PLoS|
+ZDB-JRNL-050621-1001|Molecular & Cellular Endocrinology|Mol. Cell Endocrinol.|Elsevier|
+ZDB-JRNL-050621-1004|Mol. Cell. Biochem.|Mol. Cell. Biochem.||
+ZDB-JRNL-050621-1007|Mol. Cell. Neurosci.|Mol. Cell. Neurosci.||
+ZDB-JRNL-050621-1011|Mol. Gen. Genet.|Mol. Gen. Genet.||
+ZDB-JRNL-050621-1014|Mol. Med. Today|Mol. Med. Today||
+ZDB-JRNL-050621-1017|Mol. Physiol.|Mol. Physiol.||
+ZDB-JRNL-050621-1020|Molecular Vision|Mol. Vis.||
+ZDB-JRNL-050621-1023|Mutat. Res. Genet. Toxicol. Environ. Mutagen.|Mutat. Res. Genet. Toxicol. Environ. Mutagen.||
+ZDB-JRNL-050621-1026|N. Am. J. Aquacult.|N. Am. J. Aquacult.||
+ZDB-JRNL-050621-1029|Nar. Museum v Prace|Nar. Museum v Prace||
+ZDB-JRNL-050621-1032|Nat. Genet.|Nat. Genet.||
+ZDB-JRNL-050621-1035|Nat. Neurosci.|Nat. Neurosci.||
+ZDB-JRNL-050621-1038|Nat. Rev. Genet.|Nat. Rev. Genet.||
+ZDB-JRNL-050621-1041|Nat. Rev. Neurosci.|Nat. Rev. Neurosci.||
+ZDB-JRNL-050621-1044|Naturaliste Can.|Naturaliste Can.||
+ZDB-JRNL-050621-1048|Naunyn-Schmiedeberg's Arch. Pharmacol.|Naunyn-Schmiedeberg's Arch. Pharmacol.||
+ZDB-JRNL-050621-1051|Neurochem. Int.|Neurochem. Int.||
+ZDB-JRNL-050621-1054|Neuropeptides|Neuropeptides||
+ZDB-JRNL-050621-1057|Neurosci. Facts|Neurosci. Facts||
+ZDB-JRNL-050621-1060|Neurosci. Res.|Neurosci. Res.||
+ZDB-JRNL-050621-1063|Neurotoxicol. Teratol.|Neurotoxicol. Teratol.||
+ZDB-JRNL-050621-1066|New York: McGraw-Hill Book Co|New York: McGraw-Hill Book Co||
+ZDB-JRNL-050621-1069|New. Engl. J. Med.|New. Engl. J. Med.||
+ZDB-JRNL-050621-1072|Nomenclature Committee Submission|Nomenclature Committee Submission||
+ZDB-JRNL-050621-1076|Nutrition & Technical Development of Aquaculture Conference proceedings|Nutrition & Technical Development of Aquaculture Conference proceedings||
+ZDB-JRNL-050621-1079|Oncol. Rep.|Oncol. Rep.||
+ZDB-JRNL-050621-1082|Ophthalmic Res.|Ophthalmic Res.||
+ZDB-JRNL-050621-1085|Palo Alto, CA: Annual Reviews Inc.|Palo Alto, CA: Annual Reviews Inc.||
+ZDB-JRNL-050621-1088|Pathol. Biol. Paris|Pathol. Biol. Paris||
+ZDB-JRNL-050621-1091|Pers. Dev. Neurobiol.|Pers. Dev. Neurobiol.||
+ZDB-JRNL-050621-1094|Pesticide Sci.|Pesticide Sci.||
+ZDB-JRNL-050621-1097|Pflügers Archiv.|Pflügers Archiv.||
+ZDB-JRNL-050621-11|Mechanisms of Development|Mech. Dev.|Elsevier|
+ZDB-JRNL-050621-1102|Ph.D. Dissertation, University of Oregon|Ph.D. Dissertation, University of Oregon||
+ZDB-JRNL-050621-1105|Ph.D. Dissertation. University of Oregon|Ph.D. Dissertation. University of Oregon||
+ZDB-JRNL-050621-1108|Ph.D. Thesis, California Institute of Technology|Ph.D. Thesis, California Institute of Technology||
+ZDB-JRNL-050621-1111|Ph.D. Thesis, Columbia University|Ph.D. Thesis, Columbia University||
+ZDB-JRNL-050621-1114|Ph.D. Thesis, Dalhousie University (Canada)|Ph.D. Thesis, Dalhousie University (Canada)||
+ZDB-JRNL-050621-1117|Ph.D. Thesis, Dept. of Human Genetics, University of Utah|Ph.D. Thesis, Dept. of Human Genetics, University of Utah||
+ZDB-JRNL-050621-1120|Ph.D. Thesis, Eberhard-Karls Universität zu Tübingen|Ph.D. Thesis, Eberhard-Karls Universität zu Tübingen||
+ZDB-JRNL-050621-1123|Ph.D. Thesis, Harvard University|Ph.D. Thesis, Harvard University||
+ZDB-JRNL-050621-1126|Ph.D. Thesis, Indiana State University|Ph.D. Thesis, Indiana State University||
+ZDB-JRNL-050621-1129|Ph.D. Thesis, Lunds Universitet (Sweden)|Ph.D. Thesis, Lunds Universitet (Sweden)||
+ZDB-JRNL-050621-1132|Ph.D. Thesis, Medical College of Georgia|Ph.D. Thesis, Medical College of Georgia||
+ZDB-JRNL-050621-1136|Ph.D. Thesis, Ohio State University|Ph.D. Thesis, Ohio State University||
+ZDB-JRNL-050621-1139|Ph.D. Thesis, Oregon State University|Ph.D. Thesis, Oregon State University||
+ZDB-JRNL-050621-1142|Ph.D. Thesis, Program in Neuroscience, Harvard University|Ph.D. Thesis, Program in Neuroscience, Harvard University||
+ZDB-JRNL-050621-1145|Ph.D. Thesis, Rutgers The State University of New Jersey - New Brunswick|Ph.D. Thesis, Rutgers The State University of New Jersey - New Brunswick||
+ZDB-JRNL-050621-1148|Ph.D. Thesis, State University of New York at Stony Brook|Ph.D. Thesis, State University of New York at Stony Brook||
+ZDB-JRNL-050621-1152|Ph.D. Thesis, The University of Michigan|Ph.D. Thesis, The University of Michigan||
+ZDB-JRNL-050621-1155|Ph.D. Thesis, Tulane University|Ph.D. Thesis, Tulane University||
+ZDB-JRNL-050621-1158|Ph.D. Thesis, Universitat zu Koln,|Ph.D. Thesis, Universitat zu Koln,||
+ZDB-JRNL-050621-1161|Ph.D. Thesis, University of California, Berkeley|Ph.D. Thesis, University of California, Berkeley||
+ZDB-JRNL-050621-1164|Ph.D. Thesis, University of Colorado|Ph.D. Thesis, University of Colorado||
+ZDB-JRNL-050621-1167|Ph.D. Thesis, University of Houston|Ph.D. Thesis, University of Houston||
+ZDB-JRNL-050621-1170|Ph.D. Thesis, University of Manitoba|Ph.D. Thesis, University of Manitoba||
+ZDB-JRNL-050621-1173|Ph.D. Thesis, University of Michigan|Ph.D. Thesis, University of Michigan||
+ZDB-JRNL-050621-1176|Ph.D. Thesis, University of Newcastle upon Tyne|Ph.D. Thesis, University of Newcastle upon Tyne||
+ZDB-JRNL-050621-1179|Ph.D. Thesis, University of Oregon|Ph.D. Thesis, University of Oregon||
+ZDB-JRNL-050621-1182|Ph.D. Thesis, University of Rochester|Ph.D. Thesis, University of Rochester||
+ZDB-JRNL-050621-1185|Ph.D. Thesis, University of Tübingen, Germany|Ph.D. Thesis, University of Tübingen, Germany||
+ZDB-JRNL-050621-1188|Ph.D. Thesis, University of Virginia|Ph.D. Thesis, University of Virginia||
+ZDB-JRNL-050621-1191|Ph.D. Thesis, Uppsala University (Sweden)|Ph.D. Thesis, Uppsala University (Sweden)||
+ZDB-JRNL-050621-1195|Ph.D. Thesis, Washington State University|Ph.D. Thesis, Washington State University||
+ZDB-JRNL-050621-1199|Ph.D. thesis, Northeastern University|Ph.D. thesis, Northeastern University||
+ZDB-JRNL-050621-1202|Pharmacol. Toxicol.|Pharmacol. Toxicol.||
+ZDB-JRNL-050621-1205|Philadelphia: W.B. Saunders Co.,882|Philadelphia: W.B. Saunders Co.,882||
+ZDB-JRNL-050621-1208|Photochem. Photobiol.|Photochem. Photobiol.||
+ZDB-JRNL-050621-1214|Physiol. Rev.|Physiol. Rev.||
+ZDB-JRNL-050621-1217|Pigm. Cell Res.|Pigm. Cell Res.||
+ZDB-JRNL-050621-1220|Prac. Fishkeep.|Prac. Fishkeep.||
+ZDB-JRNL-050621-1223|Proc. Indian Acad. Sci. B|Proc. Indian Acad. Sci. B||
+ZDB-JRNL-050621-1226|Proc. Int. Union Physiol. Sci.|Proc. Int. Union Physiol. Sci.||
+ZDB-JRNL-050621-1229|Proc. Natl. Acad. Sci. INDIA|Proc. Natl. Acad. Sci. INDIA||
+ZDB-JRNL-050621-1232|Proc. Natl. Acad. Sci. USA|Proc. Natl. Acad. Sci. USA||
+ZDB-JRNL-050621-1235|Proc. R. Soc. Lond.|Proc. R. Soc. Lond.||
+ZDB-JRNL-050621-1238|Proc. West. Pharmacol. Soc.|Proc. West. Pharmacol. Soc.||
+ZDB-JRNL-050621-1241|Proceedings of the EMBO Workshop on Reproduction & Early Development Conference|Proceedings of the EMBO Workshop on Reproduction & Early Development Conference||
+ZDB-JRNL-050621-1244|Prog. Fish Cult.|Prog. Fish Cult.||
+ZDB-JRNL-050621-1247|Prostaglandins Leukot. Essent. Fatty Acids|Prostaglandins Leukot. Essent. Fatty Acids||
+ZDB-JRNL-050621-1250|Proteomics|Proteomics||
+ZDB-JRNL-050621-1253|QSAR Environ. Toxicol.|QSAR Environ. Toxicol.||
+ZDB-JRNL-050621-1256|Radiobiologiya|Radiobiologiya||
+ZDB-JRNL-050621-1259|Rec. Adv. Mar. Biotech.|Rec. Adv. Mar. Biotech.||
+ZDB-JRNL-050621-1262|Recept. Chan.|Recept. Chan.||
+ZDB-JRNL-050621-1265|Regul. Pept.|Regul. Pept.||
+ZDB-JRNL-050621-1268|Results Probl. Cell Diff.|Results Probl. Cell Diff.||
+ZDB-JRNL-050621-1271|Roscoe B. Jackson Mem. Lab. Lecture Series|Roscoe B. Jackson Mem. Lab. Lecture Series||
+ZDB-JRNL-050621-1274|Rybn. Khoz. (Moscow)|Rybn. Khoz. (Moscow)||
+ZDB-JRNL-050621-1277|San Diego: Academic Press|San Diego: Academic Press||
+ZDB-JRNL-050621-1280|Scand. J. Immunol.|Scand. J. Immunol.||
+ZDB-JRNL-050621-1283|Sci. China Ser. C-Life Sci.|Sci. China Ser. C-Life Sci.||
+ZDB-JRNL-050621-1286|Sci. STKE|Sci. STKE||
+ZDB-JRNL-050621-1289|Science.|Science.||
+ZDB-JRNL-050621-1292|Sem. Cell Dev. Biol.|Sem. Cell Dev. Biol.||
+ZDB-JRNL-050621-1295|Shanghai Science and Technology Publishers, November,, 1983|Shanghai Science and Technology Publishers, November,, 1983||
+ZDB-JRNL-050621-1298|Singapore: World Scientific and London: Imperial College Press,|Singapore: World Scientific and London: Imperial College Press,||
+ZDB-JRNL-050621-1300|Sleep|Sleep||
+ZDB-JRNL-050621-1303|Soc. Neurosci. Abstr.|Soc. Neurosci. Abstr.||
+ZDB-JRNL-050621-1306|Stem Cells|Stem Cells||
+ZDB-JRNL-050621-1309|TINS|TINS||
+ZDB-JRNL-050621-1313|Tech. Report CIS-TR-97-02, Computer and Information Science Department, University of Oregon|Tech. Report CIS-TR-97-02, Computer and Information Science Department, University of Oregon||
+ZDB-JRNL-050621-1316|Tenside Det.|Tenside Det.||
+ZDB-JRNL-050621-1319|The Zebrafish: Cellular and Developmental Biology,2nd Ed. Methods Cell Biol.|The Zebrafish: Cellular and Developmental Biology,2nd Ed. Methods Cell Biol.||
+ZDB-JRNL-050621-1322|Thesis, Oklahoma A & M College|Thesis, Oklahoma A & M College||
+ZDB-JRNL-050621-1325|Tox. App. Pharmacol.|Tox. App. Pharmacol.||
+ZDB-JRNL-050621-1328|Toxicol. Lett.|Toxicol. Lett.||
+ZDB-JRNL-050621-1331|Toxicology|Toxicology||
+ZDB-JRNL-050621-1334|Trans. Am. Micro. Soc.|Trans. Am. Micro. Soc.||
+ZDB-JRNL-050621-1337|Transgenic Res.|Transgenic Res.||
+ZDB-JRNL-050621-1340|Trends Cardiovasc. Med.|Trends Cardiovasc. Med.||
+ZDB-JRNL-050621-1343|Trends Immunol.|Trends Immunol.||
+ZDB-JRNL-050621-1346|Trends Neurosci.|Trends Neurosci.||
+ZDB-JRNL-050621-1350|Tsitologiya|Tsitologiya||
+ZDB-JRNL-050621-1353|U.S. Patent: (Medical College of Georgia Research Institute, Inc.)|U.S. Patent: (Medical College of Georgia Research Institute, Inc.)||
+ZDB-JRNL-050621-1356|Undergraduate Honors Thesis, Mount Holyoke College|Undergraduate Honors Thesis, Mount Holyoke College||
+ZDB-JRNL-050621-1359|University of Oregon Press, Eugene,2nd edition|University of Oregon Press, Eugene,2nd edition||
+ZDB-JRNL-050621-1362|Vatter|Vatter||
+ZDB-JRNL-050621-1365|Videocassette. Bethesda, MD: National Institutes of Health|Videocassette. Bethesda, MD: National Institutes of Health||
+ZDB-JRNL-050621-1368|Vis. Neurosci.|Vis. Neurosci.||
+ZDB-JRNL-050621-1371|Vol. III Ostariophysi: Cyprinoidea, Apodes, Synbranchii. Leiden: E.J. Brill.|Vol. III Ostariophysi: Cyprinoidea, Apodes, Synbranchii. Leiden: E.J. Brill.||
+ZDB-JRNL-050621-1374|Vopr. Onkol.|Vopr. Onkol.||
+ZDB-JRNL-050621-1377|Water Sci. Technol.|Water Sci. Technol.||
+ZDB-JRNL-050621-1380|Yeast|Yeast||
+ZDB-JRNL-050621-1383|Yr. Bk. Am. Phil. Soc.|Yr. Bk. Am. Phil. Soc.||
+ZDB-JRNL-050621-1386|Z. Vergl. Physiol.|Z. Vergl. Physiol.||
+ZDB-JRNL-050621-1389|Z. Zellforsch.|Z. Zellforsch.||
+ZDB-JRNL-050621-1392|Zebrafish Science Monitor|Zebrafish Science Monitor||
+ZDB-JRNL-050621-1395|Zell. V. Anat.|Zell. V. Anat.||
+ZDB-JRNL-050621-1398|Zh. Obshch. Biol.|Zh. Obshch. Biol.||
+ZDB-JRNL-050621-1401|Zoological Journal of Linnean Society|Zool. J. Linn. Soc.||
+ZDB-JRNL-050621-1404|Zool. Sci.|Zool. Sci.||
+ZDB-JRNL-050621-1407|Zoologica, New York|Zoologica, New York||
+ZDB-JRNL-050621-1410|in Zebrafish, 2nd Ed. Cellular & Developmental Biology and Genetics (in press)|in Zebrafish, 2nd Ed. Cellular & Developmental Biology and Genetics (in press)||
+ZDB-JRNL-050621-1414|Journal of Fish Biology|J. Fish Biol.|Blackwell|
+ZDB-JRNL-050621-188|/II. O. Johari and R.P. Becker, eds., IIT Research Inst., Chicago, Il.|/II. O. Johari and R.P. Becker, eds., IIT Research Inst., Chicago, Il.||
+ZDB-JRNL-050621-191|3rd ed., Minneapolis, MN: Burgess Publishing Co.|3rd ed., Minneapolis, MN: Burgess Publishing Co.||
+ZDB-JRNL-050621-194|Abstr. Pap. Am. Chem. Soc.|Abstr. Pap. Am. Chem. Soc. 190||
+ZDB-JRNL-050621-197|Acta Embryol. Exp. Morphol.|Acta Embryol. Exp. Morphol.||
+ZDB-JRNL-050621-200|Acta Physiol. Scand.|Acta Physiol. Scand.||
+ZDB-JRNL-050621-203|Acta. Anat.|Acta. Anat.||
+ZDB-JRNL-050621-207|Adv. Exp. Med. Biol.|Adv. Exp. Med. Biol.||
+ZDB-JRNL-050621-210|Adv. Space Res.|Adv. Space Res.||
+ZDB-JRNL-050621-213|Akvarieforeningen Karpens Tidskrift. 1|Akvarieforeningen Karpens Tidskrift. 1||
+ZDB-JRNL-050621-216|Am. Biol. Teach.|Am. Biol. Teach.||
+ZDB-JRNL-050621-219|Am. J. Hum. Genet.|Am. J. Hum. Genet.||
+ZDB-JRNL-050621-222|Am. J. Physiol. Cell Physiol.|Am. J. Physiol. Cell Physiol.||
+ZDB-JRNL-050621-225|Am. J. Physiol. Renal Physiol.|Am. J. Physiol. Renal Physiol.||
+ZDB-JRNL-050621-228|Am. Nat.|Am. Nat.||
+ZDB-JRNL-050621-231|Amer. Zool.|Amer. Zool.||
+ZDB-JRNL-050621-234|Anal. Biochem.|Anal. Biochem.||
+ZDB-JRNL-050621-237|Anat. Embryol. (Berl)|Anat. Embryol. (Berl)||
+ZDB-JRNL-050621-240|Anim. Behav.|Anim. Behav.||
+ZDB-JRNL-050621-243|Animal Kingdom|Animal Kingdom||
+ZDB-JRNL-050621-246|Ann. Embryo. Morphol.|Ann. Embryo. Morphol.||
+ZDB-JRNL-050621-249|Ann. Rev. Genet.|Ann. Rev. Genet.||
+ZDB-JRNL-050621-252|Annot. Zool. Japan|Annot. Zool. Japan||
+ZDB-JRNL-050621-255|Annu. Rev. Genom. Hum Genet.|Annu. Rev. Genom. Hum Genet.||
+ZDB-JRNL-050621-258|Apoptosis|Apoptosis||
+ZDB-JRNL-050621-261|Aqua. Terra.|Aqua. Terra.||
+ZDB-JRNL-050621-264|Aquacult. Nutr.|Aquacult. Nutr.||
+ZDB-JRNL-050621-267|Aquaculture 2001: Book of Abstracts, World Aquacul. Soc.|Aquaculture 2001: Book of Abstracts, World Aquacul. Soc.||
+ZDB-JRNL-050621-270|Aquaria|Aquaria||
+ZDB-JRNL-050621-273|Aquarist Pondkpr.|Aquarist Pondkpr.||
+ZDB-JRNL-050621-276|Aquarium (Wuppertal)|Aquarium (Wuppertal)||
+ZDB-JRNL-050621-279|Aquat. Ecosyst. Health Manage.|Aquat. Ecosyst. Health Manage.||
+ZDB-JRNL-050621-282|Arch. Biochem. Biophys.|Arch. Biochem. Biophys.||
+ZDB-JRNL-050621-285|Arch. Environ. Health|Arch. Environ. Health||
+ZDB-JRNL-050621-288|Arch. Mus. Hist. Nat., Lyon|Arch. Mus. Hist. Nat., Lyon||
+ZDB-JRNL-050621-291|Arch. Zool. Ital.|Arch. Zool. Ital.||
+ZDB-JRNL-050621-294|Asia-Pac. J. Mol. Biol. Biotech.|Asia-Pac. J. Mol. Biol. Biotech.||
+ZDB-JRNL-050621-297|Atti. Soc. Ital. Nat. Mus. Civ. St. Nat. Milano|Atti. Soc. Ital. Nat. Mus. Civ. St. Nat. Milano||
+ZDB-JRNL-050621-300|Avail. Univ. Microfilms Int., Order No. DA8625444 From Diss. Abstr. Int. B|Avail. Univ. Microfilms Int., Order No. DA8625444 From Diss. Abstr. Int. B||
+ZDB-JRNL-050621-303|B.S. Thesis, Eckerd College|B.S. Thesis, Eckerd College||
+ZDB-JRNL-050621-307|BMC Developmental Biology|BMC Dev. Biol.||
+ZDB-JRNL-050621-310|Behav. Brain Res.|Behav. Brain Res.||
+ZDB-JRNL-050621-313|Ber. Landwirtsch.|Ber. Landwirtsch.||
+ZDB-JRNL-050621-316|BioBeat On-Line Magazine, http://www.biobeat.com/zebrafish/|BioBeat On-Line Magazine, http://www.biobeat.com/zebrafish/||
+ZDB-JRNL-050621-321|Biochem. J.|Biochem. J.||
+ZDB-JRNL-050621-324|Biochem. Soc. Symp.|Biochem. Soc. Symp.||
+ZDB-JRNL-050621-327|Biochemistry (Mosc)|Biochemistry (Mosc)||
+ZDB-JRNL-050621-330|Biochim. Biophys. Acta.|Biochim. Biophys. Acta.||
+ZDB-JRNL-050621-334|Biochimie|Biochimie||
+ZDB-JRNL-050621-337|Bioinformatics|Bioinformatics||
+ZDB-JRNL-050621-340|Biol. Chem.|Biol. Chem.||
+ZDB-JRNL-050621-343|Biol. Reprod.|Biol. Reprod.||
+ZDB-JRNL-050621-346|Biol. Signals Recept.|Biol. Signals Recept.||
+ZDB-JRNL-050621-349|Biol. Zentralbl.|Biol. Zentralbl.||
+ZDB-JRNL-050621-351|Biomaterials|Biomaterials||
+ZDB-JRNL-050621-354|Biophysics|Biophysics||
+ZDB-JRNL-050621-357|Biotech. Adv.|Biotech. Adv.||
+ZDB-JRNL-050621-360|Birth Defects Res. Part A Clin. Mol. Teratol.|Birth Defects Res. Part A Clin. Mol. Teratol.||
+ZDB-JRNL-050621-364|Blood Cells Mol. Dis.|Blood Cells Mol. Dis.||
+ZDB-JRNL-050621-367|Boletin Dep. Biol. Fac. Cienc. Univ. Nac. Colomb.|Boletin Dep. Biol. Fac. Cienc. Univ. Nac. Colomb.||
+ZDB-JRNL-050621-370|Boston, MA Kluwer Academic Publishers|Boston, MA Kluwer Academic Publishers||
+ZDB-JRNL-050621-373|Br. J. Haematol.|Br. J. Haematol.||
+ZDB-JRNL-050621-376|Brain Lang.|Brain Lang.||
+ZDB-JRNL-050621-379|Brain Res. Dev. Brain Res.|Brain Res. Dev. Brain Res.||
+ZDB-JRNL-050621-382|Braz. J. Med. Biol. Res.|Braz. J. Med. Biol. Res.||
+ZDB-JRNL-050621-385|Bull. Environ. Contam. Toxicol.|Bull. Environ. Contam. Toxicol.||
+ZDB-JRNL-050621-388|Bull. Mt. Desert Isl. Biol. Lab.|Bull. Mt. Desert Isl. Biol. Lab.||
+ZDB-JRNL-050621-391|Bull. Soc. Zool. Fr.|Bull. Soc. Zool. Fr.||
+ZDB-JRNL-050621-394|Bull. U.S. Nat. Mus. Wash.|Bull. U.S. Nat. Mus. Wash.||
+ZDB-JRNL-050621-397|C.R. Acad. Sci. III|C.R. Acad. Sci. III||
+ZDB-JRNL-050621-400|Cambridge, The Company of Biologists, Ltd.|Cambridge, The Company of Biologists, Ltd.||
+ZDB-JRNL-050621-404|Can. J. Fish. Aquat. Sci.|Can. J. Fish. Aquat. Sci.||
+ZDB-JRNL-050621-407|Can. Tech. Rep. Fish. Aquat. Sci.|Can. Tech. Rep. Fish. Aquat. Sci.||
+ZDB-JRNL-050621-410|Cancer Cell|Cancer Cell|Elsevier|
+ZDB-JRNL-050621-413|Cardiovasc. Res.|Cardiovasc. Res.||
+ZDB-JRNL-050621-416|Cell Biochem. Biophys.|Cell Biochem. Biophys.||
+ZDB-JRNL-050621-419|Cell Calcium|Cell Calcium||
+ZDB-JRNL-050621-422|Cell Death Differ.|Cell Death Differ.||
+ZDB-JRNL-050621-425|Cell Mol. Biol. Res.|Cell Mol. Biol. Res.||
+ZDB-JRNL-050621-429|Cell Stress Chaperones|Cell Stress Chaperones||
+ZDB-JRNL-050621-432|Cells Tissues Organs|Cells Tissues Organs||
+ZDB-JRNL-050621-435|Chem. Biol. Interact.|Chem. Biol. Interact.||
+ZDB-JRNL-050621-439|Chicago, Loyola Univ. (A motion picture)|Chicago, Loyola Univ. (A motion picture)||
+ZDB-JRNL-050621-442|Chin. J. Oceanol. Limnol.|Chin. J. Oceanol. Limnol.||
+ZDB-JRNL-050621-445|Chromosoma|Chromosoma||
+ZDB-JRNL-050621-448|Circulation|Circulation||
+ZDB-JRNL-050621-451|Cloning Stem Cells|Cloning Stem Cells||
+ZDB-JRNL-050621-454|Comm. Eur. Communities, [Rep.] EUR, EUR 7549, Environ. Qual. Life|Comm. Eur. Communities, [Rep.] EUR, EUR 7549, Environ. Qual. Life||
+ZDB-JRNL-050621-466|Comparative Biochemistry and Physiology Part C: Toxicology and Pharmacology|Comp. Biochem. Physiol. C Toxicol. Pharmacol.||
+ZDB-JRNL-050621-469|Comp. Physiol. Ecol.|Comp. Physiol. Ecol.||
+ZDB-JRNL-050621-472|Computer optical disk; 4 3/4", Sunderland, MA: Sinauer Assoc.|Computer optical disk; 4 3/4", Sunderland, MA: Sinauer Assoc.||
+ZDB-JRNL-050621-475|Contemp. Top. Lab. Anim. Sci.|Contemp. Top. Lab. Anim. Sci.||
+ZDB-JRNL-050621-478|Crit. Rev. Eukaryot. Gene Expr.|Crit. Rev. Eukaryot. Gene Expr.||
+ZDB-JRNL-050621-481|Cryobiology|Cryobiology||
+ZDB-JRNL-050621-484|Curr. Opin. Biotechnol.|Curr. Opin. Biotechnol.||
+ZDB-JRNL-050621-487|Curr. Opin. Drug Discov. Devel.|Curr. Opin. Drug Discov. Devel.||
+ZDB-JRNL-050621-490|Curr. Opin. Immunol.|Curr. Opin. Immunol.||
+ZDB-JRNL-050621-493|Curr. Opin. Pharmacol.|Curr. Opin. Pharmacol.||
+ZDB-JRNL-050621-496|Curr. Sci.|Curr. Sci.||
+ZDB-JRNL-050621-499|Cytogenet. Cell Genet.|Cytogenet. Cell Genet.||
+ZDB-JRNL-050621-501|Cytotechnology|Cytotechnology||
+ZDB-JRNL-050621-504|DNA Cell Biol.|DNA Cell Biol.||
+ZDB-JRNL-050621-507|Deposited Doc., VIKITI|Deposited Doc., VIKITI||
+ZDB-JRNL-050621-511|Developmental & Comparative Immunology|Dev. Comp. Immunol.||
+ZDB-JRNL-050621-514|Dev. Genet.|Dev. Genet.||
+ZDB-JRNL-050621-517|Dev. Neurosci.|Dev. Neurosci.||
+ZDB-JRNL-050621-523|Differentiation.|Differentiation.||
+ZDB-JRNL-050621-526|Diss. Abstr. B|Diss. Abstr. B||
+ZDB-JRNL-050621-529|Doctoral thesis. Department of Zoology, Stockholm University and Department of Vertebrate Zoology, Swedish Museum of Natural History, Stockholm.|Doctoral thesis. Department of Zoology, Stockholm University and Department of Vertebrate Zoology, Swedish Museum of Natural History, Stockholm.||
+ZDB-JRNL-050621-532|Dordrecht, the Netherlands, Kluwer Academic Publishers|Dordrecht, the Netherlands, Kluwer Academic Publishers||
+ZDB-JRNL-050621-535|Drug Metab. Dispos.|Drug Metab. Dispos.||
+ZDB-JRNL-050621-538|EMBO Rep.|EMBO Rep.||
+ZDB-JRNL-050621-540|Ecotoxicology|Ecotoxicology||
+ZDB-JRNL-050621-543|Editions inserm Paris, France|Editions inserm Paris, France||
+ZDB-JRNL-050621-546|Eksp. Vodn. Toksikol.|Eksp. Vodn. Toksikol.||
+ZDB-JRNL-050621-549|Endocr. Rev.|Endocr. Rev.||
+ZDB-JRNL-050621-553|Env. Sci. Tech.|Env. Sci. Tech.||
+ZDB-JRNL-050621-556|Environ. Biol. Fish.|Environ. Biol. Fish.||
+ZDB-JRNL-050621-559|Environ. Pollut.|Environ. Pollut.||
+ZDB-JRNL-050621-562|Environ. Technol. Lett.|Environ. Technol. Lett.||
+ZDB-JRNL-050621-565|Epilepsia|Epilepsia||
+ZDB-JRNL-050621-568|Eur. J. Biochem.|Eur. J. Biochem.||
+ZDB-JRNL-050621-571|Eur. J. Immunol.|Eur. J. Immunol.||
+ZDB-JRNL-050621-574|Evolution and Development|Evol. Dev.||
+ZDB-JRNL-050621-577|Exp. Anim.|Exp. Anim.||
+ZDB-JRNL-050621-580|Exp. Eye Res.|Exp. Eye Res.||
+ZDB-JRNL-050621-583|Exp. Neurol.|Exp. Neurol.||
+ZDB-JRNL-050621-586|FAO (UN) Fish Report|FAO (UN) Fish Report||
+ZDB-JRNL-050621-589|FEBS Lett.|FEBS Lett.||
+ZDB-JRNL-050621-592|Fed. Ansios. Exp. Biol. Proc.|Fed. Ansios. Exp. Biol. Proc.||
+ZDB-JRNL-050621-595|Final Tech. Rept.|Final Tech. Rept.||
+ZDB-JRNL-050621-598|Fish Feeding Ecology & Digestion, GUTSHOP '98 Conference Proceedings|Fish Feeding Ecology & Digestion, GUTSHOP '98 Conference Proceedings||
+ZDB-JRNL-050621-600|Fish Shellfish Immunol.|Fish Shellfish Immunol.||
+ZDB-JRNL-050621-603|Fisheries Science|Fisheries Science||
+ZDB-JRNL-050621-606|Freshwater Mar. Aquar.|Freshwater Mar. Aquar.||
+ZDB-JRNL-050621-609|Gas, Wasser, Abwasser|Gas, Wasser, Abwasser||
+ZDB-JRNL-050621-612|Gen. Res.|Gen. Res.||
+ZDB-JRNL-050621-615|Genes Brain Behav.|Genes Brain Behav.||
+ZDB-JRNL-050621-618|Genes Genet. Sys.|Genes Genet. Sys.||
+ZDB-JRNL-050621-621|Genet. Psychol. Mongr.|Genet. Psychol. Mongr.||
+ZDB-JRNL-050621-624|Genetics|Genetics||
+ZDB-JRNL-050621-627|Genome Biol.|Genome Biol.||
+ZDB-JRNL-050621-630|Genomics Proteomics Bioinformatics|Genomics Proteomics Bioinformatics||
+ZDB-JRNL-050621-633|Glycobiology|Glycobiology||
+ZDB-JRNL-050621-636|H.-B. Microbiol., Aliments, Nutr.|H.-B. Microbiol., Aliments, Nutr.||
+ZDB-JRNL-050621-639|Health Phys.|Health Phys.||
+ZDB-JRNL-050621-642|Hematology|Hematology||
+ZDB-JRNL-050621-645|Histochem. J.|Histochem. J.||
+ZDB-JRNL-050621-648|Hong Kong Baptist Coll. J.|Hong Kong Baptist Coll. J.||
+ZDB-JRNL-050621-651|Humana Press,|Humana Press,||
+ZDB-JRNL-050621-654|II. Early axonal outgrowth and cell body position. J. Comp. Neurol.|II. Early axonal outgrowth and cell body position. J. Comp. Neurol.||
+ZDB-JRNL-050621-657|Ichthyol. Aquar. J.|Ichthyol. Aquar. J.||
+ZDB-JRNL-050621-660|Immunity|Immunity|Elsevier|
+ZDB-JRNL-050621-664|Immunol. Today|Immunol. Today||
+ZDB-JRNL-050621-667|In Biology of B Cells, 3rd edition, Alt, F.W., Honjo, T., and Neuberger, M.S., eds., in press|In Biology of B Cells, 3rd edition, Alt, F.W., Honjo, T., and Neuberger, M.S., eds., in press||
+ZDB-JRNL-050621-670|In Cell-Cell Interactions in Early Development, J. Gerhart, ed., Wiley, N.Y.|In Cell-Cell Interactions in Early Development, J. Gerhart, ed., Wiley, N.Y.||
+ZDB-JRNL-050621-673|In Comparative vertebrate lateralization, Rogers, L.J. and Andrew, R.J., eds., New York: Cambridge University Press|In Comparative vertebrate lateralization, Rogers, L.J. and Andrew, R.J., eds., New York: Cambridge University Press||
+ZDB-JRNL-050621-676|In Devel. Ind. Microbiol., Vol II, William C. Brown, ed., New York|In Devel. Ind. Microbiol., Vol II, William C. Brown, ed., New York||
+ZDB-JRNL-050621-679|In Developmental Biology. N. Holder and V. Walbot, eds.|In Developmental Biology. N. Holder and V. Walbot, eds.||
+ZDB-JRNL-050621-682|In Developments in Environmental Biology of Fishes. I. Ecology and Ethology of Fishes. D.L.G. Noakes and J.A. Ward, eds. The Hague and Boston: Dr. W. Junk Publishers|In Developments in Environmental Biology of Fishes. I. Ecology and Ethology of Fishes. D.L.G. Noakes and J.A. Ward, eds. The Hague and Boston: Dr. W. Junk Publishers||
+ZDB-JRNL-050621-685|In Effects of oxygen-prebleached softwood sulfate pulp chlorine bleaching wastewaters on reproduction in zebra fish. Inst. Vatten- Luftvaardsforsk., [Publ.] B, IVL B-685 42|In Effects of oxygen-prebleached softwood sulfate pulp chlorine bleaching wastewaters on reproduction in zebra fish. Inst. Vatten- Luftvaardsforsk., [Publ.] B, IVL B-685 42||
+ZDB-JRNL-050621-688|In Environmental Biology of Fishes. Dr. W. Junk Publishers: The Hague, Netherlands, Boston, Mass., USA|In Environmental Biology of Fishes. Dr. W. Junk Publishers: The Hague, Netherlands, Boston, Mass., USA||
+ZDB-JRNL-050621-691|In From Message to Mind: New Directions in the Developmental Neurobiology, Sinauer Assoc.|In From Message to Mind: New Directions in the Developmental Neurobiology, Sinauer Assoc.||
+ZDB-JRNL-050621-694|In Gene Transfer in Aquatic Organisms, de la Fuente & Castro, eds., Springer Verlag|In Gene Transfer in Aquatic Organisms, de la Fuente & Castro, eds., Springer Verlag||
+ZDB-JRNL-050621-697|In Germ Cell Protocols, Sperm and Oocyte Analysis. Schatten, H., Ed. Methods Mol. Biol. series. Columbia, MO: University of Missouri|In Germ Cell Protocols, Sperm and Oocyte Analysis. Schatten, H., Ed. Methods Mol. Biol. series. Columbia, MO: University of Missouri||
+ZDB-JRNL-050621-7|Developmental Dynamics|Dev. Dyn.|Wiley-Liss|
+ZDB-JRNL-050621-702|In Methods in Molecular Biology, R.S. Tuan and C.W. Lo, eds., Developmental Biology Protocols, Humana Press, Inc., Totowa|In Methods in Molecular Biology, R.S. Tuan and C.W. Lo, eds., Developmental Biology Protocols, Humana Press, Inc., Totowa||
+ZDB-JRNL-050621-705|In Molecular Basis of Morphogenesis, M. Bernfield, ed., New York: Wiley-Liss.|In Molecular Basis of Morphogenesis, M. Bernfield, ed., New York: Wiley-Liss.||
+ZDB-JRNL-050621-708|In Neurobiology of the Mauthner Cell. Faber-D-S. and Korn-H., eds. New York: Raven Press|In Neurobiology of the Mauthner Cell. Faber-D-S. and Korn-H., eds. New York: Raven Press||
+ZDB-JRNL-050621-711|In Ontogeny of hematopoiesis. Aplastic anemia, E. Gluckman, L. Coulombel, eds., Paris: Colloque INSERM/John Libbey Eurotext|In Ontogeny of hematopoiesis. Aplastic anemia, E. Gluckman, L. Coulombel, eds., Paris: Colloque INSERM/John Libbey Eurotext||
+ZDB-JRNL-050621-714|In Physiological and Biochemical Aspects of Fish Development, Walther-B-T. and Fyhn-H-J., eds., Bergen, Norway: University of Bergen Press|In Physiological and Biochemical Aspects of Fish Development, Walther-B-T. and Fyhn-H-J., eds., Bergen, Norway: University of Bergen Press||
+ZDB-JRNL-050621-717|In Proceedings of the NATO Advanced Research Workshop on The Origin and Fate of Somites, E. J. Sanders, J. W. Lash and C. P. Ordahl, eds., Series I - Life and Behavioural Sciences, Amsterdam: IOS Press|In Proceedings of the NATO Advanced Research Workshop on The Origin and Fate of Somites, E. J. Sanders, J. W. Lash and C. P. Ordahl, eds., Series I - Life and Behavioural Sciences, Amsterdam: IOS Press||
+ZDB-JRNL-050621-72|BMC Neuroscience|BMC Neurosci.|BioMed Central|
+ZDB-JRNL-050621-722|In Systems Approaches to Developmental Neurobiology, P.A. Raymond, S.S. Easter and G.M. Innocenti, eds., NATO ASI Series A,New York: Plenum Press|In Systems Approaches to Developmental Neurobiology, P.A. Raymond, S.S. Easter and G.M. Innocenti, eds., NATO ASI Series A,New York: Plenum Press||
+ZDB-JRNL-050621-725|In The Nerve Growth Cone. P.C. Letourneau, S.B. Kater, and E.R. Macagno, eds., New York, NY, USA: Raven Press|In The Nerve Growth Cone. P.C. Letourneau, S.B. Kater, and E.R. Macagno, eds., New York, NY, USA: Raven Press||
+ZDB-JRNL-050621-728|In The Zebrafish Book; A Guide for the Laboratory Use of Zebrafish (Danio rerio), Westerfield, M., ed., Eugene, OR: University of Oregon Press|In The Zebrafish Book; A Guide for the Laboratory Use of Zebrafish (Danio rerio), Westerfield, M., ed., Eugene, OR: University of Oregon Press||
+ZDB-JRNL-050621-731|In The Zebrafish: Genetics and Genomics, H.W. Detrich, III, M. Westerfield, and L.I. Zon, eds., San Diego, CA: Academic Press, Methods Cell Biol.|In The Zebrafish: Genetics and Genomics, H.W. Detrich, III, M. Westerfield, and L.I. Zon, eds., San Diego, CA: Academic Press, Methods Cell Biol.||
+ZDB-JRNL-050621-734|In VI-E Congress International de Reproduction Animale et Insemination Artificelle. Vol. I, C. Thibault, ed., Jouy-en-Jasa, France: Institut National de la Recherche Agronomique|In VI-E Congress International de Reproduction Animale et Insemination Artificelle. Vol. I, C. Thibault, ed., Jouy-en-Jasa, France: Institut National de la Recherche Agronomique||
+ZDB-JRNL-050621-737|In Vision in Fishes: New Approaches in Research. M.A. Ali, ed., New York and London: Plenum Press|In Vision in Fishes: New Approaches in Research. M.A. Ali, ed., New York and London: Plenum Press||
+ZDB-JRNL-050621-740|Ind. J. Exp. Biol.|Ind. J. Exp. Biol.||
+ZDB-JRNL-050621-743|Inst. Vatten- Luftvaardsforsk., [Publ.] B, IVL B-659, 25|Inst. Vatten- Luftvaardsforsk., [Publ.] B, IVL B-659, 25||
+ZDB-JRNL-050621-746|Int. J. Biochem. Cell Biol.|Int. J. Biochem. Cell Biol.||
+ZDB-JRNL-050621-749|Int. J. Environ. Health Res.|Int. J. Environ. Health Res.||
+ZDB-JRNL-050621-752|Int. J. Neurosci.|Int. J. Neurosci.||
+ZDB-JRNL-050621-755|Int. Rev. Cytol.|Int. Rev. Cytol.||
+ZDB-JRNL-050621-758|Int. Soc. Dev. Neurosci|Int. Soc. Dev. Neurosci||
+ZDB-JRNL-050621-761|Invest. Ophthalmol. Vis. Sci.|Invest. Ophthalmol. Vis. Sci.||
+ZDB-JRNL-050621-764|Izdatel'stvo nauka: Moscow, USSR|Izdatel'stvo nauka: Moscow, USSR||
+ZDB-JRNL-050621-767|Izv. Akad. Nauk. SSSR. Ser. Biol.|Izv. Akad. Nauk. SSSR. Ser. Biol.||
+ZDB-JRNL-050621-770|J. Agricul. Food Chem.|J. Agricul. Food Chem.||
+ZDB-JRNL-050621-773|J. Am. Soc. Nephrol.|J. Am. Soc. Nephrol.||
+ZDB-JRNL-050621-776|J. Aquat. Anim. Health|J. Aquat. Anim. Health||
+ZDB-JRNL-050621-779|J. Assoc. Off. Ana. Chem.|J. Assoc. Off. Ana. Chem.||
+ZDB-JRNL-050621-782|J. Biochem. Mol. Toxicol.|J. Biochem. Mol. Toxicol.||
+ZDB-JRNL-050621-785|J. Biolum. Chemilum.|J. Biolum. Chemilum.||
+ZDB-JRNL-050621-788|J. Bombay Nat. Hist. Soc.|J. Bombay Nat. Hist. Soc.||
+ZDB-JRNL-050621-792|J. Cell. Biochem.|J. Cell. Biochem.||
+ZDB-JRNL-050621-796|J. Clin. Invest.|J. Clin. Invest.||
+ZDB-JRNL-050621-799|J. Comp. Path.|J. Comp. Path.||
+ZDB-JRNL-050621-801|J. Comp. Physiol. A|J. Comp. Physiol. A||
+ZDB-JRNL-050621-804|J. Control Release|J. Control Release||
+ZDB-JRNL-050621-807|J. Elect. Micros.|J. Elect. Micros.||
+ZDB-JRNL-050621-810|J. Eukaryot. Microbiol.|J. Eukaryot. Microbiol.||
+ZDB-JRNL-050621-813|Journal of Experimental Biology|J. Exp. Biol.||
+ZDB-JRNL-050621-816|J. Exp. Zoolog. A Comp. Exp. Biol.|J. Exp. Zoolog. A Comp. Exp. Biol.||
+ZDB-JRNL-050621-820|J. Fish Res. Bd. Can.|J. Fish Res. Bd. Can.||
+ZDB-JRNL-050621-823|J. Gen. Physiol.|J. Gen. Physiol.||
+ZDB-JRNL-050621-826|J. Hered.|J. Hered.||
+ZDB-JRNL-050621-829|J. Immunol.|J. Immunol.||
+ZDB-JRNL-050621-832|J. Int. Comp. Biol.|J. Int. Comp. Biol.||
+ZDB-JRNL-050621-835|J. Micros.|J. Micros.||
+ZDB-JRNL-050621-838|J. Mol. Endocrinol.|J. Mol. Endocrinol.||
+ZDB-JRNL-050621-841|J. Morphol.|J. Morphol.||
+ZDB-JRNL-050621-844|J. Nat. Cancer Inst.|J. Nat. Cancer Inst.||
+ZDB-JRNL-050621-847|J. Neurobiol.|J. Neurobiol.||
+ZDB-JRNL-050621-850|J. Neuroendocrinol.|J. Neuroendocrinol.||
+ZDB-JRNL-050621-853|J. Neurophysiol.|J. Neurophysiol.||
+ZDB-JRNL-050621-856|J. Neurosci. Res.|J. Neurosci. Res.||
+ZDB-JRNL-050621-859|J. Ocul. Pharmacol. Ther.|J. Ocul. Pharmacol. Ther.||
+ZDB-JRNL-050621-861|J. Pharm. Biomed. Anal.|J. Pharm. Biomed. Anal.||
+ZDB-JRNL-050621-865|J. Physiol. (Lond.)|J. Physiol. (Lond.)||
+ZDB-JRNL-050621-868|J. Psychol.|J. Psychol.||
+ZDB-JRNL-050621-871|J. Steroid Biochem.|J. Steroid Biochem.||
+ZDB-JRNL-050621-874|J. Struct. Funct. Genom.|J. Struct. Funct. Genom.||
+ZDB-JRNL-050621-877|J. Theor. Biol.|J. Theor. Biol.||
+ZDB-JRNL-050621-880|J. Trace Elem. Exp. Med.|J. Trace Elem. Exp. Med.||
+ZDB-JRNL-050621-883|J. Vasc. Res.|J. Vasc. Res.||
+ZDB-JRNL-050621-886|J. Virol.|J. Virol.||
+ZDB-JRNL-050621-891|Korean J. Genet.|Korean J. Genet.||
+ZDB-JRNL-050621-895|Lab. Anim.|Lab. Anim.||
+ZDB-JRNL-050621-898|Life Sci. II.|Life Sci. II.||
+ZDB-JRNL-050621-900|London: Vista Books|London: Vista Books||
+ZDB-JRNL-050621-903|M.A. Thesis, Johns Hopkins University|M.A. Thesis, Johns Hopkins University||
+ZDB-JRNL-050621-906|M.A. Thesis, Western Kentucky University|M.A. Thesis, Western Kentucky University||
+ZDB-JRNL-050621-909|M.Phil. Thesis, Hong Kong University of Science and Technology|M.Phil. Thesis, Hong Kong University of Science and Technology||
+ZDB-JRNL-050621-912|M.S. Thesis, Department of Biology, University of Oregon|M.S. Thesis, Department of Biology, University of Oregon||
+ZDB-JRNL-050621-915|M.S. Thesis, Ohio State University|M.S. Thesis, Ohio State University||
+ZDB-JRNL-050621-918|M.S. Thesis, Oregon State University|M.S. Thesis, Oregon State University||
+ZDB-JRNL-050621-921|M.S. Thesis, State University of West Georgia|M.S. Thesis, State University of West Georgia||
+ZDB-JRNL-050621-924|M.S. Thesis, Texas Tech University|M.S. Thesis, Texas Tech University||
+ZDB-JRNL-050621-927|M.S. Thesis, Univ. Connecticut, Storers CT|M.S. Thesis, Univ. Connecticut, Storers CT||
+ZDB-JRNL-050621-930|M.S. Thesis, University of Houston|M.S. Thesis, University of Houston||
+ZDB-JRNL-050621-933|M.S. Thesis, University of Massachusetts at Amherst|M.S. Thesis, University of Massachusetts at Amherst||
+ZDB-JRNL-050621-936|M.S. Thesis, University of Oregon|M.S. Thesis, University of Oregon||
+ZDB-JRNL-050621-939|M.S. Thesis, University of Utah|M.S. Thesis, University of Utah||
+ZDB-JRNL-050621-942|M.S. Thesis, Villanova University|M.S. Thesis, Villanova University||
+ZDB-JRNL-050621-945|M.S. Thesis, Winthrop University|M.S. Thesis, Winthrop University||
+ZDB-JRNL-050621-948|M.Sc. Thesis, Queen's University at Kingston (Canada)|M.Sc. Thesis, Queen's University at Kingston (Canada)||
+ZDB-JRNL-050621-951|M.Sc. Thesis, University of Alberta|M.Sc. Thesis, University of Alberta||
+ZDB-JRNL-050621-954|M.Sc. Thesis, University of Manitoba|M.Sc. Thesis, University of Manitoba||
+ZDB-JRNL-050621-957|M.Sc. Thesis, York University|M.Sc. Thesis, York University||
+ZDB-JRNL-050621-960|Manually curated data|Manually curated data||
+ZDB-JRNL-050621-963|Mar. Pollut. Bull.|Mar. Pollut. Bull.||
+ZDB-JRNL-050621-966|Master's Abstract|Master's Abstract||
+ZDB-JRNL-050621-969|Master's Thesis. University of Oregon|Master's Thesis. University of Oregon||
+ZDB-JRNL-050621-972|Matsya No.|Matsya No.||
+ZDB-JRNL-050621-975|Med. Sci. (Paris)|Med. Sci. (Paris)||
+ZDB-JRNL-050621-978|Meth. Cell Sci.|Meth. Cell Sci.||
+ZDB-JRNL-050621-981|Meth. Mol. Biol.|Meth. Mol. Biol.||
+ZDB-JRNL-050621-984|Methods Cell Biol. Vol.|Methods Cell Biol. Vol.||
+ZDB-JRNL-050621-987|Methods Mol. Biol.|Methods Mol. Biol.||
+ZDB-JRNL-050621-990|Microbes Infect.|Microbes Infect.||
+ZDB-JRNL-050621-993|Mikrokosmos|Mikrokosmos||
+ZDB-JRNL-050621-996|Mol. Biol. Evol.|Mol. Biol. Evol.||
+ZDB-JRNL-050621-999|Mol. Cancer Res.|Mol. Cancer Res.||
+ZDB-JRNL-050623-3|European journal of histochemistry|Eur. J. Histochem.||
+ZDB-JRNL-050712-3|Innovations in Pharmaceutical Technologies|Innovations in Pharmaceutical Technologies||
+ZDB-JRNL-050714-3|Akademitryck AB|Akademitryck AB||
+ZDB-JRNL-050725-1|Development, Growth & Differentiation|Dev. Growth Differ.|Blackwell Synergy|
+ZDB-JRNL-050803-1|Cardiovascular Toxicology|Cardiovasc. Toxicol.|Humana Press|
+ZDB-JRNL-050810-2|BMC Medical Genetics|BMC Med. Genet.|BioMed Central|
+ZDB-JRNL-050818-3|Briefings in Functional Genomics and Proteomics|Brief. Funct. Genomic. Proteomic.|Henry Stewart Publications|
+ZDB-JRNL-050831-1|Yi Chuan|Yi Chuan||
+ZDB-JRNL-050907-2|Annual Review Genomics Human Genetics|Annu. Rev. Genomics Hum. Genet.|Annual Reviews|
+ZDB-JRNL-050907-5|Biological Cybernetics|Biol. Cybern.|Springer|
+ZDB-JRNL-051012-1|Journal of Biochemistry and Molecular Biology|J. Biochem. Mol. Biol.||
+ZDB-JRNL-051019-2|The Zebrafish: Genetics, Genomics and Informatics, 2nd ed., Methods Cell Biol.|The Zebrafish: Genetics, Genomics and Informatics, 2nd ed., Methods Cell Biol.|Elsevier|
+ZDB-JRNL-051031-4|Biochemical Social Transactions|Biochem Soc. Trans.|Portland Press|
+ZDB-JRNL-051031-7|Human Molecular Genetics|Hum. Mol. Gen.|Oxford University Press|
+ZDB-JRNL-051107-1|General and Comparative Endocrinology|Gen. Comp. Endo.|Reed Elsevier Group plc|
+ZDB-JRNL-051107-4|In Silico Biology|In Sil. Biol.|Bioinformation Systems e.V.|
+ZDB-JRNL-051121-2|International Immunology|Int. Immunol.|Oxford Journals|
+ZDB-JRNL-051207-1|Trends in Biotechnology|Trends Biotechnol.|Elsevier|
+ZDB-JRNL-051219-1|Nature Chemical Biology|Nat. Chem. Biol.|Nature|
+ZDB-JRNL-060124-1|Behavior Genetics|Behav. Genet.|Springer|
+ZDB-JRNL-060207-2|Journal of Cancer Research and Clinical Oncology|J. Cancer Res. Clin. Oncol.|Springer|
+ZDB-JRNL-060302-1|Science in China. Series C, Life sciences|Sci. China C Life Sci.||
+ZDB-JRNL-060306-1|Tohoku Journal of Experimental Medicine, The|Tohoku J. Exp. Med.|Tohoku University Medical Press|
+ZDB-JRNL-060308-2|B.S. Thesis, University of Oregon|B.S. Thesis, University of Oregon||
+ZDB-JRNL-060308-5|M.S. Thesis, Case Western Reserve University|M.S. Thesis, Case Western Reserve University||
+ZDB-JRNL-060308-8|M.S. Thesis, Washington State University|M.S. Thesis, Washington State University||
+ZDB-JRNL-060315-2|World Journal of Gastroenterolgy|World J. Gastroenterol.||
+ZDB-JRNL-060412-1|Cell Metabolism|Cell Metab.|Elsevier|
+ZDB-JRNL-060412-4|Genes & Genetic Systems|Genes Genet. Syst.||
+ZDB-JRNL-060501-1|Immunology|Immunology||
+ZDB-JRNL-060517-2|Drug Metabolism Reviews|Drug Metab. Rev.|Taylor & Francis Group|
+ZDB-JRNL-060616-1|The Anatomical Record Part A: Discoveries in Molecular, Cellular, and Evolutionary Biology|Anat. Rec. A Discov. Mol. Cell. Evol. Biol.|Wiley InterScience|
+ZDB-JRNL-060616-4|Journal of Pharmacological and Toxicological Methods|J. Pharmacol. Toxicol. Methods|Elsevier|
+ZDB-JRNL-060623-3|BMC Cell Biology|BMC Cell Biol.|BioMed Central|
+ZDB-JRNL-060705-1|Integrative and Comparative Biology|Integr. Comp. Biol.|Oxford University Press|
+ZDB-JRNL-060731-1|xpert Opinion on Drug Metabolism and Toxicology|Expert. Opin. Drug Metab. Toxicol.||
+ZDB-JRNL-060816-2|Neuro-degenerative Diseases|Neurodegener. Dis.||
+ZDB-JRNL-060831-1|Journal of Fishery Sciences of China|J. Fish. Sci. China||
+ZDB-JRNL-060921-2|Nature Protocols|Nat. Prot.|Nature Publishing Group|
+ZDB-JRNL-060927-2|Pediatric Research|Pediatr. Res.||
+ZDB-JRNL-061031-1|Journal of Biomedicine and Biotechnology|J. Biomed. Biotechnol.||
+ZDB-JRNL-061108-2|Journal of Steroid Biochemistry and Molecular Biology|Steroid Biochem. Mol. Biol.|Elsevier|
+ZDB-JRNL-061205-1|RNA Biology|RNA Biol.||
+ZDB-JRNL-061222-3|Regulatory Toxicology and Pharmacology|Regul. Toxicol. Pharmacol.|Elsevier|
+ZDB-JRNL-061227-1|Clinical Cancer Research|Clin. Cancer Res.|American Association for Cancer Research|
+ZDB-JRNL-061227-4|Neuro endocrinology letters|Neuro. Endocrinol. Lett.||
+ZDB-JRNL-061229-2|Protoplasma|Protoplasma|SpringerLink|
+ZDB-JRNL-070122-1|Pancreas|Pancreas||
+ZDB-JRNL-070122-4|Seminars in Cancer Biology|Semin. Cancer Biol.|Elsevier|
+ZDB-JRNL-070210-1|Research in Microbiology|Res. Microbiol.|Elsevier|
+ZDB-JRNL-070210-4|Laboratory Investigation|Lab. Invest.|Nature Publishing Group|
+ZDB-JRNL-070210-7|Molecular Genetics and Genomics|Mol. Genet. Genomics|SpringerLink|
+ZDB-JRNL-070212-2|Current opinion in gastroenterology|Curr. Opin. Gastroenterol.||
+ZDB-JRNL-070221-1|Dorland's Illustrated Medical Dictionary|Dorland's Illustrated Medical Dictionary|Saunders|
+ZDB-JRNL-070221-4|Principles of Neural Science|Principles of Neural Science|Elsevier|
+ZDB-JRNL-070221-7|The Laboratory Fish (Handbook of Experimental Animals)|The Laboratory Fish|Elsevier|
+ZDB-JRNL-070303-3|Journal of Reproductive Developement|J. Reprod. Dev.|J-Stage|
+ZDB-JRNL-070307-1|Current Protocols in Nucleic Acid Chemistry|Current Protocols in Nucleic Acid Chemistry|Wiley InterScience|
+ZDB-JRNL-070330-3|Molecular and Cellular Probes|Mol. Cell. Probes|Elsevier|
+ZDB-JRNL-070409-1|Journal of genetics|J. Genet.||
+ZDB-JRNL-070504-2|Zhongguo Dang Dai Er Ke Za Zhi.|Zhongguo Dang Dai Er Ke Za Zhi.||
+ZDB-JRNL-070513-4|Human Mutation|Hum. Mutat.|Wiley-Liss|
+ZDB-JRNL-070523-4|Journal of Toxicology and Environmental Healh A|J. Toxicol. Environ. Health A||
+ZDB-JRNL-070523-7|Biotechnic Histochemistry|Biotech. Histochem.||
+ZDB-JRNL-070614-1|Biomedical Microdevices|Biomed. Microdevices.||
+ZDB-JRNL-070711-1|Elsevier Science|Elsevier Science|Elsevier Science|
+ZDB-JRNL-070726-1|Nihon Shinkei Seishin Yakurigaku Zasshi|Nihon Shinkei Seishin Yakurigaku Zasshi||
+ZDB-JRNL-070726-4|Free Radical Biology and Medicine|Free Radic. Biol. Med.|Elsevier|
+ZDB-JRNL-070806-3|Future Microbiology|Future Microbiol.||
+ZDB-JRNL-070813-3|J. Exp. Zool.|Journal of Experimental Zoology Part A|Wiley InterScience|
+ZDB-JRNL-070820-2|Basic & Clinical Pharmacology & Toxicology|Basic Clin. Pharmacol. Toxicol.||
+ZDB-JRNL-070827-3|Lab on a Chip|Lab Chip|RSC Publishing|
+ZDB-JRNL-070907-2|Journal of Child Neurology|J. Child Neurol.|Sage Journals|
+ZDB-JRNL-070912-1|Brain Research Reviews|Brain Res. Rev.||
+ZDB-JRNL-070920-2|Current Medicinal Chemistry|Curr. Med. Chem.|Bentham Science Publishers|
+ZDB-JRNL-071001-2|Experimental Biology and Medicine|Exp. Biol. Med.|Society for Experimental Biology and Medicine|
+ZDB-JRNL-071029-2|Progress in Retinal and Eye Research|Prog. Retin. Eye Res.|Elsevier|
+ZDB-JRNL-071118-2|Journal of the Optical Society of America A: Optics, Image Science, and Vision|J. Opt. Soc. Am. A Opt. Image Sci. Vis.|Optical Society of America|
+ZDB-JRNL-071118-5|International Journal of Andrology|Int. J. Androl.|Blackwell Synergy|
+ZDB-JRNL-071129-1|Archives of Pharmacal Research|Arch. Pharm. Res.||
+ZDB-JRNL-071129-4|Comparative Biochemistry and Physiology Part D: Genomics and Proteomics|Comp. Biochem. Physiol. D Genom. Prot.|Elsevier|
+ZDB-JRNL-071210-2|The Fish Oocyte|Fish Oocyte|SpringerLink|
+ZDB-JRNL-071219-1|Experimental Lung Research|Exp. Lung Res.|Taylor and Francis Ltd.|
+ZDB-JRNL-080218-1|Journal of Biomaterials Applications|Biomater. Appl.|Sage Journals|
+ZDB-JRNL-080226-1|Acta Ophthalmol. Scand.|Acta Ophthalmol. Scand.|Blackwell Synergy|
+ZDB-JRNL-080226-4|J. Huazhong Univ. Sci. Technolog. Med. Sci.|J. Huazhong Univ. Sci. Technolog. Med. Sci.||
+ZDB-JRNL-080309-1|Reproduction|Reproduction||
+ZDB-JRNL-080326-1|Structure|Structure|Elsevier|
+ZDB-JRNL-080327-1|Journal of Lipid Research|J. Lipid Res.|American Society for Biochemistry and Molecular Biology.|
+ZDB-JRNL-080421-1|Chemical Research in Toxicology|Chem. Res. Toxicol.|American Chemical Society|
+ZDB-JRNL-080512-1|Biomedical Materials|Biomed. Mater.|Institute of Physics Pub|
+ZDB-JRNL-080515-2|International Journal of Radiation Biology|Int. J. Radiat. Biol.|Taylor & Francis|
+ZDB-JRNL-080515-5|Brain: a Journal of Neurology|Brain|Oxford University Press|
+ZDB-JRNL-080610-1|BMC Pharmacology|BMC Pharmacol.|BioMed Central|
+ZDB-JRNL-080616-3|Neurotoxicology|Neurotoxicology|Elsevier Science|
+ZDB-JRNL-080630-1|International journal of toxicology|Int. J. Toxicol.|Taylor & Francis|
+ZDB-JRNL-080630-4|BMC immunology|BMC Immunol.|BioMed Central|
+ZDB-JRNL-080722-1|IEEE transactions on bio-medical engineering|IEEE Trans. Biomed. Eng.|Institute Of Electrical And Electronics Engineers|
+ZDB-JRNL-080723-1|M.Sc. Thesis, Biological Sciences, University of Auckland|M.Sc. Thesis, Biological Sciences, University of Auckland||
+ZDB-JRNL-080723-12|M.S. Thesis, S.U.N.Y. College at Brockport.|M.S. Thesis, S.U.N.Y. College at Brockport.||
+ZDB-JRNL-080723-15|Ph.D. Thesis, University of Chicago, Committee on Developmental Biology|Ph.D. Thesis, University of Chicago, Committee on Developmental Biology||
+ZDB-JRNL-080723-18|M. Phil. Thesis, City University of Hong Kong.|M. Phil. Thesis, City University of Hong Kong.||
+ZDB-JRNL-080723-4|Proefschrift Erasmus Universiteit Rotterdam.|Proefschrift Erasmus Universiteit Rotterdam.||
+ZDB-JRNL-080723-8|Dissertation, München, Techn. University|Dissertation, München, Techn. University||
+ZDB-JRNL-080728-2|Traffic (Copenhagen, Denmark)|Traffic|Munksgaard|
+ZDB-JRNL-080825-2|Acta crystallographica. Section F, Structural biology and crystallization communications|Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun.|International Union of Crystallography|
+ZDB-JRNL-080826-2|Acta physiologica (Oxford, England)|Acta Physiol. (Oxf).|Blackwell|
+ZDB-JRNL-080826-5|Journal of hepatology|J. Hepatol.|Elsevier|
+ZDB-JRNL-080902-2|Genome dynamics|Genome Dyn.|S. Karger|
+ZDB-JRNL-080912-1|M.S. Thesis, Southern Illinois University Edwardsville|M.S. Thesis, Southern Illinois University Edwardsville||
+ZDB-JRNL-080912-4|Dissertation, Freiburg University, Breisgau|Dissertation, Freiburg University, Breisgau||
+ZDB-JRNL-080915-1|Journal of biological inorganic chemistry|J. Biol. Inorg. Chem.|Springer|
+ZDB-JRNL-080915-4|Clinical genetics|Clin. Genet.|Munksgaard|
+ZDB-JRNL-080918-11|M.S. Thesis, University of Wisconsin-Milwaukee|M.S. Thesis, University of Wisconsin-Milwaukee||
+ZDB-JRNL-080918-14|Dissertation, Munchen, Techn. Univ.|Dissertation, Munchen, Techn. Univ.||
+ZDB-JRNL-080918-17|M.S. Thesis, University of Notre Dame|M.S. Thesis, University of Notre Dame||
+ZDB-JRNL-080918-2|Dissertation, (Sammanfattning) Umea University|Dissertation, (Sammanfattning) Umea University||
+ZDB-JRNL-080918-22|M.S. Thesis, Saint Louis University|M.S. Thesis, Saint Louis University||
+ZDB-JRNL-080918-3|Doctoral Thesis, Swiss Federal Institute of Technology Zurich|Doctoral Thesis, Swiss Federal Institute of Technology Zurich||
+ZDB-JRNL-080918-6|Dissertation, Proefschrift Universiteit Leiden|Dissertation, Proefschrift Universiteit Leiden||
+ZDB-JRNL-080918-9|Ph.D. Thesis, Medical College of Wisconsin|Ph.D. Thesis, Medical College of Wisconsin||
+ZDB-JRNL-081001-1|Restorative neurology and neuroscience|Restor. Neurol. Neurosci.|IOS Press|
+ZDB-JRNL-081008-3|Journal of visualized experiments : JoVE|J. Vis. Exp.|MYJoVE Corporation|
+ZDB-JRNL-081022-2|Purinergic signalling|Purinergic Signal.|Springer|
+ZDB-JRNL-081028-1|The journal of physical chemistry. B|J. Phys. Chem. B|American Chemical Society|
+ZDB-JRNL-081110-1|Molecular brain|Mol. Brain|BioMed Central|
+ZDB-JRNL-081121-1|BMC Genetics|BMC Genet.|BioMed Central|
+ZDB-JRNL-081203-1|Zhongguo yi xue ke xue yuan xue bao|Zhongguo Yi Xue Ke Xue Yuan Xue Bao|Zhongguo yi xue ke xue yuan|
+ZDB-JRNL-081203-4|The Review of scientific instruments|Rev. Sci. Instrum.|American Institute Of Physics|
+ZDB-JRNL-081217-2|American journal of physiology. Gastrointestinal and liver physiology|Am. J. Physiol. Gastrointest. Liver Physiol.|American Physiological Society|
+ZDB-JRNL-090106-1|Phytotherapy research : PTR|Phytother. Res.|Wiley|
+ZDB-JRNL-090112-1|Journal of medicinal chemistry|J. Med. Chem.|American Chemical Society|
+ZDB-JRNL-090123-2|Recent patents on cardiovascular drug discovery|Recent Pat. Cardiovasc. Drug Discov.|Bentham Science Publishers LTD.|
+ZDB-JRNL-090204-2|Organic letters|Org. Lett.|American Chemical Society|
+ZDB-JRNL-090210-2|Comptes rendus biologies|C. R. Biol.|Elsevier|
+ZDB-JRNL-090217-1|Journal of neurosurgery|J. Neurosurg.|American Association of Neurological Surgeons|
+ZDB-JRNL-090225-2|Cortex|Cortex|Elsevier|
+ZDB-JRNL-090302-1|Molecular neurodegeneration|Mol. Neurodegener.|BioMed Central|
+ZDB-JRNL-090310-1|Gene therapy|Gene Ther.|Nature Publishing Group|
+ZDB-JRNL-090318-2|Annals of biomedical engineering|Ann. Biomed. Eng.|Springer Science + Business Media|
+ZDB-JRNL-090330-1|Biology letters|Biol. Lett.|The Royal Society|
+ZDB-JRNL-090422-1|Zebrafish: A Practical Approach|Zebrafish: A Practical Approach|Oxford University Press|
+ZDB-JRNL-090505-1|BMC cancer|BMC Cancer|BioMed Central|
+ZDB-JRNL-090518-1|Journal of biophotonics|J. Biophotonics|Wiley-VCH|
+ZDB-JRNL-090520-1|Thesis (Ph.D.) - University of Queensland|Thesis (Ph.D.) - University of Queensland||
+ZDB-JRNL-090520-12|Thesis, Konstanz University|Thesis, Konstanz University||
+ZDB-JRNL-090520-15|Thesis (M.Sc.)|Thesis (M.Sc.)||
+ZDB-JRNL-090520-18|Thesis (Ph.D.)--Stanford University|Thesis (Ph.D.)--Stanford University||
+ZDB-JRNL-090520-4|Thesis (Ph.D.) -- University of Adelaide, School of Molecular and Biomedical Science, Discipline of Genetics|Thesis (Ph.D.) -- University of Adelaide, School of Molecular and Biomedical Science, Discipline of Genetics||
+ZDB-JRNL-090520-7|Thesis (M.A.) -- National Taiwan University Dept. of Molecular and Cellular Biology|Thesis (M.A.) -- National Taiwan University Dept. of Molecular and Cellular Biology||
+ZDB-JRNL-090521-1|University Dissertation, Giessen|University Dissertation, Giessen||
+ZDB-JRNL-090521-12|Thesis--Departmental honors in Biochemistry|Thesis--Departmental honors in Biochemistry||
+ZDB-JRNL-090521-15|Ph.D. Thesis, Texas A&M University|Ph.D. Thesis, Texas A&M University||
+ZDB-JRNL-090521-18|Ph.D. Thesis, Tel Aviv University|Ph.D. Thesis, Tel Aviv University||
+ZDB-JRNL-090521-20|M.S. Thesis, University of Louisiana at Lafayette|M.S. Thesis, University of Louisiana at Lafayette||
+ZDB-JRNL-090521-23|Thesis (Ph.D.)--National Taiwan University Graduate Institute of Molecular and Cellular Biology|Thesis (Ph.D.)--National Taiwan University Graduate Institute of Molecular and Cellular Biology||
+ZDB-JRNL-090521-26|University Dissertation, Göteborg|University Dissertation, Göteborg||
+ZDB-JRNL-090521-29|Ph.D. Thesis, Oregon Health & Science University|Ph.D. Thesis, Oregon Health & Science University||
+ZDB-JRNL-090521-31|Ph.D. Thesis, Guy's, King's and St. Thomas's School of Biomedical and Health Sciences|Ph.D. Thesis, Guy's, King's and St. Thomas's School of Biomedical and Health Sciences||
+ZDB-JRNL-090521-34|Ph.D. Thesis, in Biochemistry and Molecular Biology, University of Maine|Ph.D. Thesis, in Biochemistry and Molecular Biology, University of Maine||
+ZDB-JRNL-090521-37|Ph.D. Thesis, International University Bremen|Ph.D. Thesis, International University Bremen||
+ZDB-JRNL-090521-4|Ph.D. Thesis, University of Western Ontario|Ph.D. Thesis, University of Western Ontario||
+ZDB-JRNL-090521-42|Ph.D. Thesis, University of Sydney|Ph.D. Thesis, University of Sydney||
+ZDB-JRNL-090521-45|B.S. Honors Thesis, Belmont University|B.S. Honors Thesis, Belmont University||
+ZDB-JRNL-090521-48|Ph.D. Thesis, University of Auckland|Ph.D. Thesis, University of Auckland||
+ZDB-JRNL-090521-50|University Dissertation, Hamburg|University Dissertation, Hamburg||
+ZDB-JRNL-090521-53|Ph.D. Thesis, Lehigh University|Ph.D. Thesis, Lehigh University||
+ZDB-JRNL-090521-6|B.S. Thesis, University of Maine|B.S. Thesis, University of Maine||
+ZDB-JRNL-090521-9|Thesis (M.A.)--National Taiwan University Graduate Institute of Zoology|Thesis (M.A.)--National Taiwan University Graduate Institute of Zoology||
+ZDB-JRNL-090526-3|Thesis, Departmental honors in Biology, Wheaton College|Thesis, Departmental honors in Biology, Wheaton College||
+ZDB-JRNL-090526-6|University Dissertation, Bochum|University Dissertation, Bochum||
+ZDB-JRNL-090527-2|Ph.D. Thesis, City University of Hong Kong|Ph.D. Thesis, City University of Hong Kong||
+ZDB-JRNL-090529-1|M.S. Thesis, University of Idaho|M.S. Thesis, University of Idaho||
+ZDB-JRNL-090529-12|Ph.D. Thesis, University of South Dakota|Ph.D. Thesis, University of South Dakota||
+ZDB-JRNL-090529-15|Ph.D. Thesis, University of Albany|Ph.D. Thesis, University of Albany||
+ZDB-JRNL-090529-18|M.S. Thesis, Old Dominion University|M.S. Thesis, Old Dominion University||
+ZDB-JRNL-090529-3|B.Sc. Honors Dissertation, University of Auckland|B.Sc. Honors Dissertation, University of Auckland||
+ZDB-JRNL-090529-6|Ph.D. Thesis, Curtin University of Technology|Ph.D. Thesis, Curtin University of Technology||
+ZDB-JRNL-090529-9|M.Phil. Thesis, University of Hong Kong|M.Phil. Thesis, University of Hong Kong||
+ZDB-JRNL-090602-2|Dissertation, Braunschweig, Techn. Univ.|Dissertation, Braunschweig, Techn. Univ.||
+ZDB-JRNL-090602-5|Ph.D. Thesis, University of Nottingham|Ph.D. Thesis, University of Nottingham||
+ZDB-JRNL-090603-1|Mar. Genomics|Mar. Genomics|Elsevier|
+ZDB-JRNL-090603-12|Ph.D. Thesis, National Taiwan University Graduate Institute of Veterinary Medicine|Ph.D. Thesis, National Taiwan University Graduate Institute of Veterinary Medicine||
+ZDB-JRNL-090603-15|University Dissertation, Leiden|University Dissertation, Leiden||
+ZDB-JRNL-090603-18|M.S. Thesis, University of South Dakota|M.S. Thesis, University of South Dakota||
+ZDB-JRNL-090603-20|Senior Thesis, Boston University|Senior Thesis, Boston University||
+ZDB-JRNL-090603-23|Dissertation, Zugl.: Halle, Wittenberg, Univ.|Dissertation, Zugl.: Halle, Wittenberg, Univ.||
+ZDB-JRNL-090603-26|M.A. Thesis, Sonoma State University|M.A. Thesis, Sonoma State University||
+ZDB-JRNL-090603-29|B.S. Thesis, University of Houston|B.S. Thesis, University of Houston||
+ZDB-JRNL-090603-31|Ph.D. Thesis, University of Medicine and Dentistry of New Jersey|Ph.D. Thesis, University of Medicine and Dentistry of New Jersey||
+ZDB-JRNL-090603-6|Ph.D. Thesis, University of Bath|Ph.D. Thesis, University of Bath||
+ZDB-JRNL-090603-9|M.A. Thesis, Fu Jen Catholic University|M.A. Thesis, Fu Jen Catholic University||
+ZDB-JRNL-090605-3|Honors Thesis, University of Oregon|Honors Thesis, University of Oregon||
+ZDB-JRNL-090616-1|Texas and Southern Plains Zebrafish Meeting|Texas and Southern Plains Zebrafish Meeting||
+ZDB-JRNL-090616-4|Neuron glia biology|Neuron Glia Biol.|Cambridge University Press|
+ZDB-JRNL-090617-1|Physiology (Bethesda, Md.)|Physiology (Bethesda)|International Union of Physiological Sciences|
+ZDB-JRNL-090629-1|PLoS neglected tropical diseases|PLoS Negl. Trop. Dis.|Public Library of Science|
+ZDB-JRNL-090716-1|Inorganic chemistry|Inorg. Chem.|American Chemical Society|
+ZDB-JRNL-090727-2|Skin research and technology|Skin Res. Technol.|Munksgaard|
+ZDB-JRNL-090807-1|Gerontology|Gerontology|Karger|
+ZDB-JRNL-090828-1|The British journal of nutrition|Br. J. Nutr.|Published on behalf of the Nutrition Society by CABI Publishing|
+ZDB-JRNL-090914-3|Molecular cancer therapeutics|Mol. Cancer Ther.|American Association for Cancer Research, Inc.|
+ZDB-JRNL-090921-2|Journal of mathematical biology|J. Math. Biol.|Springer Verlag|
+ZDB-JRNL-090929-3|Computer methods and programs in biomedicine|Comput. Methods Programs Biomed.|Elsevier Scientific Publishers|
+ZDB-JRNL-091005-2|Reproduction in domestic animals|Reprod. Domest. Anim.|Paul Parey Scientific Publishers|
+ZDB-JRNL-091023-3|The Japanese journal of veterinary research|Jpn. J. Vet. Res.|Hokkaido University. Faculty Of Veterinary Medicine|
+ZDB-JRNL-091023-6|Trends in biochemical sciences|Trends Biochem. Sci.|Elsevier Trends Journals|
+ZDB-JRNL-091120-1|Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan|Yakugaku Zasshi|Pharmaceutical Society of Japan|
+ZDB-JRNL-091120-4|The Journal of pathology|J. Pathol.|John Wiley And Sons|
+ZDB-JRNL-091204-1|Oral oncology|Oral Oncol.|Pergamon|
+ZDB-JRNL-050621-10|Gene Expression Patterns|Gene Expr. Patterns|Elsevier|
+ZDB-JRNL-050621-1002|Molecular and Cellular Neuroscience|Mol. Cell Neurosci.|Elsevier|
+ZDB-JRNL-050621-1005|Mol. Cell. Biol.|Mol. Cell. Biol.||
+ZDB-JRNL-050621-1008|Mol. Cells|Mol. Cells||
+ZDB-JRNL-050621-1012|Mol. Immunol.|Mol. Immunol.||
+ZDB-JRNL-050621-1015|Mol. Pharmacol.|Mol. Pharmacol.||
+ZDB-JRNL-050621-1018|Mol. Plant Microbe Interact.|Mol. Plant Microbe Interact.||
+ZDB-JRNL-050621-1021|Movie (Development)|Movie (Development)||
+ZDB-JRNL-050621-1024|Médecine Sciences|Médecine Sciences||
+ZDB-JRNL-050621-1027|N. Dartmouth, MA: Northeastern Regional Aquaculture Center|N. Dartmouth, MA: Northeastern Regional Aquaculture Center||
+ZDB-JRNL-050621-1030|Nat. Biotechnol.|Nat. Biotechnol.||
+ZDB-JRNL-050621-1033|Nat. Immunol.|Nat. Immunol.||
+ZDB-JRNL-050621-1036|Nat. Rev. Cancer|Nat. Rev. Cancer||
+ZDB-JRNL-050621-1039|Nat. Rev. Immunol.|Nat. Rev. Immunol.||
+ZDB-JRNL-050621-1042|Nat. Struct. Mol. Biol.|Nat. Struct. Mol. Biol.||
+ZDB-JRNL-050621-1045|Nature Genetics|Nature Genet.||
+ZDB-JRNL-050621-1049|Neth. J. Zool.|Neth. J. Zool.||
+ZDB-JRNL-050621-1052|Neurochem. Res.|Neurochem. Res.||
+ZDB-JRNL-050621-1055|Neuropharmacology|Neuropharmacology||
+ZDB-JRNL-050621-1058|Neurosci. Lett.|Neurosci. Lett.||
+ZDB-JRNL-050621-1061|Neuroscience|Neuroscience||
+ZDB-JRNL-050621-1064|New Biol.|New Biol.||
+ZDB-JRNL-050621-1067|New York: Oxford University Press|New York: Oxford University Press||
+ZDB-JRNL-050621-1070|Nippon Suisan Gakkaishi|Nippon Suisan Gakkaishi||
+ZDB-JRNL-050621-1073|Novartis Found Symp.|Novartis Found Symp.||
+ZDB-JRNL-050621-1077|Oceanol. Limnol. Sin./Haiyang Yu Huzhao|Oceanol. Limnol. Sin./Haiyang Yu Huzhao||
+ZDB-JRNL-050621-1080|Ontogenez|Ontogenez||
+ZDB-JRNL-050621-1083|Ophthalmol. Vis. Sci.|Ophthalmol. Vis. Sci.||
+ZDB-JRNL-050621-1086|Papers presented at a meeting of the British Society for Development Biology at the University of Sussex, 1992, Cambridge: Company of BiologistsApril|Papers presented at a meeting of the British Society for Development Biology at the University of Sussex, 1992, Cambridge: Company of BiologistsApril||
+ZDB-JRNL-050621-1089|Pediatr. Nephrol.|Pediatr. Nephrol.||
+ZDB-JRNL-050621-1092|Persp. Biol. Med.|Persp. Biol. Med.||
+ZDB-JRNL-050621-1095|Pestology|Pestology||
+ZDB-JRNL-050621-1098|Pflügers Archiv. / Eur. J. Physiol.|Pflügers Archiv. / Eur. J. Physiol.||
+ZDB-JRNL-050621-1100|Ph.D. Dissertation, Columbia University|Ph.D. Dissertation, Columbia University||
+ZDB-JRNL-050621-1103|Ph.D. Dissertation, University of Oregon, Eugene|Ph.D. Dissertation, University of Oregon, Eugene||
+ZDB-JRNL-050621-1106|Ph.D. Thesis, Boston University|Ph.D. Thesis, Boston University||
+ZDB-JRNL-050621-1109|Ph.D. Thesis, Chinese University of Hong Kon|Ph.D. Thesis, Chinese University of Hong Kon||
+ZDB-JRNL-050621-1112|Ph.D. Thesis, Cornell University|Ph.D. Thesis, Cornell University||
+ZDB-JRNL-050621-1115|Ph.D. Thesis, Department of Human Genetics, University of Utah|Ph.D. Thesis, Department of Human Genetics, University of Utah||
+ZDB-JRNL-050621-1118|Ph.D. Thesis, Duke University|Ph.D. Thesis, Duke University||
+ZDB-JRNL-050621-1121|Ph.D. Thesis, Eberhard-Karls-Universität Tübingen|Ph.D. Thesis, Eberhard-Karls-Universität Tübingen||
+ZDB-JRNL-050621-1124|Ph.D. Thesis, Hong Kong University of Science & Technology (People's Republic of China)|Ph.D. Thesis, Hong Kong University of Science & Technology (People's Republic of China)||
+ZDB-JRNL-050621-1127|Ph.D. Thesis, Johns Hopkins University|Ph.D. Thesis, Johns Hopkins University||
+ZDB-JRNL-050621-1130|Ph.D. Thesis, Massachusetts Institute of Technology, Department of Biology|Ph.D. Thesis, Massachusetts Institute of Technology, Department of Biology||
+ZDB-JRNL-050621-1133|Ph.D. Thesis, Mississippi State University|Ph.D. Thesis, Mississippi State University||
+ZDB-JRNL-050621-1137|Ph.D. Thesis, Ohio University|Ph.D. Thesis, Ohio University||
+ZDB-JRNL-050621-1140|Ph.D. Thesis, Pennsylvania State University|Ph.D. Thesis, Pennsylvania State University||
+ZDB-JRNL-050621-1143|Ph.D. Thesis, Queen's University at Kingston (Canada)|Ph.D. Thesis, Queen's University at Kingston (Canada)||
+ZDB-JRNL-050621-1146|Ph.D. Thesis, Rutgers The State University of New Jersey - New Brunswick & UMDNJ|Ph.D. Thesis, Rutgers The State University of New Jersey - New Brunswick & UMDNJ||
+ZDB-JRNL-050621-1149|Ph.D. Thesis, Temple University|Ph.D. Thesis, Temple University||
+ZDB-JRNL-050621-1153|Ph.D. Thesis, The University of Saskatchewan (Canada)|Ph.D. Thesis, The University of Saskatchewan (Canada)||
+ZDB-JRNL-050621-1156|Ph.D. Thesis, UCLA,1993|Ph.D. Thesis, UCLA,1993||
+ZDB-JRNL-050621-1159|Ph.D. Thesis, University of Bergen, Norway|Ph.D. Thesis, University of Bergen, Norway||
+ZDB-JRNL-050621-1162|Ph.D. Thesis, University of California, Riverside|Ph.D. Thesis, University of California, Riverside||
+ZDB-JRNL-050621-1165|Ph.D. Thesis, University of Colorado at Boulder|Ph.D. Thesis, University of Colorado at Boulder||
+ZDB-JRNL-050621-1168|Ph.D. Thesis, University of Kansas|Ph.D. Thesis, University of Kansas||
+ZDB-JRNL-050621-1171|Ph.D. Thesis, University of Massachusetts Graduate School of Biomedical Sciences|Ph.D. Thesis, University of Massachusetts Graduate School of Biomedical Sciences||
+ZDB-JRNL-050621-1174|Ph.D. Thesis, University of Minnesota|Ph.D. Thesis, University of Minnesota||
+ZDB-JRNL-050621-1177|Ph.D. Thesis, University of North Texas|Ph.D. Thesis, University of North Texas||
+ZDB-JRNL-050621-1180|Ph.D. Thesis, University of Ottawa (Canada)|Ph.D. Thesis, University of Ottawa (Canada)||
+ZDB-JRNL-050621-1183|Ph.D. Thesis, University of Southampton (United Kingdom)|Ph.D. Thesis, University of Southampton (United Kingdom)||
+ZDB-JRNL-050621-1186|Ph.D. Thesis, University of Utah|Ph.D. Thesis, University of Utah||
+ZDB-JRNL-050621-1189|Ph.D. Thesis, University of Washington|Ph.D. Thesis, University of Washington||
+ZDB-JRNL-050621-1192|Ph.D. Thesis, Uppsala Unniversitet (Sweden)|Ph.D. Thesis, Uppsala Unniversitet (Sweden)||
+ZDB-JRNL-050621-1196|Ph.D. Thesis, Washington University.|Ph.D. Thesis, Washington University.||
+ZDB-JRNL-050621-12|Nature|Nature|Nature Publishing Group|
+ZDB-JRNL-050621-1203|Phil. Trans. Roy. Soc. Lond., Series B|Phil. Trans. Roy. Soc. Lond., Series B||
+ZDB-JRNL-050621-1206|Philadelphia: Wistar Institute of Anat. and Biol. (A motion picture)|Philadelphia: Wistar Institute of Anat. and Biol. (A motion picture)||
+ZDB-JRNL-050621-1209|Physiol. Behav.|Physiol. Behav.||
+ZDB-JRNL-050621-1215|Physiol. Zool.|Physiol. Zool.||
+ZDB-JRNL-050621-1218|Pigment Cell Res.|Pigment Cell Res.||
+ZDB-JRNL-050621-1221|Proc Natl Acad Sci U S A. 2002|Proc Natl Acad Sci U S A. 2002||
+ZDB-JRNL-050621-1224|Proc. Indian Natl. Sci. Acad. (B)|Proc. Indian Natl. Sci. Acad. (B)||
+ZDB-JRNL-050621-1227|Proc. K. Ned. Akad. Wet. Ser. C. Biol. Med. Sci.|Proc. K. Ned. Akad. Wet. Ser. C. Biol. Med. Sci.||
+ZDB-JRNL-050621-1230|Proc. Natl. Acad. Sci. India Sect. B (Biol. Sci)|Proc. Natl. Acad. Sci. India Sect. B (Biol. Sci)||
+ZDB-JRNL-050621-1233|Proc. Ned. Acad. Wet. Ser. C. Biol. Med. Sci.|Proc. Ned. Acad. Wet. Ser. C. Biol. Med. Sci.||
+ZDB-JRNL-050621-1236|Proc. R. Soc. Lond. B Biol. Sci.|Proc. R. Soc. Lond. B Biol. Sci.||
+ZDB-JRNL-050621-1239|Proc. Zool. Soc. Calcutta|Proc. Zool. Soc. Calcutta||
+ZDB-JRNL-050621-1242|Prog. Brain Res.|Prog. Brain Res.||
+ZDB-JRNL-050621-1245|Prog. Neurobiol.|Prog. Neurobiol.||
+ZDB-JRNL-050621-1248|Protein Eng.|Protein Eng.||
+ZDB-JRNL-050621-1251|Przegl Lek.|Przegl Lek.||
+ZDB-JRNL-050621-1254|R.C. Accad. Naz. Lincei|R.C. Accad. Naz. Lincei||
+ZDB-JRNL-050621-1257|Rapport Naturvardskeverket No.1733, 1-76. (Full English translation published separately No. 1733E, 1985)|Rapport Naturvardskeverket No.1733, 1-76. (Full English translation published separately No. 1733E, 1985)||
+ZDB-JRNL-050621-1260|Rec. Zool. Surv. India|Rec. Zool. Surv. India||
+ZDB-JRNL-050621-1263|Reg. Pep.|Reg. Pep.||
+ZDB-JRNL-050621-1266|Reprod. Physiol. Fish|Reprod. Physiol. Fish||
+ZDB-JRNL-050621-1269|Rev. Bull. Gen. Univ., Fereissac.|Rev. Bull. Gen. Univ., Fereissac.||
+ZDB-JRNL-050621-1272|Roux's Arch. Dev. Biol.|Roux's Arch. Dev. Biol.||
+ZDB-JRNL-050621-1275|S.B. Thesis, Massachusetts Institute of Technology|S.B. Thesis, Massachusetts Institute of Technology||
+ZDB-JRNL-050621-1278|San Diego: Academic Press, Methods Cell Biol.|San Diego: Academic Press, Methods Cell Biol.||
+ZDB-JRNL-050621-1281|Schriftenr-Ver-Wasser-Boden-Lufthyg.|Schriftenr-Ver-Wasser-Boden-Lufthyg.||
+ZDB-JRNL-050621-1284|Sci. News|Sci. News||
+ZDB-JRNL-050621-1287|Sci. Total Environ.|Sci. Total Environ.||
+ZDB-JRNL-050621-1290|Scientist|Scientist||
+ZDB-JRNL-050621-1293|Sem. Dev. Biol.|Sem. Dev. Biol.||
+ZDB-JRNL-050621-1296|Shi Yan Sheng Wu Xue Bao|Shi Yan Sheng Wu Xue Bao||
+ZDB-JRNL-050621-1299|Singapore; New Jersey: World Scientific Pub. Co|Singapore; New Jersey: World Scientific Pub. Co||
+ZDB-JRNL-050621-1301|Soc. Cell Biol|Soc. Cell Biol||
+ZDB-JRNL-050621-1304|Springer|Springer||
+ZDB-JRNL-050621-1307|Syst. Biol.|Syst. Biol.||
+ZDB-JRNL-050621-1311|Tanpakushitsu Kakusan Koso.|Tanpakushitsu Kakusan Koso.||
+ZDB-JRNL-050621-1314|Tech. Sci. Mun.|Tech. Sci. Mun.||
+ZDB-JRNL-050621-1317|Teratology|Teratology||
+ZDB-JRNL-050621-1320|Theriogenology|Theriogenology||
+ZDB-JRNL-050621-1323|Time-lapse recordings and confocal images dealing with the developmental biology of fish|Time-lapse recordings and confocal images dealing with the developmental biology of fish||
+ZDB-JRNL-050621-1326|Toxicol. Appl. Pharmacol.|Toxicol. Appl. Pharmacol.||
+ZDB-JRNL-050621-1329|Toxicol. Pathol.|Toxicol. Pathol.||
+ZDB-JRNL-050621-1332|Toxicon.|Toxicon.||
+ZDB-JRNL-050621-1335|Trans. Biochem. Soc.|Trans. Biochem. Soc.||
+ZDB-JRNL-050621-1338|Translated in Soviet J. Dev. Biol.|Translated in Soviet J. Dev. Biol.||
+ZDB-JRNL-050621-1341|Trends Cell Biol.|Trends Cell Biol.||
+ZDB-JRNL-050621-1344|Trends Microbiol.|Trends Microbiol.||
+ZDB-JRNL-050621-1347|Trib. CEBEDEAU|Trib. CEBEDEAU||
+ZDB-JRNL-050621-1351|Tsitologiya (Leningrad)|Tsitologiya (Leningrad)||
+ZDB-JRNL-050621-1354|U.S. US 4338468 A, 6 July 1982, 4 pp. Cont.-in-part of U.S. Ser. No. 49,390, abandoned. Appl. 216223, 9 Dec 1980, CH Appl. 78/6994, 27 Jun 1978, CH Appl. 79/3681, 19 Apr 1979, US Appl. 49390, 18 Jun 1979|U.S. US 4338468 A, 6 July 1982, 4 pp. Cont.-in-part of U.S. Ser. No. 49,390, abandoned. Appl. 216223, 9 Dec 1980, CH Appl. 78/6994, 27 Jun 1978, CH Appl. 79/3681, 19 Apr 1979, US Appl. 49390, 18 Jun 1979||
+ZDB-JRNL-050621-1357|Undergraduate Honors Thesis, University of Oregon|Undergraduate Honors Thesis, University of Oregon||
+ZDB-JRNL-050621-1363|Verhand. Anat. Gesellsch.|Verhand. Anat. Gesellsch.||
+ZDB-JRNL-050621-1366|Videocassette. UO Today, show #57, University of Oregon|Videocassette. UO Today, show #57, University of Oregon||
+ZDB-JRNL-050621-1369|Vision Research|Vision Res.|Elsevier|
+ZDB-JRNL-050621-1372|Vom Wasser|Vom Wasser||
+ZDB-JRNL-050621-1375|W. Roux's Arch. Dev. Biol.|W. Roux's Arch. Dev. Biol.||
+ZDB-JRNL-050621-1360|Use of Small Fish Species in Carcinogenicity Testing Symposium, Dec.8-10, 1981, K.L. Hoover, ed., National Cancer Institute Monograph, No 65., U.S. Department of Health and Human Services, Public Health Service, National Institutes of Health, National Can|Use of Small Fish Species in Carcinogenicity Testing Symposium, Dec.8-10, 1981, K.L. Hoover, ed., National Cancer Institute Monograph, No 65., U.S. Department of Health and Human Services, Public Health Service, National Institutes of Health, National Can||
+ZDB-JRNL-050621-1378|Winnipeg, Manitoba: Research and Development Directorate, Freshwater Institute|Winnipeg, Manitoba: Research and Development Directorate, Freshwater Institute||
+ZDB-JRNL-050621-1381|Yi Chuan Xue Bao|Yi Chuan Xue Bao||
+ZDB-JRNL-050621-1384|Z. Anat. Entwickl. Gesch.|Z. Anat. Entwickl. Gesch.||
+ZDB-JRNL-050621-1387|Z. Wasser Abwasser Forsch.|Z. Wasser Abwasser Forsch.||
+ZDB-JRNL-050621-1390|ZFIN Direct Data Submission|ZFIN Direct Data Submission||
+ZDB-JRNL-050621-1393|Zeitschrift Angew. Ichthyol. (J. Appl. Ichtyol.)|Zeitschrift Angew. Ichthyol. (J. Appl. Ichtyol.)||
+ZDB-JRNL-050621-1396|Zh. Evol. Biokhim. Fisziol.|Zh. Evol. Biokhim. Fisziol.||
+ZDB-JRNL-050621-1399|Zool. Anal. Complex Syst.|Zool. Anal. Complex Syst.||
+ZDB-JRNL-050621-1402|Zool. Jb. Abt. Allg. Zool. Physiol.|Zool. Jb. Abt. Allg. Zool. Physiol.||
+ZDB-JRNL-050621-1405|Zool. Yb. (Anat.)|Zool. Yb. (Anat.)||
+ZDB-JRNL-050621-1408|Zoologische Abh. St. Mus. Tierk. Dresden|Zoologische Abh. St. Mus. Tierk. Dresden||
+ZDB-JRNL-050621-1411|one computer laser optical disc Cambridge, UK, Company of Biologists.|one computer laser optical disc Cambridge, UK, Company of Biologists.||
+ZDB-JRNL-050621-1415|Organohalogen Compounds|Organohalogen Compounds||
+ZDB-JRNL-050621-189|/II. R.P. Becker, and O. Johari, eds., Chicago, IL: II T Research Inst.|/II. R.P. Becker, and O. Johari, eds., Chicago, IL: II T Research Inst.||
+ZDB-JRNL-050621-192|A.M.Thesis, Washington University|A.M.Thesis, Washington University||
+ZDB-JRNL-050621-195|Acad. Nat. Sci. Philadelphia, Notulae. Nature|Acad. Nat. Sci. Philadelphia, Notulae. Nature||
+ZDB-JRNL-050621-198|Acta Histochem.|Acta Histochem.||
+ZDB-JRNL-050621-201|Acta Soc. Zool. Bohemoslov.|Acta Soc. Zool. Bohemoslov.||
+ZDB-JRNL-050621-204|Acta. Biochim. Biophys. Sin (Shanghai)|Acta. Biochim. Biophys. Sin (Shanghai)||
+ZDB-JRNL-050621-208|Adv. Immunol.|Adv. Immunol.||
+ZDB-JRNL-050621-211|Aging Cell|Aging Cell||
+ZDB-JRNL-050621-214|Alcoholism Clin. Exp. Res.|Alcoholism Clin. Exp. Res.||
+ZDB-JRNL-050621-217|Am. Biotechnol. Lab.|Am. Biotechnol. Lab.||
+ZDB-JRNL-050621-220|Am. J. Med. Genet.|Am. J. Med. Genet.||
+ZDB-JRNL-050621-223|Am. J. Physiol. Heart Circ. Physiol.|Am. J. Physiol. Heart Circ. Physiol.||
+ZDB-JRNL-050621-226|Am. J. Vet. Res.|Am. J. Vet. Res.||
+ZDB-JRNL-050621-229|Am. Zool.|Am. Zool.||
+ZDB-JRNL-050621-232|Amsterdam; New York: Elsevier|Amsterdam; New York: Elsevier||
+ZDB-JRNL-050621-235|Anales. Inst. Biol. Univ. Nacional (Mexico)|Anales. Inst. Biol. Univ. Nacional (Mexico)||
+ZDB-JRNL-050621-238|Anat. Rec.|Anat. Rec.||
+ZDB-JRNL-050621-241|Anim. Biotech.|Anim. Biotech.||
+ZDB-JRNL-050621-244|Ann. Anat.|Ann. Anat.||
+ZDB-JRNL-050621-247|Ann. N.Y. Acad. Sci.|Ann. N.Y. Acad. Sci.||
+ZDB-JRNL-050621-250|Ann. Rev. Neurosci.|Ann. Rev. Neurosci.||
+ZDB-JRNL-050621-253|Annu. Rev. Biochem.|Annu. Rev. Biochem.||
+ZDB-JRNL-050621-256|Annu. Rev. Neurosci.|Annu. Rev. Neurosci.||
+ZDB-JRNL-050621-259|Appl. Biosaf.|Appl. Biosaf.||
+ZDB-JRNL-050621-262|Aqua. Terra. Z.|Aqua. Terra. Z.||
+ZDB-JRNL-050621-265|Aquacult. Res.|Aquacult. Res.||
+ZDB-JRNL-050621-268|Aquar. Aqua Terra|Aquar. Aqua Terra||
+ZDB-JRNL-050621-271|Aquarien Mag.|Aquarien Mag.||
+ZDB-JRNL-050621-274|Aquarium|Aquarium||
+ZDB-JRNL-050621-277|Aquarium Fish. Deposited Doc., VIHITI 2149-82, 7 Avail. VIHITI|Aquarium Fish. Deposited Doc., VIHITI 2149-82, 7 Avail. VIHITI||
+ZDB-JRNL-050621-280|Aquat. Toxicol.|Aquat. Toxicol.||
+ZDB-JRNL-050621-283|Arch. Biol. Liege|Arch. Biol. Liege||
+ZDB-JRNL-050621-286|Arch. Geschwulstforsch.|Arch. Geschwulstforsch.||
+ZDB-JRNL-050621-289|Arch. Oral Biol.|Arch. Oral Biol.||
+ZDB-JRNL-050621-292|Arterioscler. Thromb. Vasc. Biol.|Arterioscler. Thromb. Vasc. Biol.||
+ZDB-JRNL-050621-295|Assay Drug Dev. Technol.|Assay Drug Dev. Technol.||
+ZDB-JRNL-050621-298|Automated Data Submission|Automated Data Submission||
+ZDB-JRNL-050621-301|B.A. Thesis, Whitman College|B.A. Thesis, Whitman College||
+ZDB-JRNL-050621-304|B.S. Thesis, Honors Program, Department of Biology & Biochemistry, University of Houston|B.S. Thesis, Honors Program, Department of Biology & Biochemistry, University of Houston||
+ZDB-JRNL-050621-308|Ball. Zool.|Ball. Zool.||
+ZDB-JRNL-050621-311|Behav. Processes|Behav. Processes||
+ZDB-JRNL-050621-314|Berlin, New York: Springer|Berlin, New York: Springer||
+ZDB-JRNL-050621-319|Biochemical and Biophysical Research Communications|Biochem. Biophys. Res. Commun.||
+ZDB-JRNL-050621-322|Biochem. Mol. Biol. Int.|Biochem. Mol. Biol. Int.||
+ZDB-JRNL-050621-325|Biochem. Soc. Trans.|Biochem. Soc. Trans.||
+ZDB-JRNL-050621-328|Biochim. Biophys. Acta Bio-Energetics|Biochim. Biophys. Acta Bio-Energetics||
+ZDB-JRNL-050621-332|Biochim. Biophys. Acta. Mol. Cell|Biochim. Biophys. Acta. Mol. Cell||
+ZDB-JRNL-050621-335|Bioelectromagnetics|Bioelectromagnetics||
+ZDB-JRNL-050621-338|Biol. Bull.|Biol. Bull.||
+ZDB-JRNL-050621-341|Biol. Chem. Hoppe Seyler|Biol. Chem. Hoppe Seyler||
+ZDB-JRNL-050621-344|Biol. Res.|Biol. Res.||
+ZDB-JRNL-050621-347|Biol. Trace Elem. Res.|Biol. Trace Elem. Res.||
+ZDB-JRNL-050621-35|BMC Biotechnology|BMC Biotechnol.|BioMed Central|
+ZDB-JRNL-050621-352|Bioorg. Med. Chem. Lett.|Bioorg. Med. Chem. Lett.||
+ZDB-JRNL-050621-355|Biosci. Biotechnol. Biochem.|Biosci. Biotechnol. Biochem.||
+ZDB-JRNL-050621-358|Biotechniques|Biotechniques||
+ZDB-JRNL-050621-361|Birth Defects Res. C Embryo Today|Birth Defects Res. C Embryo Today||
+ZDB-JRNL-050621-365|Blood.|Blood.||
+ZDB-JRNL-050621-368|Boll. Soc. Ital. Patol. Ittica|Boll. Soc. Ital. Patol. Ittica||
+ZDB-JRNL-050621-371|Bozeman, MT US Dept. of the Interior, US Fish & Wildlife Service, Bozeman Fish Technology Center|Bozeman, MT US Dept. of the Interior, US Fish & Wildlife Service, Bozeman Fish Technology Center||
+ZDB-JRNL-050621-374|Br. J. Pharmacol.|Br. J. Pharmacol.||
+ZDB-JRNL-050621-377|Brain Res.|Brain Res.||
+ZDB-JRNL-050621-380|Brain Res. Gene Expr. Patterns|Brain Res. Gene Expr. Patterns||
+ZDB-JRNL-050621-383|Brief Funct. Genomic Proteomic.|Brief Funct. Genomic Proteomic.||
+ZDB-JRNL-050621-386|Bull. Eur. Assoc. Fish Pathol.|Bull. Eur. Assoc. Fish Pathol.||
+ZDB-JRNL-050621-389|Bull. N.J. Acad. Sci.|Bull. N.J. Acad. Sci.||
+ZDB-JRNL-050621-392|Bull. Soc. Zool. Fr. Evol. Zool.|Bull. Soc. Zool. Fr. Evol. Zool.||
+ZDB-JRNL-050621-395|Bull. Zool. Surv. India|Bull. Zool. Surv. India||
+ZDB-JRNL-050621-398|C.R. Seances Soc. Biol. Fil.|C.R. Seances Soc. Biol. Fil.||
+ZDB-JRNL-050621-402|Can. Fish. Res. Bd. J.|Can. Fish. Res. Bd. J.||
+ZDB-JRNL-050621-405|Can. J. Physiol. Pharmacol.|Can. J. Physiol. Pharmacol.||
+ZDB-JRNL-050621-408|Cancer|Cancer||
+ZDB-JRNL-050621-411|Cancer Chemother. Rep.|Cancer Chemother. Rep.||
+ZDB-JRNL-050621-414|Cell|Cell|Elsevier|
+ZDB-JRNL-050621-417|Cell Biol. Int. Rep.|Cell Biol. Int. Rep.||
+ZDB-JRNL-050621-420|Cell Commun. Adhes.|Cell Commun. Adhes.||
+ZDB-JRNL-050621-423|Cell Microbiol.|Cell Microbiol.||
+ZDB-JRNL-050621-427|Cell Motility and Cytoskeleton|Cell Motil. Cytoskeleton||
+ZDB-JRNL-050621-430|Cell Tissue Res.|Cell Tissue Res.||
+ZDB-JRNL-050621-433|Cereb. Cortex|Cereb. Cortex||
+ZDB-JRNL-050621-436|Chem. Senses|Chem. Senses||
+ZDB-JRNL-050621-440|Chim. Acta Turc.|Chim. Acta Turc.||
+ZDB-JRNL-050621-443|Chin. Sci. Bull.|Chin. Sci. Bull.||
+ZDB-JRNL-050621-446|Chromosome Res.|Chromosome Res.||
+ZDB-JRNL-050621-449|Clin. Exp. Pharmacol. Physiol.|Clin. Exp. Pharmacol. Physiol.||
+ZDB-JRNL-050621-452|Cold Spring Harb. Symp. Quant. Biol.|Cold Spring Harb. Symp. Quant. Biol.||
+ZDB-JRNL-050621-455|Comment on Nature|Comment on Nature||
+ZDB-JRNL-050621-467|Comp. Func. Genomics|Comp. Func. Genomics||
+ZDB-JRNL-050621-470|Comput. Biol. Chem.|Comput. Biol. Chem.||
+ZDB-JRNL-050621-473|Congenit. Anom. Kyoto|Congenit. Anom. Kyoto||
+ZDB-JRNL-050621-476|Copeia|Copeia||
+ZDB-JRNL-050621-479|Crit. Rev. Oral Biol. Med.|Crit. Rev. Oral Biol. Med.||
+ZDB-JRNL-050621-482|Current biology : CB|Curr. Biol.|Cell Press|
+ZDB-JRNL-050621-485|Curr. Opin. Cardiol.|Curr. Opin. Cardiol.||
+ZDB-JRNL-050621-488|Curr. Opin. Genet. Dev.|Curr. Opin. Genet. Dev.||
+ZDB-JRNL-050621-491|Curr. Opin. Mol. Ther.|Curr. Opin. Mol. Ther.||
+ZDB-JRNL-050621-494|Curr. Pharm. Biotechnol.|Curr. Pharm. Biotechnol.||
+ZDB-JRNL-050621-497|Curr. Sci. Bangalore|Curr. Sci. Bangalore||
+ZDB-JRNL-050621-50|BMC Evolutionary Biology|BMC Evol. Biol.|BioMed Central|
+ZDB-JRNL-050621-502|D.Phil. Thesis, University of Oxford|D.Phil. Thesis, University of Oxford||
+ZDB-JRNL-050621-505|DNA Repair (Amst).|DNA Repair (Amst).||
+ZDB-JRNL-050621-509|Dev. Brain Res.|Dev. Brain Res.||
+ZDB-JRNL-050621-512|Dev. Gen.|Dev. Gen.||
+ZDB-JRNL-050621-515|Dev. Growth Diff.|Dev. Growth Diff.||
+ZDB-JRNL-050621-518|Dev. Psychobiol.|Dev. Psychobiol.||
+ZDB-JRNL-050621-524|Diplom- und Staatsexamensarbeiten, Universitét Freiburg, Germany|Diplom- und Staatsexamensarbeiten, Universitét Freiburg, Germany||
+ZDB-JRNL-050621-527|Diss. Abstr. Int. (C)|Diss. Abstr. Int. (C)||
+ZDB-JRNL-050621-530|Doga Seri C|Doga Seri C||
+ZDB-JRNL-050621-533|Dr./Sci. Thesis, Norges Landbrukshogskole (Norway)|Dr./Sci. Thesis, Norges Landbrukshogskole (Norway)||
+ZDB-JRNL-050621-536|EJB: Electronic J. Biotech.|EJB: Electronic J. Biotech.||
+ZDB-JRNL-050621-539|Ecotoxicol. Environ. Saf.|Ecotoxicol. Environ. Saf.||
+ZDB-JRNL-050621-541|Ecotoxicology: Ecosystematic Evaluations and Methods (Oekotoxikologie, Oekosystemare Ansaetze und Methoden)|Ecotoxicology: Ecosystematic Evaluations and Methods (Oekotoxikologie, Oekosystemare Ansaetze und Methoden)||
+ZDB-JRNL-050621-544|Ekologiya|Ekologiya||
+ZDB-JRNL-050621-547|Endocr. Relat. Cancer|Endocr. Relat. Cancer||
+ZDB-JRNL-050621-550|Endocrine|Endocrine||
+ZDB-JRNL-050621-554|Env. Tox.|Env. Tox.||
+ZDB-JRNL-050621-557|Environ. Contam. Toxicol.|Environ. Contam. Toxicol.||
+ZDB-JRNL-050621-560|Environ. Res.|Environ. Res.||
+ZDB-JRNL-050621-563|Environ. Toxicol.|Environ. Toxicol.||
+ZDB-JRNL-050621-566|Eugene, OR, University of Oregon Press,|Eugene, OR, University of Oregon Press,||
+ZDB-JRNL-050621-569|Eur. J. Cell Biol.|Eur. J. Cell Biol.||
+ZDB-JRNL-050621-572|Eur. J. Morphol.|Eur. J. Morphol.||
+ZDB-JRNL-050621-575|Evol. Int. J. Org. Evol.|Evol. Int. J. Org. Evol.||
+ZDB-JRNL-050621-578|Exp. Brain Res.|Exp. Brain Res.||
+ZDB-JRNL-050621-581|Exp. Gerontol.|Exp. Gerontol.||
+ZDB-JRNL-050621-584|Exp. Physiol.|Exp. Physiol.||
+ZDB-JRNL-050621-587|FASEB J.|FASEB J.||
+ZDB-JRNL-050621-590|FEMS Microbiol. Lett.|FEMS Microbiol. Lett.||
+ZDB-JRNL-050621-593|Fed. Proc.|Fed. Proc.||
+ZDB-JRNL-050621-596|Fish Aquat. Sci.|Fish Aquat. Sci.||
+ZDB-JRNL-050621-599|Fish Physiol. Biochem.|Fish Physiol. Biochem.||
+ZDB-JRNL-050621-601|Fish. Sci.|Fish. Sci.||
+ZDB-JRNL-050621-604|Found. Tools Neur. Mod.|Found. Tools Neur. Mod.||
+ZDB-JRNL-050621-607|Front. Biosci.|Front. Biosci.||
+ZDB-JRNL-050621-610|Gastroenterology|Gastroenterology||
+ZDB-JRNL-050621-613|Gene|Gene|Elsevier|
+ZDB-JRNL-050621-616|Genes Cells|Genes Cells||
+ZDB-JRNL-050621-619|Genesis|Genesis||
+ZDB-JRNL-050621-622|Genet. Res.|Genet. Res.||
+ZDB-JRNL-050621-625|Genetika|Genetika||
+ZDB-JRNL-050621-628|Genome Res.|Genome Res.||
+ZDB-JRNL-050621-631|Gidrobiol. Zh.|Gidrobiol. Zh.||
+ZDB-JRNL-050621-634|Glycoconj. J.|Glycoconj. J.||
+ZDB-JRNL-050621-637|HFSP Workshop on Genetic Control of Vertebrate Development cosponsored by the Human Frontier Science Program, European Science Foundation, and European Molecular Biology Organization, Les Diablerets, Switzerland, May 26-30, 1991. New. Biol.|HFSP Workshop on Genetic Control of Vertebrate Development cosponsored by the Human Frontier Science Program, European Science Foundation, and European Molecular Biology Organization, Les Diablerets, Switzerland, May 26-30, 1991. New. Biol.||
+ZDB-JRNL-050621-640|Hearing Research|Hear. Res.|Elsevier|
+ZDB-JRNL-050621-643|Heredity|Heredity||
+ZDB-JRNL-050621-646|Histochemie|Histochemie||
+ZDB-JRNL-050621-649|Hum. Genet.|Hum. Genet.||
+ZDB-JRNL-050621-652|Hydrobiologia|Hydrobiologia||
+ZDB-JRNL-050621-655|ILAR (Institute for Laboratory Animal Research)|ILAR (Institute for Laboratory Animal Research)||
+ZDB-JRNL-050621-658|Ichthyol. Explor. Freshwaters|Ichthyol. Explor. Freshwaters||
+ZDB-JRNL-050621-661|Immunogenetics|Immunogenetics||
+ZDB-JRNL-050621-665|In A Laboratory Guide to RNA: Isolation, Analysis, and Synthesis, P.A. Krieg, ed., Wiley-Liss, Inc.|In A Laboratory Guide to RNA: Isolation, Analysis, and Synthesis, P.A. Krieg, ed., Wiley-Liss, Inc.||
+ZDB-JRNL-050621-668|In Brain Evolution and Cognition, G. Roth and M.F. Wullimann, eds., New York and Heidelberg: Spektrum Akademischer Verlag and J. Wiley & Sons|In Brain Evolution and Cognition, G. Roth and M.F. Wullimann, eds., New York and Heidelberg: Spektrum Akademischer Verlag and J. Wiley & Sons||
+ZDB-JRNL-050621-671|In Cell-Cell Signaling in Vertebrate Development, E. Robertson, F.R. Maxfield, and H.J. Vogel, eds., Academic Press|In Cell-Cell Signaling in Vertebrate Development, E. Robertson, F.R. Maxfield, and H.J. Vogel, eds., Academic Press||
+ZDB-JRNL-050621-674|In Culture of Specialized Cells, New York: Wiley-Liss|In Culture of Specialized Cells, New York: Wiley-Liss||
+ZDB-JRNL-050621-677|In Development and Regeneration of the Nervous System. (S. Nona, J. Cronly-Dillon, M.J.W. Ferguson, and C. Stafford, eds.)|In Development and Regeneration of the Nervous System. (S. Nona, J. Cronly-Dillon, M.J.W. Ferguson, and C. Stafford, eds.)||
+ZDB-JRNL-050621-680|In Developmental Patterning of the Vertebrate Limb, J.R. Hinchliffe, J. Hurle and D. Summerbell, eds., New York: Plenum Press|In Developmental Patterning of the Vertebrate Limb, J.R. Hinchliffe, J. Hurle and D. Summerbell, eds., New York: Plenum Press||
+ZDB-JRNL-050621-683|In Early Embryonic Development of Animals, W. Hennig, ed. Berlin, New York: Springer-Verlag|In Early Embryonic Development of Animals, W. Hennig, ed. Berlin, New York: Springer-Verlag||
+ZDB-JRNL-050621-686|In Embryos: Color Atlas of Development, London: Wolfe|In Embryos: Color Atlas of Development, London: Wolfe||
+ZDB-JRNL-050621-689|In Fish Development and Genetics - the Zebrafish and Medaka Models. Gong, Z. and Korh, V., Eds. Book series of "Molecular Aspects of Fish and Marine Biology"|In Fish Development and Genetics - the Zebrafish and Medaka Models. Gong, Z. and Korh, V., Eds. Book series of "Molecular Aspects of Fish and Marine Biology"||
+ZDB-JRNL-050621-692|In Fundamentals of Memory Formation: Neuronal Plasticity and Brain Function, H. Rahmann, ed., Fortschritte der Zoologie (Progress in Zoology)|In Fundamentals of Memory Formation: Neuronal Plasticity and Brain Function, H. Rahmann, ed., Fortschritte der Zoologie (Progress in Zoology)||
+ZDB-JRNL-050621-695|In Gene expression and manipulation in aquatic organisms. S.J. Ennion and G. Goldspink, eds., Soc. Exp. Biol. Sem. Ser. 58, Cambridge, UK: Cambridge University Press|In Gene expression and manipulation in aquatic organisms. S.J. Ennion and G. Goldspink, eds., Soc. Exp. Biol. Sem. Ser. 58, Cambridge, UK: Cambridge University Press||
+ZDB-JRNL-050621-698|In In situ hybridization, M. Clark, ed., Germany: Chapman and Hall|In In situ hybridization, M. Clark, ed., Germany: Chapman and Hall||
+ZDB-JRNL-050621-700|In Isozymes: Structure, Function, and Use in Biology and Medicine, Wiley-Liss, Inc.|In Isozymes: Structure, Function, and Use in Biology and Medicine, Wiley-Liss, Inc.||
+ZDB-JRNL-050621-703|In Molecular Approaches Toward Supracellular Phenomena. Roth-S., ed., University of Pennsylvania Press|In Molecular Approaches Toward Supracellular Phenomena. Roth-S., ed., University of Pennsylvania Press||
+ZDB-JRNL-050621-706|In Motion Analysis in Living Cells. Soll-D-R., ed., New York: Wiley-Liss|In Motion Analysis in Living Cells. Soll-D-R., ed., New York: Wiley-Liss||
+ZDB-JRNL-050621-709|In New Developments in Marine Biotechnology|In New Developments in Marine Biotechnology||
+ZDB-JRNL-050621-712|In Pattern Formation in Zebrafish; Results and problems in cell differentiation, L. Solnica-Krezel, ed., Springer-Verlag|In Pattern Formation in Zebrafish; Results and problems in cell differentiation, L. Solnica-Krezel, ed., Springer-Verlag||
+ZDB-JRNL-050621-715|In Physiological and Molecular Mechanisms of Visual Function. Third Great Basin Visual Science Symposium, Salt Lake City: Eccles Ophthalmic Information Resource, University of Utah|In Physiological and Molecular Mechanisms of Visual Function. Third Great Basin Visual Science Symposium, Salt Lake City: Eccles Ophthalmic Information Resource, University of Utah||
+ZDB-JRNL-050621-718|In Progressive Clinical Biological Research, Vol.|In Progressive Clinical Biological Research, Vol.||
+ZDB-JRNL-050621-720|In Signal and Sense, G.M. Edelman, W.E. Gall, and M.W. Cowan, eds., New York: Wiley-Liss|In Signal and Sense, G.M. Edelman, W.E. Gall, and M.W. Cowan, eds., New York: Wiley-Liss||
+ZDB-JRNL-050621-723|In The Assembly of the Nervous System. Landmesser, L.T., ed., New York, NY, USA: Alan R. Liss, Inc.|In The Assembly of the Nervous System. Landmesser, L.T., ed., New York, NY, USA: Alan R. Liss, Inc.||
+ZDB-JRNL-050621-726|In The Nerve Growth Cone. P.C. Letourneau, S.B. Kater, and E.R. Macagno, eds., New York: Raven Press|In The Nerve Growth Cone. P.C. Letourneau, S.B. Kater, and E.R. Macagno, eds., New York: Raven Press||
+ZDB-JRNL-050621-729|In The Zebrafish: Biology. H.W. Detrich, L.I. Zon, and M. Westerfield, eds. Methods Cell Biol.|In The Zebrafish: Biology. H.W. Detrich, L.I. Zon, and M. Westerfield, eds. Methods Cell Biol.||
+ZDB-JRNL-050621-732|In Transgenic Animals - Generation and Use, Part II, Section D, L.M. Houdebine, ed., Harwood Academic Publ.|In Transgenic Animals - Generation and Use, Part II, Section D, L.M. Houdebine, ed., Harwood Academic Publ.||
+ZDB-JRNL-050621-735|In Vertebrate Eye Development, E. Fini, ed., in Results and Problems in Cell Differentiation|In Vertebrate Eye Development, E. Fini, ed., in Results and Problems in Cell Differentiation||
+ZDB-JRNL-050621-738|In Vitro Cell Dev. Biol. Anim.|In Vitro Cell Dev. Biol. Anim.||
+ZDB-JRNL-050621-741|Indian J. Exp. Biol.|Indian J. Exp. Biol.||
+ZDB-JRNL-050621-744|Inst. Vatten-Luftvaardsforsk., [Publ.] B, IVL B 691, 21|Inst. Vatten-Luftvaardsforsk., [Publ.] B, IVL B 691, 21||
+ZDB-JRNL-050621-747|International Journal of Developmental Biology|Int. J. Dev. Biol.||
+ZDB-JRNL-050621-750|Int. J. Hematol.|Int. J. Hematol.||
+ZDB-JRNL-050621-753|International Journal of Oncology|Int. J. Oncol.||
+ZDB-JRNL-050621-756|Int. Rev. Gesamten Hydrobiol.|Int. Rev. Gesamten Hydrobiol.||
+ZDB-JRNL-050621-759|Interactions|Interactions||
+ZDB-JRNL-050621-762|Ischthyol. Aquar. J.|Ischthyol. Aquar. J.||
+ZDB-JRNL-050621-768|J. Acoust. Soc. Am.|J. Acoust. Soc. Am.||
+ZDB-JRNL-050621-771|J. Am. Chem. Soc.|J. Am. Chem. Soc.||
+ZDB-JRNL-050621-765|Izdatel'stvo nauka: Moscow, USSR Inst. Gen. Genet., Acad. Sci. USSR, Moscow, USSR. Panov, E.N. (Ed.). Materialy Tret'ei Vsesoyuznoi Konferentsii po Povedeniyu Zhivotnykh, Tom1. Mekhanizmy Povedeniya, (Proc. 3rd All-Union Conf. Ani. Behav., Vol. 1., Behavi|Izdatel'stvo nauka: Moscow, USSR Inst. Gen. Genet., Acad. Sci. USSR, Moscow, USSR. Panov, E.N. (Ed.). Materialy Tret'ei Vsesoyuznoi Konferentsii po Povedeniyu Zhivotnykh, Tom1. Mekhanizmy Povedeniya, (Proc. 3rd All-Union Conf. Ani. Behav., Vol. 1., Behavi||
+ZDB-JRNL-050621-774|J. Anat.|J. Anat.||
+ZDB-JRNL-050621-777|J. Asia. Soc. Beng.|J. Asia. Soc. Beng.||
+ZDB-JRNL-050621-780|J. Assoc. Res. Otolaryngol.|J. Assoc. Res. Otolaryngol.||
+ZDB-JRNL-050621-783|J. Biol. Chem.|J. Biol. Chem.||
+ZDB-JRNL-050621-786|J. Biomech.|J. Biomech.||
+ZDB-JRNL-050621-790|J. Cell Biol.|J. Cell Biol.||
+ZDB-JRNL-050621-794|J. Cell. Sci.|J. Cell. Sci.||
+ZDB-JRNL-050621-797|J. Clin. Invest. 97:1788-1794. J. Clin. Invest. (11 Suppl) 98:S41-S46|J. Clin. Invest. 97:1788-1794. J. Clin. Invest. (11 Suppl) 98:S41-S46||
+ZDB-JRNL-050621-8|Developmental biology|Dev. Biol.|Elsevier|
+ZDB-JRNL-050621-802|J. Comp. Psychol.|J. Comp. Psychol.||
+ZDB-JRNL-050621-805|J. Dent. Res.|J. Dent. Res.||
+ZDB-JRNL-050621-808|J. Embryol. Exp. Morphol.|J. Embryol. Exp. Morphol.||
+ZDB-JRNL-050621-811|J. Evol. Biol.|J. Evol. Biol.||
+ZDB-JRNL-050621-814|J. Exp. Clin. Cancer Res.|J. Exp. Clin. Cancer Res.||
+ZDB-JRNL-050621-817|J. Exp. Zoolog. B Mol. Dev. Evol.|J. Exp. Zoolog. B Mol. Dev. Evol.||
+ZDB-JRNL-050621-821|J. Fish. Soc. Taiwan|J. Fish. Soc. Taiwan||
+ZDB-JRNL-050621-824|J. Gerontol. A. Biol. Sci. Med. Sci.|J. Gerontol. A. Biol. Sci. Med. Sci.||
+ZDB-JRNL-050621-827|J. Hirnforsch.|J. Hirnforsch.||
+ZDB-JRNL-050621-830|J. Immunol. Methods|J. Immunol. Methods||
+ZDB-JRNL-050621-833|J. Interferon Res.|J. Interferon Res.||
+ZDB-JRNL-050621-836|J. Microsc.|J. Microsc.||
+ZDB-JRNL-050621-839|J. Mol. Evol.|J. Mol. Evol.||
+ZDB-JRNL-050621-842|J. Muscle Res. Cell Motil.|J. Muscle Res. Cell Motil.||
+ZDB-JRNL-050621-845|J. Nat. Prod.|J. Nat. Prod.||
+ZDB-JRNL-050621-848|J. Neurochem.|J. Neurochem.||
+ZDB-JRNL-050621-851|J. Neurogenet.|J. Neurogenet.||
+ZDB-JRNL-050621-854|J. Neurosci.|J. Neurosci.||
+ZDB-JRNL-050621-857|J. Nutr.|J. Nutr.||
+ZDB-JRNL-050621-86|BMC Structural Biology|BMC Struct. Biol.|BioMed Central|
+ZDB-JRNL-050621-862|J. Pharmacol. Exp. Ther.|J. Pharmacol. Exp. Ther.||
+ZDB-JRNL-050621-866|J. Physiol. Lond.|J. Physiol. Lond.||
+ZDB-JRNL-050621-869|J. Soc. Biol.|J. Soc. Biol.||
+ZDB-JRNL-050621-872|J. Steroid Biochem. Mol. Biol.|J. Steroid Biochem. Mol. Biol.||
+ZDB-JRNL-050621-875|J. Submicrosc. Cytol.|J. Submicrosc. Cytol.||
+ZDB-JRNL-050621-878|J. Thromb. Haemost.|J. Thromb. Haemost.||
+ZDB-JRNL-050621-881|J. Tumor Mark. Oncol.|J. Tumor Mark. Oncol.||
+ZDB-JRNL-050621-884|J. Vestib. Res.|J. Vestib. Res.||
+ZDB-JRNL-050621-887|J. Zool. (Lond.)|J. Zool. (Lond.)||
+ZDB-JRNL-050621-893|Lab Anim. (NY)|Lab Anim. (NY)||
+ZDB-JRNL-050621-896|Lab. Anim. Sci.|Lab. Anim. Sci.||
+ZDB-JRNL-050621-899|Life Sci. Space Res.|Life Sci. Space Res.||
+ZDB-JRNL-050621-901|M. Phil. Thesis, Hong Kong University of Science and Technology|M. Phil. Thesis, Hong Kong University of Science and Technology||
+ZDB-JRNL-050621-904|M.A. Thesis, Queens College, New York|M.A. Thesis, Queens College, New York||
+ZDB-JRNL-050621-907|M.Phil. Thesis, Chinese University of Hong Kong|M.Phil. Thesis, Chinese University of Hong Kong||
+ZDB-JRNL-050621-910|M.S. Thesis, Bloomsburg University|M.S. Thesis, Bloomsburg University||
+ZDB-JRNL-050621-913|M.S. Thesis, East Carolina University|M.S. Thesis, East Carolina University||
+ZDB-JRNL-050621-916|M.S. Thesis, Ohio University|M.S. Thesis, Ohio University||
+ZDB-JRNL-050621-919|M.S. Thesis, San Diego State University|M.S. Thesis, San Diego State University||
+ZDB-JRNL-050621-922|M.S. Thesis, Texas A&M University|M.S. Thesis, Texas A&M University||
+ZDB-JRNL-050621-925|M.S. Thesis, The American University|M.S. Thesis, The American University||
+ZDB-JRNL-050621-928|M.S. Thesis, University of California, Irvine|M.S. Thesis, University of California, Irvine||
+ZDB-JRNL-050621-931|M.S. Thesis, University of Maine|M.S. Thesis, University of Maine||
+ZDB-JRNL-050621-934|M.S. Thesis, University of Mississippi|M.S. Thesis, University of Mississippi||
+ZDB-JRNL-050621-937|M.S. Thesis, University of South Carolina|M.S. Thesis, University of South Carolina||
+ZDB-JRNL-050621-940|M.S. Thesis, University of Washington|M.S. Thesis, University of Washington||
+ZDB-JRNL-050621-943|M.S. Thesis, West Georgia College|M.S. Thesis, West Georgia College||
+ZDB-JRNL-050621-946|M.Sc. Thesis, Concordia University|M.Sc. Thesis, Concordia University||
+ZDB-JRNL-050621-949|M.Sc. Thesis, The University of Manitoba (Canada)|M.Sc. Thesis, The University of Manitoba (Canada)||
+ZDB-JRNL-050621-952|M.Sc. Thesis, University of Alberta (Canada)|M.Sc. Thesis, University of Alberta (Canada)||
+ZDB-JRNL-050621-955|M.Sc. Thesis, University of Ottawa (Canada)|M.Sc. Thesis, University of Ottawa (Canada)||
+ZDB-JRNL-050621-958|M.Sc. Thesis, York University (Canada)|M.Sc. Thesis, York University (Canada)||
+ZDB-JRNL-050621-961|Mar. Biotechnol.|Mar. Biotechnol.||
+ZDB-JRNL-050621-964|Mar.Biotechnol.|Mar.Biotechnol.||
+ZDB-JRNL-050621-967|Master's Thesis, Oklahoma A & M College|Master's Thesis, Oklahoma A & M College||
+ZDB-JRNL-050621-970|Master's thesis, Brown University|Master's thesis, Brown University||
+ZDB-JRNL-050621-973|Mech. Ageing Dev.|Mech. Ageing Dev.||
+ZDB-JRNL-050621-976|Med. Sci. Res.|Med. Sci. Res.||
+ZDB-JRNL-050621-979|Meth. Cell. Biol.|Meth. Cell. Biol.||
+ZDB-JRNL-050621-982|Methods|Methods||
+ZDB-JRNL-050621-985|Methods Cell Sci.|Methods Cell Sci.||
+ZDB-JRNL-050621-988|Methods Mol. Med.|Methods Mol. Med.||
+ZDB-JRNL-050621-991|Micros. Acta.|Micros. Acta.||
+ZDB-JRNL-050621-994|Minn. Med.|Minn. Med.||
+ZDB-JRNL-050621-997|Mol. Biol. Rep.|Mol. Biol. Rep.||
+ZDB-JRNL-050623-1|Comparative Biochemistry and Physiology Part A: Molecular and Integrative Physiology|Comp. Biochem. Physiol. A Mol. Integr. Physiol.|Elsevier|
+ZDB-JRNL-050712-1|Current Protocols in Toxicology|Current Protocols in Toxicology|Wiley Interscience|
+ZDB-JRNL-050714-1|Journal of Biotechnology|J. Biotechnol.|Elsevier|
+ZDB-JRNL-050718-1|BMC Bioinformatics|BMC Bioinformatics|BioMed Central|
+ZDB-JRNL-050727-1|Acta Biochimica Polonica|Acta Biochim. Pol.||
+ZDB-JRNL-050803-2|Electrophoresis|Electrophoresis|Wiley InterScience|
+ZDB-JRNL-050818-1|Langmuir|Langmuir|ACS Publications|
+ZDB-JRNL-050823-1|Reproductive Biology and Endocrinolgy|Reprod. Biol. Endocrinol.|BioMed Central|
+ZDB-JRNL-050831-2|PLoS Genetics|PLoS Genet.|Public Library of Science|
+ZDB-JRNL-050907-3|Journal of Biomedical Science|J. Biomed. Sci.|Springer Science+Business Media B.V.|
+ZDB-JRNL-050930-1|Psychopharmacology|Psychopharmacology|Springer|
+ZDB-JRNL-051012-2|Veterinary Immunology and Immunopathology|Vet. Immunol. Immunopathol.||
+ZDB-JRNL-051031-1|Journal of Biomolecular Screening|J. Biomol. Screen.|SAGE|
+ZDB-JRNL-051031-5|European Biophysics Journal|Eur. Biophy. J.|Springer-Verlag GmbH|
+ZDB-JRNL-051031-8|Journal of Experimental Biology Online|Exp. Biol.|The Company of Biologists|
+ZDB-JRNL-051107-2|Computers in Biology and Medicine|Comp. Biol. Med.|Elsevier|
+ZDB-JRNL-051114-1|Microbiology|Microbiology|Society for General Microbiology|
+ZDB-JRNL-051121-3|Journal of Biomedical Optics|J. Biomed. Opt.|Society of Photo-Optical Instrumentation Engineers|
+ZDB-JRNL-051207-3|Progress in Biophysics and Molecular Biology|Prog. Biophys. Mol. Biol.|Elsevier|
+ZDB-JRNL-060105-1|Nature Methods|Nat. Methods|Nature Publishing Group|
+ZDB-JRNL-060124-2|Veterinary Microbiology|Vet. Microbiol.|Elsevier|
+ZDB-JRNL-060210-1|Biochimica et Biophysica Acta (BBA) - Biomembranes|Biochim. Biophys. Acta|Elsevier|
+ZDB-JRNL-060302-2|AJP - Heart and Circulatory Physiology|Am. J Physiol. Heart Circ. Physiol.|American Physiological Society|
+ZDB-JRNL-060308-1|M.S. Thesis, Saint Joseph's University|M.S. Thesis, Saint Joseph's University||
+ZDB-JRNL-060308-3|Ph.D. Thesis, University of Chicago|Ph.D. Thesis, University of Chicago||
+ZDB-JRNL-060308-6|Ph.D. Thesis, Wageningen Universiteit|Ph.D. Thesis, Wageningen Universiteit||
+ZDB-JRNL-060308-9|M.S. Thesis, Medical College of Wisconsin|M.S. Thesis, Medical College of Wisconsin||
+ZDB-JRNL-060315-3|Izv. Akad. Nauk Ser. Biol.|Izv. Akad. Nauk Ser. Biol.||
+ZDB-JRNL-060412-2|Journal of Human Genetics|J. Hum. Genet.|Springer|
+ZDB-JRNL-060418-1|Philosophical transactions of the Royal Society of London|Philos Trans R Soc Lond B Biol Sci.|Royal Society of London|
+ZDB-JRNL-060503-1|ZFIN Historical Data|ZFIN Historical Data||
+ZDB-JRNL-060517-3|Chronobiology International|Chronobiol. Int.|Taylor & Francis Group|
+ZDB-JRNL-060616-2|Endothelium|Endothelium|MetaPress|
+ZDB-JRNL-060623-1|Vaccine|Vaccine|Elsevier|
+ZDB-JRNL-060703-1|BioMetals|Biometals|SpringerLink|
+ZDB-JRNL-060724-1|Protein and Peptide Letters|Protein Pept. Lett.|Ingenta|
+ZDB-JRNL-060807-1|Molecular Biosystems|Mol. Biosyst.||
+ZDB-JRNL-060816-3|Animal Genetics|Anim. Genet.|Blackwell Synergy|
+ZDB-JRNL-060911-1|Genetics Selection Evolution|Genet. Sel. Evol.|EDP Sciences|
+ZDB-JRNL-060921-3|European Journal of Pharmacology|Eur. J. Pharmacol.|Elsevier|
+ZDB-JRNL-061010-1|Protein Science|Protein Sci.||
+ZDB-JRNL-061031-2|Environmental Science and Pollution Research|Environ. Sci. Pollut. Res. Int.|Springer|
+ZDB-JRNL-061116-1|Bioorganic & Medicinal Chemistry|Bioorg. Med. Chem.|Elsevier|
+ZDB-JRNL-061222-1|Mutagenesis|Mutagenesis||
+ZDB-JRNL-061226-1|The Journal of experimental medicine|J. Exp. Med.|Rockefeller University Press|
+ZDB-JRNL-061227-2|Neural Development|Neural Develop.|BioMed Central|
+ZDB-JRNL-061227-5|Molecular & cellular proteomics|Mol. Cell. Proteomics|American Society for Biochemistry and Molecular Biology|
+ZDB-JRNL-061229-3|PLoS One|PLoS One|Public Library of Science|
+ZDB-JRNL-070122-2|Journal of Proteome Research|J. Proteome Res.|ACS Publications|
+ZDB-JRNL-070203-1|Z. Mikrosk. Anat. Forsch.|Z. Mikrosk. Anat. Forsch.||
+ZDB-JRNL-070210-2|Nature Clinical Practice Cardiovascular Medicine|Nat. Clin. Pract. Cardiovasc. Med.|Nature Publishing Group|
+ZDB-JRNL-070210-5|AMIA Annual Symposium proceedings|AMIA Annu. Symp. Proc.||
+ZDB-JRNL-070210-8|Hepatology|Hepatology|Wiley InterScience|
+ZDB-JRNL-070212-3|Conf. Proc. IEEE Eng. Med. Biol. Soc.|Conf. Proc. IEEE Eng. Med. Biol. Soc.||
+ZDB-JRNL-070221-2|Developmental Biology (book)|Developmental Biology|Sinauer Associates|
+ZDB-JRNL-070221-5|Oxford Dictionary of Biochemistry and Molecular Biology|Oxford Dictionary of Biochemistry and Molecular Biology|Oxford University Press, USA|
+ZDB-JRNL-070303-1|PLoS Computational Biology|PLoS Comput. Biol.|PLoS|
+ZDB-JRNL-070303-4|Expert Rev. Mol. Diagn.|Expert Rev. Mol. Diagn.||
+ZDB-JRNL-070330-1|Current Opinion in Neurology|Curr. Opin. Neurol.|Lippincott Williams & Wilkins|
+ZDB-JRNL-070330-4|Journal of the Formosan Medical Association|J. Formos. Med. Assoc.||
+ZDB-JRNL-070427-1|Hematopoietic Stem Cell Development|Hematopoietic Stem Cell Development||
+ZDB-JRNL-070513-1|Pharmacology|Pharmacology|Karger|
+ZDB-JRNL-070523-1|Clinical Pharmacology and Therapeutics|Clin. Pharmacol. Ther.|Nature|
+ZDB-JRNL-070523-5|Current Neurovascular Research|Curr. Neurovasc. Res.|Ingenta connect|
+ZDB-JRNL-070523-8|NMR in Biomedicine|NMR Biomed.||
+ZDB-JRNL-070625-1|Journal of Clinical Oncology|J. Clin. Oncol.||
+ZDB-JRNL-070711-2|Biotechnology and Bioengineering|Biotechnol. Bioeng.|Wiley InterScience|
+ZDB-JRNL-070726-2|Chinese Medical Journal|Chin. Med. J.||
+ZDB-JRNL-070806-1|Zhonghua Yi Xue Za Zhi|Zhonghua Yi Xue Za Zhi||
+ZDB-JRNL-070813-1|Tissue & Cell|Tissue Cell|Elsevier|
+ZDB-JRNL-070813-4|Journal of Experimental Zoology Part A: Ecological Genetics and Physiology|J. Exp. Zool. Part A Ecol. Genet. Physiol.|Wiley InterScience|
+ZDB-JRNL-070827-1|Zhonghua Er Ke Za Zhi|Zhonghua Er Ke Za Zhi||
+ZDB-JRNL-070827-4|J. Photochem. Photobiol. B|J. Photochem. Photobiol. B||
+ZDB-JRNL-070907-3|Cancer and Metastasis Reviews|Cancer Metastasis Rev.|SpringerLink|
+ZDB-JRNL-070912-2|Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology|J. Comp. Physiol. B||
+ZDB-JRNL-070924-1|Reproductive Toxicology|Reprod. Toxicol.|Elsevier|
+ZDB-JRNL-071016-1|Huan Jing Ke Xue.|Huan Jing Ke Xue.||
+ZDB-JRNL-071029-3|Current Eye Research|Curr. Eye Res.||
+ZDB-JRNL-071118-3|Transgenic Research|Transgenic. Res.|SpringerLink|
+ZDB-JRNL-071118-6|Turk. J. Pediatr.|Turk. J. Pediatr.||
+ZDB-JRNL-071129-2|ACS Chemical Biology|ACS Chem. Biol.|ACS Publications|
+ZDB-JRNL-071129-5|Pharmacology & Therapeutics|Pharmacol. Ther.|Elsevier|
+ZDB-JRNL-071210-3|Wei Sheng Wu Xue Bao|Wei Sheng Wu Xue Bao||
+ZDB-JRNL-071227-1|Biol. Rev. Camb. Philos. Soc.|Biol. Rev. Camb. Philos. Soc.||
+ZDB-JRNL-080218-2|Theory Biosci.|Theory Biosci.||
+ZDB-JRNL-080226-2|Current Pharmaceutical Design|Curr. Pharm. Des.|IngentaConnect|
+ZDB-JRNL-080227-1|BMC Physiology|BMC Physiol.|BMC|
+ZDB-JRNL-080311-1|Kidney International|Kidney Int.|Nature|
+ZDB-JRNL-080326-2|Biomineralization (2nd Edition)|Biomineralization (2nd ed.)|Elsevier|
+ZDB-JRNL-080415-1|Transboundary and Emerging diseases|Transbound. Emer. Dis.|Blackwell|
+ZDB-JRNL-080422-1|Virology|Virology|Academic Press|
+ZDB-JRNL-080513-1|Pigment cell & melanoma research|Pigment Cell Melanoma Res.|Blackwell Munksgaard|
+ZDB-JRNL-080515-3|Physics in Medicine and Biology|Phys. Med. Biol.|IOP Publishing|
+ZDB-JRNL-080519-1|Comparative and Functional Genomics|Comp. Funct. Genomics|Hindawi Publishing|
+ZDB-JRNL-080616-1|Trends in reproductive biology|Tren. Reprod. Bio.||
+ZDB-JRNL-080616-4|Proceedings. Biological sciences / The Royal Society|Proc. Biol. Sci.|Royal Society of London|
+ZDB-JRNL-080630-2|Current opinion in microbiology|Curr. Opin. Microbiol.|Current Biology|
+ZDB-JRNL-080630-5|Planta Medica|Planta Med.|George Thieme|
+ZDB-JRNL-080722-2|Cerebellum|Cerebellum|Springer New York|
+ZDB-JRNL-080723-10|University Dissertation, Freiburg (Breisgau)|University Dissertation, Freiburg (Breisgau)||
+ZDB-JRNL-080723-13|M.S. Thesis, University of Wisconsin-Madison.|M.S. Thesis, University of Wisconsin-Madison.||
+ZDB-JRNL-080723-16|M.S. Thesis, University of Oklahoma|M.S. Thesis, University of Oklahoma||
+ZDB-JRNL-080723-2|University Dissertation, Köln|University Dissertation, Köln||
+ZDB-JRNL-080723-6|Ph.D. Thesis, Department of Neurobiology and Anatomy, University of Utah|Ph.D. Thesis, Department of Neurobiology and Anatomy, University of Utah||
+ZDB-JRNL-080723-9|Ph.D. Thesis, Neuroscience Program, University of Utah|Ph.D. Thesis, Neuroscience Program, University of Utah||
+ZDB-JRNL-080801-1|Alternatives to laboratory animals : ATLA|Altern. Lab. Anim.|Fund for the Replacement of Animals in Medical Experiments|
+ZDB-JRNL-080825-3|Toxicology and industrial health|Toxicol. Ind. Health|SAGE Publications|
+ZDB-JRNL-080826-3|Acta crystallographica. Section D, Biological crystallography|Acta Crystallogr. D Biol. Crystallogr.|Published for the International Union of Crystallography by Munksgaard|
+ZDB-JRNL-080826-6|Neurobiology of disease|Neurobiol. Dis.|Academic Press|
+ZDB-JRNL-080908-1|Current protocols in microbiology|Curr. Protoc. Microbiol.|John Wiley|
+ZDB-JRNL-080912-2|Ph.D. Thesis, Wayne State University|Ph.D. Thesis, Wayne State University||
+ZDB-JRNL-080912-5|Ph.D. Thesis, Boston College|Ph.D. Thesis, Boston College||
+ZDB-JRNL-080915-2|International review of cell and molecular biology|Int. Rev. Cell Mol. Biol.|Elsevier|
+ZDB-JRNL-080918-1|Dissertation, Dresden Techn. Univ.|Dissertation, Dresden Techn. Univ.||
+ZDB-JRNL-080918-12|M.Sc. Thesis, Medical Science, University of Auckland|M.Sc. Thesis, Medical Science, University of Auckland||
+ZDB-JRNL-080918-15|Ph.D. Thesis, Medical University of South Carolina|Ph.D. Thesis, Medical University of South Carolina||
+ZDB-JRNL-080918-18|Ph.D. Thesis, York University|Ph.D. Thesis, York University||
+ZDB-JRNL-080918-20|M.Sc. Thesis, McMaster University|M.Sc. Thesis, McMaster University||
+ZDB-JRNL-080918-23|M.A. Thesis, Tamkang University Graduate Institute of Life Sciences|M.A. Thesis, Tamkang University Graduate Institute of Life Sciences||
+ZDB-JRNL-080918-4|Ph.D. Thesis, North Carolina State University.|Ph.D. Thesis, North Carolina State University.||
+ZDB-JRNL-080918-7|B.S. Thesis, Mount Allison University|B.S. Thesis, Mount Allison University||
+ZDB-JRNL-080922-1|Channels (Austin, Tex.)|Channels (Austin)|Landes Bioscience|
+ZDB-JRNL-081008-1|Science signaling|Sci. Signal.|American Association for the Advancement of Science|
+ZDB-JRNL-081013-1|HFSP Journal|HFSP J.|HFSP Publishing|
+ZDB-JRNL-081022-3|Physical review. E, Statistical, nonlinear, and soft matter physics|Phys. Rev. E Stat. Nonlin. Soft Matter Phys.|Published by the American Physical Society through the American Institute of Physics|
+ZDB-JRNL-081029-1|Zhonghua yan ke za zhi|Zhonghua Yan Ke Za Zhi|Chinese Medical Association|
+ZDB-JRNL-081114-1|Journal of ethnopharmacology|J. Ethnopharmacol.|Elsevier Sequoia|
+ZDB-JRNL-081124-1|Molecular Biology Intelligence Unit|Mol. Biol. Int. Unit|Springer New York|
+ZDB-JRNL-081203-2|Zoology (Jena, Germany)|Zoology (Jena)|Urban & Fischer|
+ZDB-JRNL-081203-5|Disease models & mechanisms|Dis. Model. Mech.|Company of Biologists Ltd.|
+ZDB-JRNL-081217-3|Journal of applied toxicology|J. Appl. Toxicol.|John Wiley And Sons|
+ZDB-JRNL-090106-2|Synapse|Synapse|Wiley-Liss|
+ZDB-JRNL-090112-2|Fen zi xi bao sheng wu xue bao = Journal of molecular cell biology|Fen Zi Xi Bao Sheng Wu Xue Bao|Shanghai ke xue ji shu chu ban she|
+ZDB-JRNL-090123-3|Journal of Alzheimer's disease : JAD|J. Alzheimers Dis.|IOS Press|
+ZDB-JRNL-090204-3|Biochemical genetics|Biochem. Genet.|Kluwer Academic/Plenum Publishers|
+ZDB-JRNL-090210-3|Cell biology international|Cell Biol. Int.|Elsevier|
+ZDB-JRNL-090217-2|ACS nano|ACS Nano|American Chemical Society|
+ZDB-JRNL-090225-3|Prostaglandins & other lipid mediators|Prostaglandins Other Lipid Mediat.|Elsevier Science|
+ZDB-JRNL-090302-2|Journal of the American Association for Laboratory Animal Science : JAALAS|J. Am. Assoc. Lab. Anim. Sci.|American Association for Laboratory Animal Science|
+ZDB-JRNL-090310-2|Cell adhesion & migration|Cell Adh. Migr.|Landes Bioscience|
+ZDB-JRNL-090319-1|Experimental & molecular medicine|Exp. Mol. Med.|Korean Society of Medical Biochemistry and Molecular Biology|
+ZDB-JRNL-090407-1|International Journal of Molecular Sciences|Int. J. Mol. Sci.|Molecular Diversity Preservation International|
+ZDB-JRNL-090422-2|In Cell cycle control in vertebrates (J. Kubiak, M.A. Ciemerych and L. Richard-Parpaillon, Eds.)|In Cell cycle control in vertebrates (J. Kubiak, M.A. Ciemerych and L. Richard-Parpaillon, Eds.)|Research Signpost|
+ZDB-JRNL-090505-2|Virus research|Virus Res.|Elsevier Science|
+ZDB-JRNL-090518-2|Small (Weinheim an der Bergstrasse, Germany)|Small|Wiley-VCH|
+ZDB-JRNL-090520-10|Thesis (M.A.) -- National Taiwan University Dept. of Biochemical Science|Thesis (M.A.) -- National Taiwan University Dept. of Biochemical Science||
+ZDB-JRNL-090520-13|Thesis (Ph.D.) - University of Sheffield|Thesis (Ph.D.) - University of Sheffield||
+ZDB-JRNL-090520-16|Thesis, Proefschrift Universiteit Utrecht|Thesis, Proefschrift Universiteit Utrecht||
+ZDB-JRNL-090520-2|Thesis (M.A.) -- National Taiwan University Dept. of Fisheries Science|Thesis (M.A.) -- National Taiwan University Dept. of Fisheries Science||
+ZDB-JRNL-090520-5|Thesis (M.A.)--National Taiwan University Graduate Institute of Oral Biology|Thesis (M.A.)--National Taiwan University Graduate Institute of Oral Biology||
+ZDB-JRNL-090520-8|University Dissertation, Gottingen|University Dissertation, Gottingen||
+ZDB-JRNL-090521-10|M.S. Thesis, Texas State University-San Marcos|M.S. Thesis, Texas State University-San Marcos||
+ZDB-JRNL-090521-13|Ph.D. Thesis, McMaster University|Ph.D. Thesis, McMaster University||
+ZDB-JRNL-090521-16|Ph.D. Thesis, Kent State University|Ph.D. Thesis, Kent State University||
+ZDB-JRNL-090521-19|Ph.D. Thesis, Baylor College of Medicine|Ph.D. Thesis, Baylor College of Medicine||
+ZDB-JRNL-090521-21|M.A. Thesis, University of Maine|M.A. Thesis, University of Maine||
+ZDB-JRNL-090521-24|Ph.D. Thesis, Marquette University|Ph.D. Thesis, Marquette University||
+ZDB-JRNL-090521-27|M.Sc. Thesis, McGill University|M.Sc. Thesis, McGill University||
+ZDB-JRNL-090521-3|Thesis (M.A.)--Chung Shan Medical University Institute of Biochemistry and Biotechnology|Thesis (M.A.)--Chung Shan Medical University Institute of Biochemistry and Biotechnology||
+ZDB-JRNL-090521-32|M.S. Thesis, University of Massachusetts Boston|M.S. Thesis, University of Massachusetts Boston||
+ZDB-JRNL-090521-35|Ph.D. Thesis, University of Oklahoma|Ph.D. Thesis, University of Oklahoma||
+ZDB-JRNL-090521-38|Dissertation, Zugl.: Innsbruck, Univ., Habil.-Schr.|Dissertation, Zugl.: Innsbruck, Univ., Habil.-Schr.||
+ZDB-JRNL-090521-40|M.S. Thesis, University of California, Davis|M.S. Thesis, University of California, Davis||
+ZDB-JRNL-090521-43|Ph.D. Dissertation, University of South Florida|Ph.D. Dissertation, University of South Florida||
+ZDB-JRNL-090521-46|M.S. Thesis, Illinois Institute of Technology|M.S. Thesis, Illinois Institute of Technology||
+ZDB-JRNL-090521-49|University Dissertation, Tübingen|University Dissertation, Tübingen||
+ZDB-JRNL-090521-51|Ph.D. Thesis, University of California, San Diego|Ph.D. Thesis, University of California, San Diego||
+ZDB-JRNL-090521-54|Thesis (Ph. D.)--National Taiwan University Graduate Institute of Zoology|Thesis (Ph. D.)--National Taiwan University Graduate Institute of Zoology||
+ZDB-JRNL-090521-7|Ph.D. Thesis, University of Texas at Austin|Ph.D. Thesis, University of Texas at Austin||
+ZDB-JRNL-090526-1|Nanomedicine : nanotechnology, biology, and medicine|Nanomedicine|Elsevier|
+ZDB-JRNL-090526-4|Thesis (A.B., Honors in Biochemical Sciences), Harvard University|Thesis (A.B., Honors in Biochemical Sciences), Harvard University||
+ZDB-JRNL-090526-7|Eidgen. Techn. Hochschule, Dissertation, Zürich|Eidgen. Techn. Hochschule, Dissertation, Zürich||
+ZDB-JRNL-090527-3|Ph.D. Thesis, National Defense University|Ph.D. Thesis, National Defense University||
+ZDB-JRNL-090529-10|Ph.D. Thesis, University of Idaho|Ph.D. Thesis, University of Idaho||
+ZDB-JRNL-090529-13|Dissertation, Turun yliopisto (Painosalama)|Dissertation, Turun yliopisto (Painosalama)||
+ZDB-JRNL-090529-16|M.A. Thesis, Tzu Chi University|M.A. Thesis, Tzu Chi University||
+ZDB-JRNL-090529-19|Thesis, Flinders University, Dept. of Biotechnology|Thesis, Flinders University, Dept. of Biotechnology||
+ZDB-JRNL-090529-4|Thesis (M.A.)--Chung Shan Medical University Institute of Nutritional Science|Thesis (M.A.)--Chung Shan Medical University Institute of Nutritional Science||
+ZDB-JRNL-090529-7|Ph.D. Thesis, University of Melbourne, Dept. of Surgery|Ph.D. Thesis, University of Melbourne, Dept. of Surgery||
+ZDB-JRNL-090601-1|Nuclear receptor signaling|Nucl. Recept. Signal.|Nuclear Receptor Signaling Atlas|
+ZDB-JRNL-090602-3|Thesis, Abo Akademi University|Thesis, Abo Akademi University||
+ZDB-JRNL-090602-6|Ph.D. Thesis, St. John's University|Ph.D. Thesis, St. John's University||
+ZDB-JRNL-090603-10|M.A. Thesis, Taipei Medical University Graduate Institute of Medical Sciences|M.A. Thesis, Taipei Medical University Graduate Institute of Medical Sciences||
+ZDB-JRNL-090603-13|M.S. Thesis, Stephen F. Austin State University and University of Texas Health Center at Tyler|M.S. Thesis, Stephen F. Austin State University and University of Texas Health Center at Tyler||
+ZDB-JRNL-090603-16|Ph.D. Thesis, Monash University|Ph.D. Thesis, Monash University||
+ZDB-JRNL-090603-19|Honors Thesis, University of South Dakota|Honors Thesis, University of South Dakota||
+ZDB-JRNL-090603-21|M.Sc. Thesis, University of Adelaide, School of Molecular and Biomedical Sciences|M.Sc. Thesis, University of Adelaide, School of Molecular and Biomedical Sciences||
+ZDB-JRNL-090603-24|Ph.D. Thesis, University of London|Ph.D. Thesis, University of London||
+ZDB-JRNL-090603-27|M.S. Thesis, Louisiana State University, Baton Rouge|M.S. Thesis, Louisiana State University, Baton Rouge||
+ZDB-JRNL-090603-3|M.A. Thesis, National Taiwan Ocean University|M.A. Thesis, National Taiwan Ocean University||
+ZDB-JRNL-090603-4|Ph.D. Thesis, University of Mississippi|Ph.D. Thesis, University of Mississippi||
+ZDB-JRNL-090603-7|B.A. Thesis, Reed College|B.A. Thesis, Reed College||
+ZDB-JRNL-090605-1|M.Sc. Thesis, Molecular Medicine, University of Auckland|M.Sc. Thesis, Molecular Medicine, University of Auckland||
+ZDB-JRNL-090605-4|Honors Thesis, Barry University|Honors Thesis, Barry University||
+ZDB-JRNL-090616-2|Molecular psychiatry|Mol. Psychiatry|Nature Publishing Group Specialist Journals|
+ZDB-JRNL-090616-5|Dalton transactions (Cambridge, England : 2003)|Dalton Trans.|Royal Society of Chemistry|
+ZDB-JRNL-090617-2|Hybridoma (2005)|Hybridoma (Larchmt)|Mary Ann Liebert, Inc.|
+ZDB-JRNL-090706-1|International journal of experimental pathology|Int. J. Exp. Pathol.|Blackwell Scientific Publications|
+ZDB-JRNL-090720-1|Circulation journal : official journal of the Japanese Circulation Society|Circ. J.|Japanese Circulation Society|
+ZDB-JRNL-090731-1|Carcinogenesis|Carcinogenesis|Irl Press At Oxford University Press|
+ZDB-JRNL-090807-2|Journal of magnetic resonance (San Diego, Calif. : 1997)|J. Magn. Reson.|Elsevier|
+ZDB-JRNL-090914-1|Rakuno Gakuen Univ.|Rakuno Gakuen Univ.||
+ZDB-JRNL-090914-4|Pest management science|Pest Manag. Sci.|Published for SCI by Wiley|
+ZDB-JRNL-090929-1|Nucleic Acids and Molecular Biology|Nucleic Acids and Molecular Biology|Springer|
+ZDB-JRNL-090929-4|Seminars in pediatric surgery|Semin. Pediatr. Surg.|W.B. Saunders|
+ZDB-JRNL-091023-1|Journal of bacteriology|J. Bacteriol.|American Society for Microbiology|
+ZDB-JRNL-091023-4|International journal of biomedical imaging|Int. J. Biomed. Imaging|Hindawi Pub. Corp.|
+ZDB-JRNL-091023-7|Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine|Appl. Radiat. Isot.|Pergamon Press|
+ZDB-JRNL-091120-2|Heart, lung & circulation|Heart Lung Circ.|Elsevier|
+ZDB-JRNL-091120-5|BMC research notes|BMC Res. Notes|Biomed Central|
