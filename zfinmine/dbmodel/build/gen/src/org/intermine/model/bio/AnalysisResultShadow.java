@@ -1,0 +1,206 @@
+package org.intermine.model.bio;
+
+import org.intermine.objectstore.ObjectStore;
+import org.intermine.objectstore.intermine.NotXmlParser;
+import org.intermine.objectstore.intermine.NotXmlRenderer;
+import org.intermine.objectstore.proxy.ProxyCollection;
+import org.intermine.objectstore.proxy.ProxyReference;
+import org.intermine.util.StringConstructor;
+import org.intermine.util.StringUtil;
+import org.intermine.util.TypeUtil;
+import org.intermine.model.ShadowClass;
+public class AnalysisResultShadow implements AnalysisResult, org.intermine.model.ShadowClass
+{
+    public static final Class shadowOf = AnalysisResult.class;
+    // Attr: org.intermine.model.bio.AnalysisResult.confidence
+    protected java.lang.Float confidence;
+    public java.lang.Float getConfidence() { return confidence; }
+    public void setConfidence(final java.lang.Float confidence) { this.confidence = confidence; }
+
+    // Ref: org.intermine.model.bio.AnalysisResult.analysis
+    protected org.intermine.model.InterMineObject analysis;
+    public org.intermine.model.bio.Analysis getAnalysis() { if (analysis instanceof org.intermine.objectstore.proxy.ProxyReference) { return ((org.intermine.model.bio.Analysis) ((org.intermine.objectstore.proxy.ProxyReference) analysis).getObject()); }; return (org.intermine.model.bio.Analysis) analysis; }
+    public void setAnalysis(final org.intermine.model.bio.Analysis analysis) { this.analysis = analysis; }
+    public void proxyAnalysis(final org.intermine.objectstore.proxy.ProxyReference analysis) { this.analysis = analysis; }
+    public org.intermine.model.InterMineObject proxGetAnalysis() { return analysis; }
+
+    // Col: org.intermine.model.bio.AnalysisResult.dataSets
+    protected java.util.Set<org.intermine.model.bio.DataSet> dataSets = new java.util.HashSet();
+    public java.util.Set<org.intermine.model.bio.DataSet> getDataSets() { return dataSets; }
+    public void setDataSets(final java.util.Set<org.intermine.model.bio.DataSet> dataSets) { this.dataSets = dataSets; }
+    public void addDataSets(final org.intermine.model.bio.DataSet arg) { dataSets.add(arg); }
+
+    // Col: org.intermine.model.bio.Evidence.relations
+    protected java.util.Set<org.intermine.model.bio.Relation> relations = new java.util.HashSet();
+    public java.util.Set<org.intermine.model.bio.Relation> getRelations() { return relations; }
+    public void setRelations(final java.util.Set<org.intermine.model.bio.Relation> relations) { this.relations = relations; }
+    public void addRelations(final org.intermine.model.bio.Relation arg) { relations.add(arg); }
+
+    // Attr: org.intermine.model.InterMineObject.id
+    protected java.lang.Integer id;
+    public java.lang.Integer getId() { return id; }
+    public void setId(final java.lang.Integer id) { this.id = id; }
+
+    public boolean equals(Object o) { return (o instanceof AnalysisResult && id != null) ? id.equals(((AnalysisResult)o).getId()) : this == o; }
+    public int hashCode() { return (id != null) ? id.hashCode() : super.hashCode(); }
+    public String toString() { return "AnalysisResult [analysis=" + (analysis == null ? "null" : (analysis.getId() == null ? "no id" : analysis.getId().toString())) + ", confidence=\"" + confidence + "\", id=\"" + id + "\"]"; }
+    public Object getFieldValue(final String fieldName) throws IllegalAccessException {
+        if ("confidence".equals(fieldName)) {
+            return confidence;
+        }
+        if ("analysis".equals(fieldName)) {
+            if (analysis instanceof ProxyReference) {
+                return ((ProxyReference) analysis).getObject();
+            } else {
+                return analysis;
+            }
+        }
+        if ("dataSets".equals(fieldName)) {
+            return dataSets;
+        }
+        if ("relations".equals(fieldName)) {
+            return relations;
+        }
+        if ("id".equals(fieldName)) {
+            return id;
+        }
+        if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+            return TypeUtil.getFieldValue(this, fieldName);
+        }
+        throw new IllegalArgumentException("Unknown field " + fieldName);
+    }
+    public Object getFieldProxy(final String fieldName) throws IllegalAccessException {
+        if ("confidence".equals(fieldName)) {
+            return confidence;
+        }
+        if ("analysis".equals(fieldName)) {
+            return analysis;
+        }
+        if ("dataSets".equals(fieldName)) {
+            return dataSets;
+        }
+        if ("relations".equals(fieldName)) {
+            return relations;
+        }
+        if ("id".equals(fieldName)) {
+            return id;
+        }
+        if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+            return TypeUtil.getFieldProxy(this, fieldName);
+        }
+        throw new IllegalArgumentException("Unknown field " + fieldName);
+    }
+    public void setFieldValue(final String fieldName, final Object value) {
+        if ("confidence".equals(fieldName)) {
+            confidence = (java.lang.Float) value;
+        } else if ("analysis".equals(fieldName)) {
+            analysis = (org.intermine.model.InterMineObject) value;
+        } else if ("dataSets".equals(fieldName)) {
+            dataSets = (java.util.Set) value;
+        } else if ("relations".equals(fieldName)) {
+            relations = (java.util.Set) value;
+        } else if ("id".equals(fieldName)) {
+            id = (java.lang.Integer) value;
+        } else {
+            if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+                TypeUtil.setFieldValue(this, fieldName, value);
+                return;
+            }
+            throw new IllegalArgumentException("Unknown field " + fieldName);
+        }
+    }
+    public Class getFieldType(final String fieldName) {
+        if ("confidence".equals(fieldName)) {
+            return java.lang.Float.class;
+        }
+        if ("analysis".equals(fieldName)) {
+            return org.intermine.model.bio.Analysis.class;
+        }
+        if ("dataSets".equals(fieldName)) {
+            return java.util.Set.class;
+        }
+        if ("relations".equals(fieldName)) {
+            return java.util.Set.class;
+        }
+        if ("id".equals(fieldName)) {
+            return java.lang.Integer.class;
+        }
+        if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+            return TypeUtil.getFieldType(org.intermine.model.bio.AnalysisResult.class, fieldName);
+        }
+        throw new IllegalArgumentException("Unknown field " + fieldName);
+    }
+    public StringConstructor getoBJECT() {
+        if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+            return NotXmlRenderer.render(this);
+        }
+        StringConstructor sb = new StringConstructor();
+        sb.append("$_^org.intermine.model.bio.AnalysisResult");
+        if (confidence != null) {
+            sb.append("$_^aconfidence$_^").append(confidence);
+        }
+        if (analysis != null) {
+            sb.append("$_^ranalysis$_^").append(analysis.getId());
+        }
+        if (id != null) {
+            sb.append("$_^aid$_^").append(id);
+        }
+        return sb;
+    }
+    public void setoBJECT(String notXml, ObjectStore os) {
+        setoBJECT(NotXmlParser.SPLITTER.split(notXml), os);
+    }
+    public void setoBJECT(final String[] notXml, final ObjectStore os) {
+        if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+            throw new IllegalStateException("Class " + getClass().getName() + " does not match code (org.intermine.model.bio.AnalysisResult)");
+        }
+        for (int i = 2; i < notXml.length;) {
+            int startI = i;
+            if ((i < notXml.length) && "aconfidence".equals(notXml[i])) {
+                i++;
+                confidence = Float.valueOf(notXml[i]);
+                i++;
+            }
+            if ((i < notXml.length) &&"ranalysis".equals(notXml[i])) {
+                i++;
+                analysis = new ProxyReference(os, Integer.valueOf(notXml[i]), org.intermine.model.bio.Analysis.class);
+                i++;
+            };
+            if ((i < notXml.length) && "aid".equals(notXml[i])) {
+                i++;
+                id = Integer.valueOf(notXml[i]);
+                i++;
+            }
+            if (startI == i) {
+                throw new IllegalArgumentException("Unknown field " + notXml[i]);
+            }
+        }
+        dataSets = new ProxyCollection(os, this, "dataSets", org.intermine.model.bio.DataSet.class);
+        relations = new ProxyCollection(os, this, "relations", org.intermine.model.bio.Relation.class);
+    }
+    public void addCollectionElement(final String fieldName, final org.intermine.model.InterMineObject element) {
+        if ("dataSets".equals(fieldName)) {
+            dataSets.add((org.intermine.model.bio.DataSet) element);
+        } else if ("relations".equals(fieldName)) {
+            relations.add((org.intermine.model.bio.Relation) element);
+        } else {
+            if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+                TypeUtil.addCollectionElement(this, fieldName, element);
+                return;
+            }
+            throw new IllegalArgumentException("Unknown collection " + fieldName);
+        }
+    }
+    public Class getElementType(final String fieldName) {
+        if ("dataSets".equals(fieldName)) {
+            return org.intermine.model.bio.DataSet.class;
+        }
+        if ("relations".equals(fieldName)) {
+            return org.intermine.model.bio.Relation.class;
+        }
+        if (!org.intermine.model.bio.AnalysisResult.class.equals(getClass())) {
+            return TypeUtil.getElementType(org.intermine.model.bio.AnalysisResult.class, fieldName);
+        }
+        throw new IllegalArgumentException("Unknown field " + fieldName);
+    }
+}

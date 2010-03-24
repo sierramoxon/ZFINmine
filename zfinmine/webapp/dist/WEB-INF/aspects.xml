@@ -1,0 +1,106 @@
+<aspects>
+    <aspect name="Genomics">
+        <subtitle>Genome annotation</subtitle>
+        <icon-image>model/images/genomics.gif</icon-image>
+        <large-image>model/images/genomics.gif</large-image>
+        <intro-text>
+            The gene structure and other genome annotation in ZfinMine are provided by
+            a variety of curated source databases. In most cases ZfinMine includes
+            all genome features that have chromosomal locations.
+        </intro-text>
+        <tile-name>model/genomics.jsp</tile-name>
+        <aspect-source name="GeneDB" url="http://www.genedb.org"/>
+    </aspect>
+    <aspect name="Proteins">
+        <subtitle>Protein and proteomics&lt;br/&gt;data</subtitle>
+        <icon-image>model/images/proteins.png</icon-image>
+        <large-image>model/images/proteins.png</large-image>
+        <intro-text>
+            Protein annotation (including family and domain annotation) from UniProt.
+        </intro-text>
+        <tile-name>model/proteins.jsp</tile-name>
+        <aspect-source name="UniProt" url="http://www.uniprot.org"/>
+    </aspect>
+    <aspect name="Gene Ontology">
+        <subtitle></subtitle>
+        <icon-image>model/images/geneOntology.png</icon-image>
+        <large-image>model/images/geneOntology.png</large-image>
+        <intro-text>
+            Gene Ontology (GO) annotations for &lt;i&gt;Danio rerio&lt;/i&gt;. The GO annotations are 'attached' to
+            Genes and so each Gene has a referenc
+            e (link) to a list of its GO annotations (if available).
+        </intro-text>
+        <tile-name>model/GO.jsp</tile-name>
+        <aspect-source name="Gene Ontology Consortium" url="http://www.geneontology.org/"/>
+    </aspect>
+    <aspect name="PATO Ontology">
+        <subtitle></subtitle>
+        <icon-image>model/images/logo.png</icon-image>
+        <large-image>model/images/logo.png</large-image>
+        <intro-text>
+            Phenotype annotations for &lt;i&gt;Danio rerio&lt;/i&gt;.
+        </intro-text>
+        <tile-name>model/PATO.jsp</tile-name>
+        <aspect-source name=" Obo Foundry" url="http://obofoundry.org/wiki/index.php/PATO:Main_Page"/>
+    </aspect>
+    <aspect name="Gene Expression">
+        <subtitle></subtitle>
+        <icon-image>model/images/logo.png</icon-image>
+        <large-image>model/images/logo.png</large-image>
+        <intro-text>
+            Gene Expression annotations for &lt;i&gt;Danio rerio&lt;/i&gt;.
+        </intro-text>
+        <tile-name>model/zfin.jsp</tile-name>
+        <aspect-source name="ZFIN" url="http://zfin.org"/>
+    </aspect>
+    <aspect name="Antibodies">
+        <subtitle></subtitle>
+        <icon-image>model/images/logo.png</icon-image>
+        <large-image>model/images/logo.png</large-image>
+        <intro-text>
+            Antibodies for &lt;i&gt;Danio rerio&lt;/i&gt;.
+        </intro-text>
+        <tile-name>model/zfin.jsp</tile-name>
+        <aspect-source name="ZFIN" url="http://zfin.org"/>
+    </aspect>
+    <aspect name="Mutants/Morphants/Transgenics">
+        <subtitle></subtitle>
+        <icon-image>model/images/logo.png</icon-image>
+        <large-image>model/images/logo.png</large-image>
+        <intro-text>
+            &lt;i&gt;Danio rerio&lt;/i&gt; genotypes.
+        </intro-text>
+        <tile-name>model/zfin.jsp</tile-name>
+        <aspect-source name="ZFIN" url="http://zfin.org"/>
+    </aspect>
+    <aspect name="Publications">
+        <subtitle></subtitle>
+        <icon-image>model/images/logo.png</icon-image>
+        <large-image>model/images/logo.png</large-image>
+        <intro-text>
+            &lt;i&gt;Danio rerio&lt;/i&gt; Publications.
+        </intro-text>
+        <tile-name>model/zfin.jsp</tile-name>
+        <aspect-source name="ZFIN" url="http://zfin.org"/>
+    </aspect>
+    <aspect name="Zebrafish Anatomy Ontology">
+        <subtitle></subtitle>
+        <icon-image>model/images/logo.png</icon-image>
+        <large-image>model/images/logo.png</large-image>
+        <intro-text>
+            Anatomy annotations and ontology for &lt;i&gt;Danio rerio&lt;/i&gt;.
+        </intro-text>
+        <tile-name>model/ZFA.jsp</tile-name>
+        <aspect-source name="Zebrafish Information Network" url="http://almost.zfin.org"/>
+    </aspect>
+    <aspect name="ZFIN">
+        <subtitle>Zebrafish Information Network&lt;br/&gt;data</subtitle>
+        <icon-image>model/images/zfinlogo.png</icon-image>
+        <large-image>model/images/zfinlogo.png</large-image>
+        <intro-text>
+            Genes,Genotypes,Alleles,GO Annotation,Phenotype and Expression Data
+        </intro-text>
+        <tile-name>model/zfin.jsp</tile-name>
+        <aspect-source name="ZFIN" url="http://almost.zfin.org"/>
+    </aspect>
+</aspects>

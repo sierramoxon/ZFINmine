@@ -1,0 +1,481 @@
+/*
+CSS MUST FOLLOW THE PATTERN:
+ style {
+    list of positioning attributes;
+    list of size/padding/margin;
+    list of anything affecting the content;}
+
+ */
+
+/* =Tag Redefinition
+--------------------------*/
+
+*{
+    padding:0px;
+    margin:0px;}
+
+html, body {
+  margin: 0; padding: 0;
+  font-family: 'Lucida Grande', Verdana, Geneva, Lucida, Helvetica, Arial, sans-serif; font-size: 100%; /* NN4 */}
+
+/* =A */
+a:link { color:#049; text-decoration:none }
+a:visited { color:#049; text-decoration:none }
+a:link:hover { color:#CF4D23; text-decoration:underline }
+a:visited:hover { color:#CF4D23; text-decoration:underline }
+a:link:active { color:#58e; text-decoration:none }
+
+a.extlink , a.extlink:link, a.extlink:visited, a.extlink:active, a.extlink:hover {
+  padding-right: 15px; margin-right: 15px;
+  white-space: nowrap; background: url('../images/extlink.gif') right center no-repeat; }
+
+pre {
+  background-color:#87CEFA;
+  margin:10px;
+  padding:10px;
+  line-height:0.6em;
+  border:1px solid #66CC99;
+}
+
+/* =H */
+h1, h2, h3, h1 a, h1 a:visited, label {
+   color:#5C0075; }
+
+/* =IMG */
+img {
+  border: none;}
+
+/* =FORM */
+form {
+  margin: 0px}
+
+/* =TD */
+table td {
+  font-size: 12px;}
+
+li {
+    margin-left: 30px;}
+    
+
+/* =HEADER TOP
+--------------------------*/
+#headercontainer {
+    width:100%;margin:0;padding:0;
+}
+
+#header {
+    width:1000px;
+    padding:0;margin:0;
+    height:50px;
+    font-size: 12px;
+}
+
+#header h1,
+#header h1 a:link,
+#header h1 a:visited {
+  margin: 0px; padding:0px;margin-top:5px;
+  color:#FFF; font-size: 1.4em; font-weight: bold; float:left;}
+  
+#header p {
+  margin: 20px 0 0 5px;;
+  color:white; font-size: 1em; font-weight: normal;float:left;}
+
+p#version {
+  font-size: 12px; color: #333; font-weight: bold;float:left}
+
+#topnav {
+    padding:5px;
+    margin:0;
+    position:absolute;
+    top:0;
+    right:0;
+    color: #FFF; font: 0.7em Arial,sans-serif;
+    white-space:nowrap;
+}
+
+#topnav  a:link, #topnav a:visited, #topnav{
+    color:#FFF;}
+
+#logo {
+   float:left;
+   margin: 5px;
+}
+
+/* =MENU
+--------------------------*/
+div#menucontainer {
+    clear:both;
+    padding-left:10px;
+    width: 1000px;
+}
+
+ul#nav{
+	font-size: 12px;
+    clear:both;
+    margin-left:10px;margin-bottom:0px;}
+
+ul#nav a{
+    float:left;
+    padding:0px 15px;line-height:2;}
+
+ul#nav,ul#nav li{
+    margin:0px;padding:0px;
+    list-style-type:none;}
+
+ul#nav li{
+    float:left;
+    margin:0px 1px 0px 0px;}
+
+ul#loginbar,ul#loginbar li{
+    margin:0px;padding:0px;
+    list-style-type:none;}
+
+ul#loginbar {
+    font-size:0.8em;
+    font-weight:bold;
+    float:right;
+}
+
+ul#loginbar li {
+    padding-top:5px;
+    float:left;
+}
+
+
+ul#loginbar a {
+    padding:0px 5px;
+}
+
+/* =SUBMENU
+--------------------------*/
+
+div#quicksearch {
+    margin-top:5px;float:right;
+    font-weight:bold; color:white;white-space: nowrap;}
+
+#submenu {
+    clear:both; float:left; width:100%; white-space:nowrap;
+    padding:0px; margin:0; height:36px;
+    color:#CCC; font-size: 12px;}
+    
+#submenufixed {
+    clear:both; width:1000px; white-space:nowrap;
+    padding:0px; margin:0; height:36px;
+    color:#CCC; font-size: 12px;}
+
+#submenudiv {
+    width:990px;
+}
+    
+ul#submenulist li a {
+    float:left;}
+    
+ul#submenulist, ul#submenulist li {
+    padding: 0px; margin:0px; line-height:3;
+    list-style: none;}
+
+ul#submenulist li {
+    float:left;}
+
+/* =DIV
+--------------------------*/
+
+
+#leftCol{
+    width:380px;float:left;}
+
+#rightCol{
+    margin-left:390px;}
+
+#clearLine{
+    clear:both;}
+
+#pagecontentcontainer {
+	/*background: url('../theme/blue_grad.png') repeat-x bottom #F5F0FF;*/margin:0;
+	clear:both;
+} 
+
+#pagecontent {
+  clear:both;
+  background-color:#FFF;
+  text-align:left;
+  width:1000px;
+  margin:0; padding: 10px 0 0 0;}
+
+#pagecontentmax {
+  clear:both;
+  background-color:#FFF;
+  text-align:left;
+  width:100%;
+  margin:0; padding: 10px 0 0 0;}
+
+.clear-both {
+  clear: both;
+  height: 0px;
+  content: "."; visibility: hidden;}
+
+.notLogged {
+    text-align: center;}
+
+.roundcorners, .gradientbox, .plainbox {
+   margin:0px 5px 10px 5px; padding:0;  height: 1%;/**kill peek-a-boo bug**/
+   font-size: 1em;  text-align: left;}
+
+/*.roundcorners {
+    background: url('../images/roundcorner_b_l.png') no-repeat bottom left #F5F0FF;}
+*/
+.pageDesc {
+    padding: 10px; margin: 0 15px 15px 15px;
+    background-color: #F5F0FF; vertical-align: middle; text-align: left;}
+
+.contactButton {
+  clear:both;
+  padding: 4px;
+  background-color: white; text-align: center; font-size: 13px; white-space: nowrap;}
+
+.heading, .heading2 {
+  /*height: 1.5em;*/ /* needed to prevent the peekaboo bug on IE: http://www.positioniseverything.net/explorer/peekaboo.html */
+  /*margin: 0 8px 4px 8px; padding:5px 0px 0px 10px; border: 1px solid #888;*/
+  border:1px solid #888;
+  margin:0 8pt 15px 8px;
+  padding: 5px 15px 5px 15px;
+  line-height: 1.14286;
+  background-color: transparent;
+  font-size: 14px; font-weight:bold; 
+}
+
+div.templateLine {
+  margin-bottom: 5px; margin-top: 5px;}
+
+div.templateDetails {
+  margin-left: 15px;
+  /* needed to prevent the peekaboo bug on IE:
+     http://www.positioniseverything.net/explorer/peekaboo.html */
+  height: 0.01%;}
+
+.boxTopRight {
+  float: right;}
+
+/* disclosure style is default style of <disclosure> element*/
+.body, .disclosure {
+  margin:10px 12px 10px 12px;
+  font-size: 12px; color: #333;}
+
+.box div.title{
+  padding: 5px;border-top: 1px solid #888; border-bottom: 1px solid #888;
+  text-align: left; font-size: 14px; font-weight: bold; background: #eee;color: #333;}
+
+.boxbody {
+  padding-top: 10px;
+  background-color: white;}
+
+.altmessage {
+  font-size: 14px; font-style: italic; text-align: center; color: #888;}
+
+.help {
+  padding: 5px;
+  text-align: right;font-size: 11px;font-weight: normal;}
+
+.box .buildmenu .body {
+  clear: both;
+  border: 1px solid #888;padding: 5px;
+  font-size: 12px;}
+
+.admin-msg {
+  text-align: center;}
+
+div#navtrail{
+    padding:10px 10px 0 0;
+    margin:0 10px 0 10px;
+    font-size:0.7em; text-align:right}
+    
+div#navtrail a:link, div#navtrail a:visited{
+    border-bottom:1px dotted #049;
+}
+
+
+
+/* Default style of <disclosureBody> element*/
+.disclosureBody {
+  margin-left: 20px;
+}
+
+/* Default style of element disclosureHead is style disclosureHead and it should be same as listHeading*/
+.listHeading, .disclosureHead {
+  height: 1.5em; /* needed to prevent the peekaboo bug on IE: http://www.positioniseverything.net/explorer/peekaboo.html */
+  margin: 0px 0px 4px 0px;
+  padding:5px 0px 0px 10px;
+  font-size: 14px; font-weight:bold; white-space: nowrap; background-color: #eee;
+ }
+
+
+/* =SPAN
+-------------------------*/
+.errors {
+  color: #c00;}
+
+.browserline .showing {
+  margin-left: 0px;}
+
+.type {
+  color: #864;}
+
+.modelBrowser .type {
+  color: blue;}
+
+.collectionField {
+  color: green;}
+
+.attributeField {
+  color: green;}
+
+.referenceField {
+  color: green;}
+
+.value {
+  font-family: monospace; font-size: 13px;}
+
+.nullStrike,span.nullStrike a:link {
+/* see #643:    text-decoration: line-through; */
+  color: #888;}
+
+.smallnote {
+  line-height:2em;
+  font-size: 11px;}
+
+.tag {
+  white-space: nowrap; color: #444;}
+
+.helpnote {
+  position:absolute;
+  width:200px; padding:10px; z-index: 100;
+  background:#FFF;border:green 1px solid;
+  white-space: normal;
+}
+
+.fakelink{
+  color:#049; cursor: pointer;}
+
+.fakelink:hover{
+  color:#CF4D23; text-decoration:underline;}
+
+.fakelink:active {
+  color:#58e; text-decoration:none}
+
+  /* Genomics (12 results) */
+.templateResultsToggle {
+    font-size:0.8em;
+    text-align:right;
+ }
+
+/* =H
+-------------------------*/
+
+.roundcorners h1, .gradientbox h1, .plainbox h1{
+    margin:0; padding:0px;
+    font-size:1.5em;}
+
+.imbox h3{float:left;font-size:1.4em;color:white;}
+
+.body h3 {
+  margin-top: 10px;}
+
+
+
+/* =P
+-------------------------*/
+.roundcorners p, .gradientbox p, .plainbox p {
+    background:none;}
+
+.pageDesc p {
+    background:none;}
+
+.box p {
+  padding-top: 5px;}
+
+/* =A
+-------------------------*/
+.imbox a{
+    color:white;}
+
+.imbox a:hover{
+    color:white;text-decoration: underline;}
+
+a.constraintDesc {
+  font-size: 11px; font-style: italic; color: #333;}
+
+a.constraintId {
+  font-size: 10px; color: green;}
+
+/* ???? */
+a.brokenTmplLink {
+  color: #d00;}
+
+/* =IMG
+-------------------------*/
+.roundcorners img, .gradientbox img, .plainbox img{
+    padding:0px; margin:0px;}
+
+.arrow {
+    vertical-align: middle;}
+
+/* ??? */
+img.fasta {
+  margin-top: 3px; vertical-align: text-bottom;}
+
+/* =TABLE
+-------------------------*/
+table#headertable{
+    width:100%; margin:0px;padding:0px;}
+
+/* =SUB
+-------------------------*/
+.heading sub, .heading sup {
+  line-height: 0;}
+
+/* =HR
+-------------------------*/
+hr.seperator {
+  border: 0px; height: 1px;
+  color: #ccc; background-color: #ccc;}
+
+/* =LISTS
+-------------------------*/
+
+
+#sidebar li {
+    margin-left: 20px;}
+
+/*.roundcorners dl {
+    margin:0; padding:0 0 0 5px;
+    background: url('../images/roundcorner_t_l.png') no-repeat top left; }
+
+.roundcorners dt {
+    padding:0 0 5px 10px; margin:0;
+    background: url('../images/roundcorner_t_r.png') no-repeat top right; }
+
+.roundcorners dd {
+    padding:10px; margin:0;
+    background: url('../images/roundcorner_b_r.png') no-repeat bottom right;}
+*/
+
+/* CHECK THIS IS ACTUALLY NEEDED*/
+ul#nav,ul#nav li{
+    margin:0px;padding:0px;
+    list-style-type:none;}
+
+ul#nav{
+    clear:both;
+    margin-left:10px;}
+
+ul#nav li{
+    float:left;
+    margin:0px 1px 0px 0px;}
+
+div#ui-datepicker-div {
+    z-index: 99999;
+}
+
+div#ui-datepicker-control {
+    background: #655;
+}

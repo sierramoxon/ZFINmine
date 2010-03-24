@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<database name="">
+    <table name="UserProfile">
+        <column name="username" type="LONGVARCHAR"/>
+        <column name="id" type="INTEGER" required="true"/>
+        <column name="password" type="LONGVARCHAR"/>
+        <unique name="UserProfile_pkey">
+            <unique-column name="id"/>
+        </unique>
+    </table>
+    <table name="SavedBag">
+        <column name="osbId" type="INTEGER" required="true"/>
+        <column name="id" type="INTEGER" required="true"/>
+        <column name="dateCreated" type="BIGINT"/>
+        <column name="description" type="LONGVARCHAR"/>
+        <column name="name" type="LONGVARCHAR"/>
+        <column name="type" type="LONGVARCHAR"/>
+        <column name="userProfileId" type="INTEGER"/>
+        <unique name="SavedBag_pkey">
+            <unique-column name="id"/>
+        </unique>
+    </table>
+    <table name="SavedQuery">
+        <column name="id" type="INTEGER" required="true"/>
+        <column name="query" type="LONGVARCHAR"/>
+        <column name="userProfileId" type="INTEGER"/>
+        <unique name="SavedQuery_pkey">
+            <unique-column name="id"/>
+        </unique>
+    </table>
+    <table name="SavedTemplateQuery">
+        <column name="templateQuery" type="LONGVARCHAR"/>
+        <column name="id" type="INTEGER" required="true"/>
+        <column name="userProfileId" type="INTEGER"/>
+        <unique name="SavedTemplateQuery_pkey">
+            <unique-column name="id"/>
+        </unique>
+    </table>
+    <table name="Tag">
+        <column name="id" type="INTEGER" required="true"/>
+        <column name="objectIdentifier" type="LONGVARCHAR"/>
+        <column name="tagName" type="LONGVARCHAR"/>
+        <column name="type" type="LONGVARCHAR"/>
+        <column name="userProfileId" type="INTEGER"/>
+        <unique name="Tag_pkey">
+            <unique-column name="id"/>
+        </unique>
+    </table>
+    <table name="TemplateSummary">
+        <column name="summary" type="LONGVARCHAR"/>
+        <column name="id" type="INTEGER" required="true"/>
+        <column name="templateId" type="INTEGER"/>
+        <unique name="TemplateSummary_pkey">
+            <unique-column name="id"/>
+        </unique>
+    </table>
+    <table name="intermine_metadata">
+        <column name="key" type="LONGVARCHAR"/>
+        <column name="value" type="LONGVARCHAR"/>
+        <column name="blob_value" type="LONGVARBINARY"/>
+    <unique name="intermine_metadata_key">
+        <unique-column name="key"/>
+    </unique>
+    </table>
+    <table name="osbag_int">
+        <column name="bagid" type="INTEGER"/>
+        <column name="value" type="INTEGER"/>
+        <unique name="osbag_int_index1">
+            <unique-column name="bagid"/>
+            <unique-column name="value"/>
+        </unique>
+        <index name="osbag_int_index2">
+            <index-column name="value"/>
+            <index-column name="bagid"/>
+        </index>
+    </table>
+    <table name="clob">
+        <column name="clobid" type="INTEGER"/>
+        <column name="clobpage" type="INTEGER"/>
+        <column name="value" type="LONGVARCHAR"/>
+        <unique name="clob_index">
+            <unique-column name="clobid"/>
+            <unique-column name="clobpage"/>
+        </unique>
+    </table>
+</database>

@@ -1,0 +1,7 @@
+<project name="zfinmine-postprocess" default="default" basedir=".">
+
+  <description>perform post processing for zfinmine</description>
+
+  <import file="../../imbuild/postprocess.xml"/>
+
+</project>
