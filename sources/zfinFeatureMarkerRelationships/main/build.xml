@@ -1,0 +1,4 @@
+<project name="zfinFeatureMarkerRelationships-tasks" default="default" basedir=".">
+  <description>build zfinFeatureMarkerRelationships tasks</description>
+  <import file="../../../../imbuild/library.xml"/> 
+</project>

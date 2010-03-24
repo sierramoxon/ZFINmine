@@ -1,0 +1,11 @@
+Expression.key_primaryIdentifier=primaryIdentifier
+Gene.key_primaryidentifier =primaryIdentifier
+EFG.key_primaryIdentifier =primaryIdentifier
+Antibody.key_primaryIdentifier =primaryIdentifier
+GenotypeEnvironment.key_primaryIdentifier =primaryIdentifier
+ExpressionResult.key_primaryIdentifier =primaryIdentifier
+RNAClone.key_primaryIdentifier =primaryIdentifier
+ZFATerm.key_identifier=identifier
+GOTerm.key_identifier=identifier
+Figure.key_primaryIdentifier = primaryIdentifier
+Publication.key_primaryIdentifier = primaryIdentifier

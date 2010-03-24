@@ -1,0 +1,4 @@
+<project name="zfinFigures-tasks" default="default" basedir=".">
+  <description>build zfinFigures tasks</description>
+  <import file="../../../../imbuild/library.xml"/> 
+</project>

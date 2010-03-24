@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="moxy.uoregon.edu" name="org.intermine.bio.dataconversion.ZfinExpressionConverterTest" tests="1" time="0.228" timestamp="2010-03-11T22:33:25">
+  <properties>
+    <property name="front.of.classpath" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/classes" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="javac.source" value="1.5" />
+    <property name="mine.name" value="bio" />
+    <property name="java.home" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home" />
+    <property name="have.intermine.properties.dir" value="true" />
+    <property name="tests.xml.basedir" value="/Users/sierramoxon/Intermine/imbuild" />
+    <property name="ENV.TERM_PROGRAM_VERSION" value="240.2" />
+    <property name="ENV.LANG" value="en_US.UTF-8" />
+    <property name="ENV.LD_LIBRARY_PATH" value="/Library/PostgresPlus/8.4/lib" />
+    <property name="java.endorsed.dirs" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/endorsed" />
+    <property name="ENV.SSH_AUTH_SOCK" value="/tmp/launch-L2966a/Listeners" />
+    <property name="src.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/src" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="compile.dependencies" value="bio/sources/zfin_expression/main, intermine/integrate/test, bio/test-all/dbmodel" />
+    <property name="ENV.TOMCAT_HOME" value="/Library/apache-tomcat-5.5.28/" />
+    <property name="java.vendor.url" value="http://www.apple.com/" />
+    <property name="java.version" value="1.5.0_22" />
+    <property name="ENV.JAVA_MAIN_CLASS_95631" value="org.apache.tools.ant.launch.Launcher" />
+    <property name="jikes.class.path" value=":/Library/Java/Home/../Classes/charsets.jar:/Library/Java/Home/../Classes/classes.jar:/Library/Java/Home/../Classes/dt.jar:/Library/Java/Home/../Classes/jce.jar:/Library/Java/Home/../Classes/jconsole.jar:/Library/Java/Home/../Classes/jsse.jar:/Library/Java/Home/../Classes/laf.jar:/Library/Java/Home/../Classes/ui.jar" />
+    <property name="javac.debug" value="on" />
+    <property name="build.task.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/main" />
+    <property name="java.vendor.url.bug" value="http://bugreport.apple.com/" />
+    <property name="ENV.HOME" value="/Users/sierramoxon" />
+    <property name="ENV.CATALINA_HOME" value="/Library/apache-tomcat-5.5.28" />
+    <property name="generating.code" value="false" />
+    <property name="user.name" value="sierramoxon" />
+    <property name="build.instrumented.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/instrumented" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="ENV.EDITOR" value="/usr/bin/emacs" />
+    <property name="ant.file.tests" value="/Users/sierramoxon/Intermine/imbuild/tests.xml" />
+    <property name="sun.jnu.encoding" value="MacRoman" />
+    <property name="java.runtime.name" value="Java(TM) 2 Runtime Environment, Standard Edition" />
+    <property name="task.xml.basedir" value="/Users/sierramoxon/Intermine/imbuild" />
+    <property name="javac.debuglevel" value="lines,vars,source" />
+    <property name="lib.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/lib" />
+    <property name="ant.file.library" value="/Users/sierramoxon/Intermine/imbuild/library.xml" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="ENV.SHLVL" value="1" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="user.timezone" value="" />
+    <property name="path.separator" value=":" />
+    <property name="build.javadoc.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/javadoc" />
+    <property name="ENV.MANPATH" value="/usr/share/man:/usr/local/share/man:/usr/X11/man:/Library/PostgresPlus/8.4/man" />
+    <property name="file.encoding" value="MacRoman" />
+    <property name="ENV.Apple_PubSub_Socket_Render" value="/tmp/launch-Q2pCmn/Render" />
+    <property name="have.intermine.properties.file" value="true" />
+    <property name="ENV.__CF_USER_TEXT_ENCODING" value="0x1F5:0:0" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ant.file" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build.xml" />
+    <property name="instrument.src.path" value="../main/src/" />
+    <property name="gen.report" value="true" />
+    <property name="ant.file.sources-zfin_expression-test" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build.xml" />
+    <property name="ant.file.task" value="/Users/sierramoxon/Intermine/imbuild/task.xml" />
+    <property name="java.io.tmpdir" value="/var/folders/mo/moBijA3CFoCS7C+ivFoo7E+++TI/-Tmp-/" />
+    <property name="db.bio-fulldata-test.datasource.user" value="staylor" />
+    <property name="user.language" value="en" />
+    <property name="generate.report" value="true" />
+    <property name="ENV.PWD" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test" />
+    <property name="line.separator" value="
+" />
+    <property name="emma.enabled" value="false" />
+    <property name="javac.compilerargs" value="" />
+    <property name="javac.compiler" value="modern" />
+    <property name="jar.compress" value="off" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="library.xml.basedir" value="/Users/sierramoxon/Intermine/imbuild" />
+    <property name="ENV.TERM" value="xterm" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ENV.TERM_PROGRAM" value="Apple_Terminal" />
+    <property name="test.results.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/test/results" />
+    <property name="ENV.PATH" value="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Library/PostgresPlus/8.4/bin:/Library/PostgrePlus/8.4/include" />
+    <property name="java.awt.printerjob" value="apple.awt.CPrinterJob" />
+    <property name="dist.jar" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/dist/sources-zfin_expression-test.jar" />
+    <property name="top.ant.project.name" value="sources-zfin_expression-test" />
+    <property name="ant.version" value="Apache Ant version 1.7.1 compiled on October 13 2009" />
+    <property name="ENV.CATALINA_TMPDIR" value="/Library/apache-tomcat-5.5.28/temp" />
+    <property name="ENV.SECURITYSESSIONID" value="890f60" />
+    <property name="test.excludes" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test" />
+    <property name="gopherProxySet" value="false" />
+    <property name="db.bio-test.datasource.databaseName" value="bio-test" />
+    <property name="db.bio-fulldata-test.datasource.serverName" value="localhost" />
+    <property name="db.bio-test.datasource.serverName" value="localhost" />
+    <property name="build.checkstyle.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/checkstyle" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="mrj.build" value="9M3125" />
+    <property name="ENV.COMMAND_MODE" value="unix2003" />
+    <property name="build.coverage.results.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/coverage" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Server VM" />
+    <property name="mrj.version" value="1050.1.5.0_22-333" />
+    <property name="java.library.path" value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="ENV.USER" value="sierramoxon" />
+    <property name="ant.java.version" value="1.5" />
+    <property name="ENV.ANT_HOME" value="/usr/share/ant" />
+    <property name="basedir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test" />
+    <property name="java.class.version" value="49.0" />
+    <property name="db.bio-test.datasource.password" value="zfinmine" />
+    <property name="test.fork" value="no" />
+    <property name="ant.home" value="/usr/share/ant" />
+    <property name="ENV.SHELL" value="/bin/bash" />
+    <property name="build.coverage.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/coverage" />
+    <property name="ENV.CLASSPATH" value="/usr/share/ant/lib/junit-4.6.jar:/Users/sierramoxon/Intermine" />
+    <property name="instrument.path" value="../main/dist/intermine-objectstore.jar" />
+    <property name="no.dep" value="true" />
+    <property name="sun.boot.library.path" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Libraries" />
+    <property name="build.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build" />
+    <property name="sun.management.compiler" value="HotSpot Server Compiler" />
+    <property name="java.awt.graphicsenv" value="apple.awt.CGraphicsEnvironment" />
+    <property name="emma.lib.path" value="/Users/sierramoxon/Intermine/imbuild/lib/emma.jar:/Users/sierramoxon/Intermine/imbuild/lib/emma_ant.jar" />
+    <property name="build.tmp.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/tmp" />
+    <property name="javadoc.windowtitle" value="sources-zfin_expression-test" />
+    <property name="ENV.TMPDIR" value="/var/folders/mo/moBijA3CFoCS7C+ivFoo7E+++TI/-Tmp-/" />
+    <property name="db.bio-fulldata-test.datasource.password" value="zfinmine" />
+    <property name="ant.project.name" value="sources-zfin_expression-test" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="resources.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/resources" />
+    <property name="awt.toolkit" value="apple.awt.CToolkit" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="java.ext.dirs" value="/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/ext" />
+    <property name="os.version" value="10.5.8" />
+    <property name="user.home" value="/Users/sierramoxon" />
+    <property name="java.vm.vendor" value="Apple Inc." />
+    <property name="user.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test" />
+    <property name="gen.src.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/gen/src" />
+    <property name="ENV.JAVA_HOME" value="/Library/Java/Home" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="db.bio-test.datasource.user" value="staylor" />
+    <property name="java.vm.version" value="1.5.0_22-147" />
+    <property name="java.class.path" value="/usr/share/ant/lib/ant-launcher.jar:/usr/share/ant/lib/junit-4.6.jar:/Users/sierramoxon/Intermine/:/usr/share/ant/lib/ant-antlr.jar:/usr/share/ant/lib/ant-jai.jar:/usr/share/ant/lib/ant-jmf.jar:/usr/share/ant/lib/ant-junit.jar:/usr/share/ant/lib/ant-launcher.jar:/usr/share/ant/lib/ant-nodeps.jar:/usr/share/ant/lib/ant-swing.jar:/usr/share/ant/lib/ant-testutil.jar:/usr/share/ant/lib/ant-trax.jar:/usr/share/ant/lib/ant.jar:/usr/share/ant/lib/xercesImpl.jar:/usr/share/ant/lib/xml-apis.jar" />
+    <property name="ant.library.dir" value="/usr/share/ant/lib" />
+    <property name="os.arch" value="i386" />
+    <property name="build.classes.excludes" value="**/*.java" />
+    <property name="dist.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/dist" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="default.intermine.properties.file" value="../../../default.intermine.test.properties" />
+    <property name="ant.core.lib" value="/usr/share/ant/lib/ant.jar" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="build.model.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/model" />
+    <property name="file.separator" value="/" />
+    <property name="java.runtime.version" value="1.5.0_22-b03-333-9M3125" />
+    <property name="intermine.properties.file" value="intermine-bio-test.properties" />
+    <property name="sun.boot.class.path" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jsfd.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/charsets.jar" />
+    <property name="test.includes" value="**/*Test.class" />
+    <property name="release-suffix" value="" />
+    <property name="test.forkmode" value="once" />
+    <property name="user.country" value="US" />
+    <property name="ENV.DISPLAY" value="/tmp/launch-hOOlRH/:0" />
+    <property name="build.test.resources.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/test/resources" />
+    <property name="javadoc.additionalparam" value="" />
+    <property name="build.classes.dir" value="/Users/sierramoxon/Intermine/bio/sources/zfin_expression/test/build/classes" />
+    <property name="ENV.ANT_OPTS" value="-server -XX:MaxPermSize=256M -Xmx1700m -XX:+UseParallelGC -Xms1700m -XX:SoftRefLRUPolicyMSPerMB=1 -XX:MaxHeapFreeRatio=99" />
+    <property name="ENV.LOGNAME" value="sierramoxon" />
+    <property name="java.vendor" value="Apple Inc." />
+    <property name="javac.target" value="1.5" />
+    <property name="awt.nativeDoubleBuffering" value="true" />
+    <property name="db.bio-fulldata-test.datasource.databaseName" value="bio-fulldata-test" />
+    <property name="java.specification.version" value="1.5" />
+    <property name="sun.arch.data.model" value="32" />
+  </properties>
+  <testcase classname="org.intermine.bio.dataconversion.ZfinExpressionConverterTest" name="testProcess" time="0.183">
+    <failure message="Item collections do not match.
+In expected, not actual: 
+[&lt;item id=&quot;3_1&quot; class=&quot;ExpressionResult&quot;&gt;
+
+  &lt;attribute name=&quot;assay&quot; value=&quot;mRNA in situ hybridization&quot;/&gt;
+
+  &lt;attribute name=&quot;expressionFound&quot; value=&quot;t&quot;/&gt;
+
+  &lt;attribute name=&quot;primaryIdentifier&quot; value=&quot;ZDB-XPATRES-050630-200&quot;/&gt;
+
+  &lt;reference name=&quot;endStage&quot; ref_id=&quot;8_1&quot;/&gt;
+
+  &lt;reference name=&quot;gene&quot; ref_id=&quot;4_1&quot;/&gt;
+
+  &lt;reference name=&quot;genotypeEnvironment&quot; ref_id=&quot;6_1&quot;/&gt;
+
+  &lt;reference name=&quot;probe&quot; ref_id=&quot;5_1&quot;/&gt;
+
+  &lt;reference name=&quot;publication&quot; ref_id=&quot;7_1&quot;/&gt;
+
+  &lt;reference name=&quot;startStage&quot; ref_id=&quot;8_1&quot;/&gt;
+
+  &lt;collection name=&quot;figures&quot;&gt;
+    &lt;reference ref_id=&quot;9_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+, &lt;item id=&quot;8_1&quot; class=&quot;OntologyTerm&quot;&gt;
+
+  &lt;attribute name=&quot;identifier&quot; value=&quot;ZFS:0000026&quot;/&gt;
+
+  &lt;collection name=&quot;dataSets&quot;&gt;
+    &lt;reference ref_id=&quot;1_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+]
+Summary of expected: 
+ExpressionResult - 1 [3_1]
+OntologyTerm - 1 [8_1]
+In actual, not expected: 
+[&lt;item id=&quot;3_1&quot; class=&quot;ExpressionResult&quot;&gt;
+
+  &lt;attribute name=&quot;assay&quot; value=&quot;mRNA in situ hybridization&quot;/&gt;
+
+  &lt;attribute name=&quot;expressionFound&quot; value=&quot;t&quot;/&gt;
+
+  &lt;attribute name=&quot;primaryIdentifier&quot; value=&quot;ZDB-XPATRES-050630-200&quot;/&gt;
+
+  &lt;reference name=&quot;anatomy&quot; ref_id=&quot;8_1&quot;/&gt;
+
+  &lt;reference name=&quot;endStage&quot; ref_id=&quot;8_2&quot;/&gt;
+
+  &lt;reference name=&quot;gene&quot; ref_id=&quot;4_1&quot;/&gt;
+
+  &lt;reference name=&quot;genotypeEnvironment&quot; ref_id=&quot;6_1&quot;/&gt;
+
+  &lt;reference name=&quot;probe&quot; ref_id=&quot;5_1&quot;/&gt;
+
+  &lt;reference name=&quot;publication&quot; ref_id=&quot;7_1&quot;/&gt;
+
+  &lt;reference name=&quot;startStage&quot; ref_id=&quot;8_2&quot;/&gt;
+
+  &lt;collection name=&quot;figures&quot;&gt;
+    &lt;reference ref_id=&quot;9_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+, &lt;item id=&quot;8_1&quot; class=&quot;ZFATerm&quot;&gt;
+
+  &lt;attribute name=&quot;identifier&quot; value=&quot;ZFA:0000128&quot;/&gt;
+
+  &lt;collection name=&quot;dataSets&quot;&gt;
+    &lt;reference ref_id=&quot;1_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+, &lt;item id=&quot;8_2&quot; class=&quot;ZFATerm&quot;&gt;
+
+  &lt;attribute name=&quot;identifier&quot; value=&quot;ZFS:0000026&quot;/&gt;
+
+  &lt;collection name=&quot;dataSets&quot;&gt;
+    &lt;reference ref_id=&quot;1_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+]
+Summary of actual: 
+ExpressionResult - 1 [3_1]
+ZFATerm - 2 [8_2, 8_1]
+" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Item collections do not match.
+In expected, not actual: 
+[&lt;item id=&quot;3_1&quot; class=&quot;ExpressionResult&quot;&gt;
+
+  &lt;attribute name=&quot;assay&quot; value=&quot;mRNA in situ hybridization&quot;/&gt;
+
+  &lt;attribute name=&quot;expressionFound&quot; value=&quot;t&quot;/&gt;
+
+  &lt;attribute name=&quot;primaryIdentifier&quot; value=&quot;ZDB-XPATRES-050630-200&quot;/&gt;
+
+  &lt;reference name=&quot;endStage&quot; ref_id=&quot;8_1&quot;/&gt;
+
+  &lt;reference name=&quot;gene&quot; ref_id=&quot;4_1&quot;/&gt;
+
+  &lt;reference name=&quot;genotypeEnvironment&quot; ref_id=&quot;6_1&quot;/&gt;
+
+  &lt;reference name=&quot;probe&quot; ref_id=&quot;5_1&quot;/&gt;
+
+  &lt;reference name=&quot;publication&quot; ref_id=&quot;7_1&quot;/&gt;
+
+  &lt;reference name=&quot;startStage&quot; ref_id=&quot;8_1&quot;/&gt;
+
+  &lt;collection name=&quot;figures&quot;&gt;
+    &lt;reference ref_id=&quot;9_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+, &lt;item id=&quot;8_1&quot; class=&quot;OntologyTerm&quot;&gt;
+
+  &lt;attribute name=&quot;identifier&quot; value=&quot;ZFS:0000026&quot;/&gt;
+
+  &lt;collection name=&quot;dataSets&quot;&gt;
+    &lt;reference ref_id=&quot;1_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+]
+Summary of expected: 
+ExpressionResult - 1 [3_1]
+OntologyTerm - 1 [8_1]
+In actual, not expected: 
+[&lt;item id=&quot;3_1&quot; class=&quot;ExpressionResult&quot;&gt;
+
+  &lt;attribute name=&quot;assay&quot; value=&quot;mRNA in situ hybridization&quot;/&gt;
+
+  &lt;attribute name=&quot;expressionFound&quot; value=&quot;t&quot;/&gt;
+
+  &lt;attribute name=&quot;primaryIdentifier&quot; value=&quot;ZDB-XPATRES-050630-200&quot;/&gt;
+
+  &lt;reference name=&quot;anatomy&quot; ref_id=&quot;8_1&quot;/&gt;
+
+  &lt;reference name=&quot;endStage&quot; ref_id=&quot;8_2&quot;/&gt;
+
+  &lt;reference name=&quot;gene&quot; ref_id=&quot;4_1&quot;/&gt;
+
+  &lt;reference name=&quot;genotypeEnvironment&quot; ref_id=&quot;6_1&quot;/&gt;
+
+  &lt;reference name=&quot;probe&quot; ref_id=&quot;5_1&quot;/&gt;
+
+  &lt;reference name=&quot;publication&quot; ref_id=&quot;7_1&quot;/&gt;
+
+  &lt;reference name=&quot;startStage&quot; ref_id=&quot;8_2&quot;/&gt;
+
+  &lt;collection name=&quot;figures&quot;&gt;
+    &lt;reference ref_id=&quot;9_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+, &lt;item id=&quot;8_1&quot; class=&quot;ZFATerm&quot;&gt;
+
+  &lt;attribute name=&quot;identifier&quot; value=&quot;ZFA:0000128&quot;/&gt;
+
+  &lt;collection name=&quot;dataSets&quot;&gt;
+    &lt;reference ref_id=&quot;1_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+, &lt;item id=&quot;8_2&quot; class=&quot;ZFATerm&quot;&gt;
+
+  &lt;attribute name=&quot;identifier&quot; value=&quot;ZFS:0000026&quot;/&gt;
+
+  &lt;collection name=&quot;dataSets&quot;&gt;
+    &lt;reference ref_id=&quot;1_1&quot;/&gt;
+  &lt;/collection&gt;
+
+&lt;/item&gt;
+]
+Summary of actual: 
+ExpressionResult - 1 [3_1]
+ZFATerm - 2 [8_2, 8_1]
+
+	at org.intermine.dataconversion.ItemsTestCase.assertEquals(ItemsTestCase.java:63)
+	at org.intermine.bio.dataconversion.ZfinExpressionConverterTest.testProcess(ZfinExpressionConverterTest.java:53)
+</failure>
+  </testcase>
+  <system-out><![CDATA[***java.io.InputStreamReader@617c53
+In expected, not actual: 
+[<item id="3_1" class="ExpressionResult">
+
+  <attribute name="assay" value="mRNA in situ hybridization"/>
+
+  <attribute name="expressionFound" value="t"/>
+
+  <attribute name="primaryIdentifier" value="ZDB-XPATRES-050630-200"/>
+
+  <reference name="endStage" ref_id="8_1"/>
+
+  <reference name="gene" ref_id="4_1"/>
+
+  <reference name="genotypeEnvironment" ref_id="6_1"/>
+
+  <reference name="probe" ref_id="5_1"/>
+
+  <reference name="publication" ref_id="7_1"/>
+
+  <reference name="startStage" ref_id="8_1"/>
+
+  <collection name="figures">
+    <reference ref_id="9_1"/>
+  </collection>
+
+</item>
+, <item id="8_1" class="OntologyTerm">
+
+  <attribute name="identifier" value="ZFS:0000026"/>
+
+  <collection name="dataSets">
+    <reference ref_id="1_1"/>
+  </collection>
+
+</item>
+]
+Summary of expected: 
+ExpressionResult - 1 [3_1]
+OntologyTerm - 1 [8_1]
+In actual, not expected: 
+[<item id="3_1" class="ExpressionResult">
+
+  <attribute name="assay" value="mRNA in situ hybridization"/>
+
+  <attribute name="expressionFound" value="t"/>
+
+  <attribute name="primaryIdentifier" value="ZDB-XPATRES-050630-200"/>
+
+  <reference name="anatomy" ref_id="8_1"/>
+
+  <reference name="endStage" ref_id="8_2"/>
+
+  <reference name="gene" ref_id="4_1"/>
+
+  <reference name="genotypeEnvironment" ref_id="6_1"/>
+
+  <reference name="probe" ref_id="5_1"/>
+
+  <reference name="publication" ref_id="7_1"/>
+
+  <reference name="startStage" ref_id="8_2"/>
+
+  <collection name="figures">
+    <reference ref_id="9_1"/>
+  </collection>
+
+</item>
+, <item id="8_1" class="ZFATerm">
+
+  <attribute name="identifier" value="ZFA:0000128"/>
+
+  <collection name="dataSets">
+    <reference ref_id="1_1"/>
+  </collection>
+
+</item>
+, <item id="8_2" class="ZFATerm">
+
+  <attribute name="identifier" value="ZFS:0000026"/>
+
+  <collection name="dataSets">
+    <reference ref_id="1_1"/>
+  </collection>
+
+</item>
+]
+Summary of actual: 
+ExpressionResult - 1 [3_1]
+ZFATerm - 2 [8_2, 8_1]
+)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

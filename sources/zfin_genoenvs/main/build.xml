@@ -1,0 +1,4 @@
+<project name="zfin_genoenvs-tasks" default="default" basedir=".">
+  <description>build zfin_genoenvs tasks</description>
+  <import file="../../../../imbuild/library.xml"/> 
+</project>

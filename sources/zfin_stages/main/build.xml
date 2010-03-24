@@ -1,0 +1,4 @@
+<project name="zfin_stages-tasks" default="default" basedir=".">
+  <description>build zfin_stages tasks</description>
+  <import file="../../../../imbuild/library.xml"/> 
+</project>

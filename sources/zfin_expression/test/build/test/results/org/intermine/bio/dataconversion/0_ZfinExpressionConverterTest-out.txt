@@ -1,0 +1,92 @@
+***java.io.InputStreamReader@617c53
+In expected, not actual: 
+[<item id="3_1" class="ExpressionResult">
+
+  <attribute name="assay" value="mRNA in situ hybridization"/>
+
+  <attribute name="expressionFound" value="t"/>
+
+  <attribute name="primaryIdentifier" value="ZDB-XPATRES-050630-200"/>
+
+  <reference name="endStage" ref_id="8_1"/>
+
+  <reference name="gene" ref_id="4_1"/>
+
+  <reference name="genotypeEnvironment" ref_id="6_1"/>
+
+  <reference name="probe" ref_id="5_1"/>
+
+  <reference name="publication" ref_id="7_1"/>
+
+  <reference name="startStage" ref_id="8_1"/>
+
+  <collection name="figures">
+    <reference ref_id="9_1"/>
+  </collection>
+
+</item>
+, <item id="8_1" class="OntologyTerm">
+
+  <attribute name="identifier" value="ZFS:0000026"/>
+
+  <collection name="dataSets">
+    <reference ref_id="1_1"/>
+  </collection>
+
+</item>
+]
+Summary of expected: 
+ExpressionResult - 1 [3_1]
+OntologyTerm - 1 [8_1]
+In actual, not expected: 
+[<item id="3_1" class="ExpressionResult">
+
+  <attribute name="assay" value="mRNA in situ hybridization"/>
+
+  <attribute name="expressionFound" value="t"/>
+
+  <attribute name="primaryIdentifier" value="ZDB-XPATRES-050630-200"/>
+
+  <reference name="anatomy" ref_id="8_1"/>
+
+  <reference name="endStage" ref_id="8_2"/>
+
+  <reference name="gene" ref_id="4_1"/>
+
+  <reference name="genotypeEnvironment" ref_id="6_1"/>
+
+  <reference name="probe" ref_id="5_1"/>
+
+  <reference name="publication" ref_id="7_1"/>
+
+  <reference name="startStage" ref_id="8_2"/>
+
+  <collection name="figures">
+    <reference ref_id="9_1"/>
+  </collection>
+
+</item>
+, <item id="8_1" class="ZFATerm">
+
+  <attribute name="identifier" value="ZFA:0000128"/>
+
+  <collection name="dataSets">
+    <reference ref_id="1_1"/>
+  </collection>
+
+</item>
+, <item id="8_2" class="ZFATerm">
+
+  <attribute name="identifier" value="ZFS:0000026"/>
+
+  <collection name="dataSets">
+    <reference ref_id="1_1"/>
+  </collection>
+
+</item>
+]
+Summary of actual: 
+ExpressionResult - 1 [3_1]
+ZFATerm - 2 [8_2, 8_1]
+)
+

@@ -1,0 +1,4 @@
+<project name="zfin_markers-tasks" default="default" basedir=".">
+  <description>build zfin_markers tasks</description>
+  <import file="../../../../imbuild/library.xml"/> 
+</project>

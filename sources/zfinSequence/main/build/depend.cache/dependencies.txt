@@ -1,0 +1,11 @@
+||:org.intermine.bio.dataconversion.ZfinSequenceGFF3RecordHandler
+org.intermine.bio.dataconversion.ZfinSequenceGFF3RecordHandler
+org.intermine.xml.full.Item
+java.util.List
+org.intermine.xml.full.Attribute
+org.intermine.bio.dataconversion.GFF3RecordHandler
+java.util.Map
+org.apache.commons.lang.StringUtils
+org.intermine.bio.io.gff3.GFF3Record
+java.lang.Object
+java.lang.String

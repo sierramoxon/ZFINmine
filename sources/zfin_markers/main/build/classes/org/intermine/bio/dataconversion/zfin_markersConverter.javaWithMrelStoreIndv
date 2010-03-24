@@ -1,0 +1,724 @@
+package org.intermine.bio.dataconversion;
+
+/*
+ * Copyright (C) 2002-2009 FlyMine
+ *
+ * This code may be freely distributed and modified under the
+ * terms of the GNU Lesser General Public Licence.  This should
+ * be distributed with the code.  See the LICENSE file for more
+ * information or http://www.gnu.org/copyleft/lesser.html.
+ *
+ */
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.Reader;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
+import java.io.IOException;
+import java.util.ArrayList;
+
+
+import org.apache.commons.lang.StringUtils;
+import org.apache.log4j.Logger;
+import org.intermine.dataconversion.ItemWriter;
+import org.intermine.metadata.Model;
+import org.intermine.dataconversion.FileConverter;
+import org.intermine.objectstore.ObjectStoreException;
+import org.intermine.util.FormattedTextParser;
+import org.intermine.xml.full.Item;
+import org.xml.sax.SAXException;
+
+/**
+ * DataConverter to load ZFIN marker identifiers from text files
+*/
+public class zfin_markersConverter extends BioFileConverter{
+
+    private static final Logger LOG = Logger.getLogger(zfin_markersConverter.class);
+    protected String organismRefId;
+    private Map<String, Item> regions = new HashMap();
+    private Map<String, Item> snps = new HashMap();
+    private Map<String, Item> markers = new HashMap();
+    private Map<String, Item> mrels = new HashMap();    
+    private Map<String, Item> genes = new HashMap();
+    private Map<String, Item> antibodies = new HashMap();
+    private Map<String, Item> constructs = new HashMap();
+    private Map<String, Item> clones = new HashMap();
+    private Map<String, Item> ests = new HashMap();
+    private Map<String, Item> mrphs = new HashMap();
+    private Map<String, Item> sslps = new HashMap();
+    private Map<String, Item> rapds = new HashMap();
+    private Map<String, Item> stss = new HashMap();
+    private Map<String, Item> geneps = new HashMap();
+    private Map<String, Item> tscripts = new HashMap();
+    private Map<String, Item> cdnas = new HashMap();
+    private Map<String, Item> efgs = new HashMap();    
+    private Set<String> synonyms = new HashSet();
+    
+    /**
+     * Constructor
+     * @param writer the ItemWriter used to handle the resultant items
+     * @param model the Model
+     * @throws ObjectStoreException if an error occurs in storing
+     */
+    public zfin_markersConverter(ItemWriter writer, Model model)
+        throws ObjectStoreException {
+        super(writer, model, "ZFIN", "ZFIN data set");
+	
+        // create and store organism
+        Item organism = createItem("Organism");
+        organism.setAttribute("taxonId", "7955");
+        store(organism);
+        organismRefId = organism.getIdentifier();
+    }  
+
+    public void process(Reader reader) throws Exception, SAXException {
+
+	try {
+            File markersFile = new File("/Users/sierramoxon/zebrafish/zfin_markers/1markers.txt");
+            processMarkers(new FileReader(markersFile));
+        } catch (IOException err) {
+            throw new RuntimeException("error reading markersFile", err);
+        }
+
+        try {
+            File mrelsFile = new File("/Users/sierramoxon/zebrafish/zfin_markers/2mrels.txt");
+	    processMrels(new FileReader(mrelsFile));
+        } catch (IOException err) {
+            throw new RuntimeException("error reading mrelsFile", err);
+	}
+	try {
+	    for (Item gene: genes.values()){
+		store(gene);
+	    }
+	    for(Item genep: geneps.values()){
+		store(genep);
+	    }
+	    for(Item clone: clones.values()){
+		store(clone);
+	    }
+	    for(Item transcript: tscripts.values()){
+		store(transcript);
+	    }	
+	    for(Item region: regions.values()){
+		store(region);
+	    }				
+	    for(Item snp: snps.values()){
+		store(snp);
+	    }			
+	    for(Item marker: markers.values()){
+		store(marker);
+	    }
+            for(Item antibody: antibodies.values()){
+                store(antibody);
+            }
+            for(Item construct: constructs.values()){
+                store(construct);
+            }
+            for(Item est: ests.values()){
+                store(est);
+            }
+            for(Item mrph: mrphs.values()){
+                store(mrph);
+            }
+            for(Item sslp: sslps.values()){
+                store(sslp);
+            }
+            for(Item rapd: rapds.values()){
+                store(rapd);
+            }
+            for(Item sts: stss.values()){
+                store(sts);
+            }
+            for(Item cdna: cdnas.values()){
+                store(cdna);
+            }
+            for(Item efg: efgs.values()){
+                store(efg);
+            }
+	    for(Item mrel: mrels.values()){
+		if (mrel.getAttribute("primaryIdentifier").getValue().equals("ZDB-MREL-040426-1651")){
+		    System.out.println("Store mrel ZDB-MREL-040426-1651 again.");
+		}
+                store(mrel);
+	    }
+	    
+	}
+	    catch (ObjectStoreException e){
+		throw new SAXException(e);
+	}
+
+	try {
+            for(Item mrel: mrels.values()){
+                store(mrel);
+	    }          
+	}   
+	catch (ObjectStoreException e){
+	    throw new SAXException(e);
+	}	
+    }
+
+    public void processMrels(Reader reader) throws Exception {
+
+        Iterator lineIter = FormattedTextParser.parseDelimitedReader(reader,'|');
+
+        while (lineIter.hasNext()) {
+            String[] line = (String[]) lineIter.next();
+
+	    //System.out.println(line.length + line[0]);
+	    if (line.length < 3){
+		throw new RuntimeException("Line does not have enough elements: "+ line.length + line[0]);
+	    }     
+	    String primaryIdentifier = line[0];
+            String mrel1 = line[2];
+            String mrel2 = line[3];
+            String mrelType = line[1];
+
+            if (markers.get(mrel1) == null || markers.get(mrel2) == null) { 
+		if (markers.get(mrel1) == null){
+		System.out.println("mrel1 is null:  " + mrel1);
+		}
+		if (markers.get(mrel2) == null){
+		    System.out.println("mrel2 is null:  " + mrel2);
+		}
+		throw new RuntimeException("bad markers for relationship: " + primaryIdentifier);
+            }
+
+            if (!StringUtils.isEmpty(primaryIdentifier)){
+                Item mrel = getMarkerRelationship(primaryIdentifier);
+		Item item1 = getMarker(mrel1);
+		//System.out.println("mrel1"+item1.getAttribute("primaryIdentifier").getValue());
+		Item item2 = getMarker(mrel2);
+		if (item2.getAttribute("primaryIdentifier").getValue().equals("ZDB-EST-031118-16")){
+		    System.out.println("mrel1"+item1.getAttribute("primaryIdentifier").getValue()); 
+		    System.out.println("mrel2"+item2.getAttribute("primaryIdentifier").getValue());
+		}
+		if (!StringUtils.isEmpty(mrel1)) {
+                    mrel.setReference("marker1", getMarker(mrel1));
+                }
+                if (!StringUtils.isEmpty(mrel2)) {
+                    mrel.setReference("marker2", getMarker(mrel2));
+                }
+                if (!StringUtils.isEmpty(mrelType)) {
+                    mrel.setAttribute("type", mrelType);
+                }
+
+		if (mrelType.equals("clone contains gene")) {
+		    item1 = getClone(mrel1);
+		    item2 = getGene(mrel2);
+		    item1.addToCollection("genes",mrel2);
+		    item2.addToCollection("clones",mrel1);
+		}
+		if (mrelType.equals("clone contains transcript")){
+		    item1 = getClone(mrel1);
+		    item2 = getTscript(mrel2);
+		    item1.addToCollection("transcripts",mrel2);
+		    item2.addToCollection("clones",mrel1);
+		}
+		//Todo: clone contains cloneoverlap collection?
+		if (mrelType.equals("clone overlap")){
+		    item1 = getClone(mrel1);
+		    item2 = getClone(mrel2);
+		    item1.addToCollection("overlapsWith",mrel2);
+		    item2.addToCollection("overlapsWith",mrel1);
+		}
+		if (mrelType.equals("coding sequnece of")){
+		    item1 = getGene(mrel1);
+		    item2 = getConstruct(mrel2);
+		    item1.addToCollection("codingSequences", mrel2);
+		    item2.addToCollection("CDS", mrel1);
+		}
+		if (mrelType.equals("gene produces transcript")){
+		    item1 = getGene(mrel1);
+		    item2 = getTscript(mrel2);
+		    item1.addToCollection("transcripts",mrel2);
+		    item2.setReference("gene",mrel1);
+		}
+		if (mrelType.equals("gene product recognized by antibody")){
+		    item1 = getGene(mrel1);
+		    item2 = getAntibody(mrel2);
+		    item1.addToCollection("antibodies",mrel2);
+		    item2.addToCollection("genes",mrel1);
+		}
+		if (mrelType.equals("gene encodes small segment")){
+                    item1 = getGene(mrel1);
+                    item2 = getClone(mrel2);
+                    item1.addToCollection("encodes",mrel2);
+                    item2.addToCollection("genes",mrel1);
+                }
+		if (mrelType.equals("knockdown reagent targets gene")){
+                    item1 = getMrph(mrel1);
+                    item2 = getGene(mrel2);
+                    item1.addToCollection("targets",mrel2);
+                    item2.addToCollection("morpholinos",mrel1);
+                }
+		if (mrelType.equals("clone contains small segment")){
+                    item1 = getClone(mrel1);
+                    item2 = getClone(mrel2);
+                    item1.addToCollection("contains",mrel2);
+                    item2.addToCollection("clones",mrel1);
+                }
+		if (mrelType.equals("contains other features")){
+                    item1 = getConstruct(mrel1);
+                    item2 = getRegion(mrel2);
+                    item1.addToCollection("contains",mrel2);
+                    item2.addToCollection("constructs",mrel1);
+                }
+		if (mrelType.equals("contains polymorphism")){
+                    item1 = getGene(mrel1);
+                    item2 = getSNP(mrel2);
+                    item1.addToCollection("snps",mrel2);
+                    item2.addToCollection("genes",mrel1);
+                }
+		if (mrelType.equals("gene has artifact")){
+                    item1 = getGene(mrel1);
+                    item2 = getClone(mrel2);
+                    item1.addToCollection("artifacts",mrel2);
+                    item2.addToCollection("artifacts",mrel1);
+                }
+		if (mrelType.equals("promoter of")){
+                    item1 = getGene(mrel1);
+                    item2 = getConstruct(mrel2);
+                    item1.addToCollection("promotes",mrel2);
+                    item2.addToCollection("promoters",mrel1);
+                }
+
+		    //try {
+                    //store(mrel);
+		    //store(item1);
+		    //store(item2);
+		    // } catch (ObjectStoreException e) {
+		    // throw new SAXException(e);
+		    //}
+
+	    }
+	    
+	}
+    }
+
+
+    public void processMarkers(Reader reader) throws Exception {
+	
+	Iterator lineIter = FormattedTextParser.parseDelimitedReader(reader,'|');
+	
+	while (lineIter.hasNext()) {
+	    String[] line = (String[]) lineIter.next();
+	    //System.out.println(line[0]);
+	    
+            //System.out.println(line.length + line[0]);
+            if (line.length < 3){
+                throw new RuntimeException("Line does not have enough elements: "+ line.length + line[0]);
+            }
+
+	    String primaryIdentifier = line[0];
+	    String name = line[1];
+	    String abbrev = line[1];
+
+	    
+	    String type = line[2];
+	    
+	    //System.out.println("type" +type);
+
+	    if (!StringUtils.isEmpty(primaryIdentifier)){
+
+		Item marker = getMarker(primaryIdentifier);
+
+		Item item = getMarker(primaryIdentifier);
+
+		if (!StringUtils.isEmpty(name)) {
+		    marker.setAttribute("name", name);
+		    
+		    if (!StringUtils.isEmpty(abbrev)) {
+			marker.setAttribute("abbrev", abbrev);
+		    }
+		    if (!StringUtils.isEmpty(type)) {                                                                     
+			marker.setAttribute("type", type);  
+		       
+			if (type.equals("GENE")) {
+			    item = getGene(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+			    //System.out.println("gene name, type"+item.getAttribute("name").getValue()+" "+item.getAttribute("abbrev").getValue());
+			}
+			if (type.equals("GENEP")){
+			    item = getGeneP(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+			}
+			if (type.equals("SNP")){
+                            item = getSNP(primaryIdentifier);
+                            setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("REGION")){
+                            item = getREGION(primaryIdentifier);
+                            setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("ATB")){
+                            item = getAntibody(primaryIdentifier);
+                            setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("TSCRIPT")){
+			    item = getTscript(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+			}
+                        if (type.equals("MRPHLNO")){
+                            item = getMrph(primaryIdentifier);
+                            setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("EST")){
+			    item = getEST(primaryIdentifier);
+                            setMrkrAttribute(item,name,type,abbrev);
+			}
+			if (type.equals("CDNA")){
+			    item = getCDNA(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+			}
+			if (type.equals("BAC")){
+                            item = getClone(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("FOSMID")){
+                            item = getClone(primaryIdentifier);
+                            setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("PAC")){
+                            item = getClone(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("RAPD")){
+                            item = getRAPD(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("SSLP")){
+                            item = getSSLP(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("STS")){
+                            item = getSTS(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("TGCONSTRCT")){
+                            item = getConstruct(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("GTCONSTRCT")){
+                            item = getConstruct(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("PTCONSTRCT")){
+                            item = getConstruct(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("ETCONSTRCT")){
+                            item = getConstruct(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("EFG")){
+                            item = getEFG(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("BAC_END")){
+                            item = getClone(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+			if (type.equals("PAC_END")){
+                            item = getClone(primaryIdentifier);
+			    setMrkrAttribute(item,name,type,abbrev);
+                        }
+
+		    } 
+		}
+		//		try {
+		    // store(marker);
+		    //System.out.println("item_primaryID"+item.getAttribute("primaryIdentifier").getValue());
+		// store(item);
+		//} catch (ObjectStoreException e) {
+	        //   throw new SAXException(e);
+		//}
+	    }
+	}
+	System.out.println("size of markers" +":" +markers.size());
+	System.out.println("size of genes" +":" +genes.size());
+	System.out.println("size of antibodies" +":" +antibodies.size());
+
+    }
+
+    private void setMrkrAttribute(Item item, String name, String type, String abbrev) 
+        throws SAXException {
+	item.setAttribute("name", name);
+	item.setAttribute("abbrev", abbrev);
+	item.setAttribute("type", type);
+	
+    }
+
+    private Item getGene(String primaryIdentifier)
+        throws SAXException {
+        Item item = genes.get(primaryIdentifier);
+	if (item == null) {
+            item = createItem("Gene");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            genes.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                             
+            //setSynonym(primaryIdentifier, "accession", primaryIdentifier);
+        }
+        return item;
+    }
+    private Item getRegion(String primaryIdentifier)
+	throws SAXException {
+        Item item = regions.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Region");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            regions.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                                         
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                             
+        }
+        return item;
+    }
+
+    private Item getAntibody(String primaryIdentifier)
+        throws SAXException {
+        Item item = antibodies.get(primaryIdentifier);
+	if (item == null) {
+            item = createItem("Antibody");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            antibodies.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                   
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);
+        }
+        return item;
+    }
+
+
+    private Item getGeneP(String primaryIdentifier)
+        throws SAXException {
+        Item item = geneps.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Pseudogene");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            geneps.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                     
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getConstruct(String primaryIdentifier)
+        throws SAXException {
+        Item item = constructs.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Construct");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            constructs.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                    
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getSTS(String primaryIdentifier)
+        throws SAXException {
+        Item item = stss.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("STS");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            stss.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                   
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getSNP(String primaryIdentifier)
+        throws SAXException {
+        Item item = snps.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("SNP");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            snps.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                   
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);
+	}
+	return item;
+    }
+
+    private Item getREGION(String primaryIdentifier)
+	throws SAXException {
+        Item item = regions.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Region");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            regions.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                        
+            //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                            
+        }
+        return item;
+    }
+    private Item getSSLP(String primaryIdentifier)
+        throws SAXException {
+        Item item = sslps.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("SSLP");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            sslps.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                      
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getRAPD(String primaryIdentifier)
+        throws SAXException {
+        Item item = rapds.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("RAPD");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            rapds.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                               
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getClone(String primaryIdentifier)
+        throws SAXException {
+        Item item = clones.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Clone");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            clones.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                    
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getCDNA(String primaryIdentifier)
+        throws SAXException {
+        Item item = cdnas.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("cDNA");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            cdnas.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                 
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getEST(String primaryIdentifier)
+        throws SAXException {
+        Item item = ests.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("EST");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            ests.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                  
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getMrph(String primaryIdentifier)
+        throws SAXException {
+        Item item = mrphs.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Morpholino");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            mrphs.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getTscript(String primaryIdentifier)
+        throws SAXException {
+        Item item = tscripts.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("Transcript");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            tscripts.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                 
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+    private Item getEFG(String primaryIdentifier)
+        throws SAXException {
+        Item item = efgs.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("EFG");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            efgs.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);                                                  
+	    //setSynonym(primaryIdentifier, "accession", primaryIdentifier);                                                                  
+        }
+        return item;
+    }
+
+
+    private Item getMarker(String primaryIdentifier)
+	throws SAXException {
+	Item item = markers.get(primaryIdentifier);
+	if (item == null) {
+	    //if (primaryIdentifier.equals("ZDB-ETCONSTRCT-070409-1")){
+	    //	System.out.println("new ZDB-ETCONSTRCT-070409-1 identifier");
+	    //}
+
+	    item = createItem("Marker");
+	    item.setAttribute("primaryIdentifier", primaryIdentifier);
+	    item.setReference("organism", organismRefId);
+            markers.put(primaryIdentifier, item);
+            //setSynonym(item.getIdentifier(), "identifier", primaryIdentifier);
+            //setSynonym(primaryIdentifier, "accession", primaryIdentifier);
+	}
+	//	if (item.getAttribute("primaryIdentifier").getValue().equals("ZDB-ETCONSTRCT-070409-1")){
+	//  System.out.println("ITEM FOUND AGAIN has ZDB-ETCONSTRCT-070409-1 identifier");
+	//}
+	return item;
+    }
+
+
+    private Item getMarkerRelationship(String primaryIdentifier)
+        throws SAXException {
+        Item item = mrels.get(primaryIdentifier);
+        if (item == null) {
+            item = createItem("MarkerRelationship");
+            item.setAttribute("primaryIdentifier", primaryIdentifier);
+            item.setReference("organism", organismRefId);
+            mrels.put(primaryIdentifier, item);
+        }
+	else if (item.getAttribute("primaryIdentifier").getValue().equals("ZDB-MREL-040426-1651")){
+            System.out.println("Got mrel ZDB-MREL-040426-1651 again.");
+        }
+
+        return item;
+    }
+    
+    private void setSynonym(String subjectRefId, String type, String value)
+	throws SAXException {
+	String key = subjectRefId + type + value;
+	if (!synonyms.contains(key)) {
+	    Item synonym = createItem("Synonym");
+	    synonym.setAttribute("type", type);
+	    synonym.setAttribute("value", value);
+            synonym.setReference("subject", subjectRefId);
+            synonyms.add(key);
+            try {
+                store(synonym);
+            } catch (ObjectStoreException e) {
+                throw new SAXException(e);
+	    }
+	}
+    }
+}
+

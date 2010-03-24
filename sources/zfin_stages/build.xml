@@ -1,0 +1,5 @@
+<project name="zfin_stages" default="default" basedir=".">
+  <description>build, test, package zfin_stages</description>
+  
+  <import file="../../../imbuild/source.xml"/>
+</project>

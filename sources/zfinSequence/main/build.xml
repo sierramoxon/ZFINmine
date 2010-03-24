@@ -1,0 +1,4 @@
+<project name="zfinSequence-tasks" default="default" basedir=".">
+  <description>build zfinSequence tasks</description>
+  <import file="../../../../imbuild/library.xml"/> 
+</project>

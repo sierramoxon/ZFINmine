@@ -1,0 +1,5 @@
+<project name="zfin_genoenvs" default="default" basedir=".">
+  <description>build, test, package zfin_genoenvs</description>
+  
+  <import file="../../../imbuild/source.xml"/>
+</project>

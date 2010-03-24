@@ -1,0 +1,7 @@
+<project name="zfin_pato" default="default" basedir=".">
+  <description>build, test, package zfin_pato</description>
+  
+  <import file="../../../imbuild/source.xml"/>
+  
+</project>
+

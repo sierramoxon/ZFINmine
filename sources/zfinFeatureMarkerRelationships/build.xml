@@ -1,0 +1,5 @@
+<project name="zfinFeatureMarkerRelationships" default="default" basedir=".">
+  <description>build, test, package zfinFeatureMarkerRelationships</description>
+  
+  <import file="../../../imbuild/source.xml"/>
+</project>

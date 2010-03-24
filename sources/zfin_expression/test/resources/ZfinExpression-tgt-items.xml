@@ -1,0 +1,45 @@
+<items>
+<item id="5_1" class="RNAClone">
+<attribute name="primaryIdentifier" value="ZDB-EST-010914-12"/>
+<collection name="dataSets"><reference ref_id="1_1"/></collection>
+</item>
+<item id="1_1" class="DataSet">
+<attribute name="title" value="ZFIN Curated Expression Data Set"/>
+<reference name="dataSource" ref_id="0_1"/>
+</item>
+<item id="4_1" class="Gene">
+<attribute name="primaryIdentifier" value="ZDB-GENE-030516-2"/>
+<collection name="dataSets"><reference ref_id="1_1"/></collection>
+</item>
+<item id="8_1" class="OntologyTerm">
+<attribute name="identifier" value="ZFS:0000026"/>
+<collection name="dataSets"><reference ref_id="1_1"/></collection>
+</item>
+<item id="3_1" class="ExpressionResult">
+<attribute name="assay" value="mRNA in situ hybridization"/>
+<attribute name="expressionFound" value="t"/>
+<attribute name="primaryIdentifier" value="ZDB-XPATRES-050630-200"/>
+<reference name="endStage" ref_id="8_1"/>
+<reference name="gene" ref_id="4_1"/>
+<reference name="genotypeEnvironment" ref_id="6_1"/>
+<reference name="probe" ref_id="5_1"/>
+<reference name="publication" ref_id="7_1"/>
+<reference name="startStage" ref_id="8_1"/>
+<collection name="figures"><reference ref_id="9_1"/></collection>
+</item>
+<item id="2_1" class="Organism">
+<attribute name="taxonId" value="7955"/>
+</item>
+<item id="0_1" class="DataSource">
+<attribute name="name" value="ZFIN"/>
+</item>
+<item id="7_1" class="Publication">
+<attribute name="primaryIdentifier" value="ZDB-PUB-010810-1"/>
+</item>
+<item id="6_1" class="GenotypeEnvironment">
+<attribute name="primaryIdentifier" value="ZDB-GENOX-041102-1429"/>
+</item>
+<item id="9_1" class="Figure">
+<attribute name="primaryIdentifier" value="ZDB-FIG-050630-181"/>
+</item>
+</items>

@@ -1,0 +1,5 @@
+<project name="zfin_pubs" default="default" basedir=".">
+  <description>build, test, package zfin_pubs</description>
+  
+  <import file="../../../imbuild/source.xml"/>
+</project>
