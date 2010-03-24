@@ -1,0 +1,6 @@
+Repository consists of:
+
+data - data to load the mine with
+sources - the data converters used to load the mine with
+zfinmine - the code used to generate zfinmine
+
